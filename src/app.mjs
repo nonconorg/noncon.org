@@ -2,10 +2,11 @@ export const state = {
   title: 'noncon.org',
   description: ['noncon - description'],
 
-  menu: [
-    { to: '/news/', text: 'News' },
-    { to: '/events/', text: 'Events' },
-  ],
+  menu: [],
+  // menu: [
+  //   { to: '/news/', text: 'News' },
+  //   { to: '/events/', text: 'Events' },
+  // ],
 
   hero: {
     // title: 'noncon',
@@ -13,11 +14,11 @@ export const state = {
 
     // content: 'the non con.',
 
-    menu: [
-      { to: '/#about', text: 'about' },
-      { to: '/#venue', text: 'venue' },
-      { to: '/#support', text: 'support' },
-    ],
+    // menu: [
+    //   { to: '/#about', text: 'about' },
+    //   { to: '/#venue', text: 'venue' },
+    //   { to: '/#support', text: 'support' },
+    // ],
   },
 
   footer: {

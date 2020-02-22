@@ -25,7 +25,7 @@ export const View = ({ hero, ...state }) => {
 }
 
 export const style = vars => ({
-  backgroundColor: vars.neutral,
+  backgroundColor: vars.background.dark,
   display: 'inline-block',
   margin: '5vh auto',
   position: 'relative',
@@ -59,14 +59,10 @@ export const style = vars => ({
     },
 
     h1: {
-      color: vars.neutral,
+      color: vars.text.dark,
       fontSize: '2em',
       padding: '0',
       textAlign: 'center',
-
-      span: {
-        color: vars.primary.neutral,
-      },
     },
   },
 
@@ -82,7 +78,7 @@ export const style = vars => ({
     },
 
     a: {
-      color: vars.text.light,
+      color: vars.text.dark,
 
       '&:hover': {
         color: vars.neutral,
@@ -91,7 +87,7 @@ export const style = vars => ({
   },
 
   p: {
-    color: vars.text.light,
+    color: vars.text.dark,
     fontSize: '1.1em',
     textAlign: 'center',
   },
