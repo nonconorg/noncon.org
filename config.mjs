@@ -1,6 +1,6 @@
 export default {
   ROOT: 'src',
-  THEME: 'noncon',
+  THEME: ['project', 'noncon'],
   PUBLIC: 'docs',
 
   WEB_ROOT: '/',
