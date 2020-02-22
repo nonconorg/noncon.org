@@ -1,0 +1,50 @@
+{
+  "name": "noncon.org",
+  "version": "0.23.5",
+  "private": true,
+  "scripts": {
+    "start": "t -p",
+    "format": "f -w --exclude docs",
+    "test": "t --exclude docs",
+    "build": "NODE_ENV=production magic build",
+    "prod": "NODE_ENV=production magic build serve",
+    "dev": "magic dev",
+    "publish": "magic publish",
+    "connect": "magic connect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parallele-at/noncon.org.git"
+  },
+  "keywords": [
+    "magic",
+    "parallele",
+    "polis",
+    "paralelni",
+    "noncon"
+  ],
+  "author": "Parallel Polis DAO",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/parallele-at/noncon.org/issues"
+  },
+  "homepage": "https://github.com/parallele-at/noncon.org#readme",
+  "devDependencies": {
+    "@magic/test": "0.1.35"
+  },
+  "dependencies": {
+    "@magic-modules/gdpr": "0.0.14",
+    "@magic/core": "0.0.32",
+    "@magic/format": "0.0.7"
+  },
+  "contributors": [
+    {
+      "name": "jascha ehrenreich",
+      "github": "jaeh"
+    },
+    {
+      "name": "Michael Parenti",
+      "github": "exiledsurfer"
+    }
+  ]
+}
