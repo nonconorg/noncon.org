@@ -6,13 +6,5 @@ export const state = {
 export const View = (state) => [
   h2({ id: 'vienna' }, 'Vienna Calling'),
 
-  div([
-    h2('some content'),
-    p(['to show some usage of html content and meta']),
-    p({ class: 'aclass', title: 'add any html meta here.' }, 'content'),
-
-    p(Link({ to: '/news/', text: 'smart Link, internal' })),
-
-    p(Link({ to: 'https://parallele.at' }, 'smart Link, external')),
-  ]),
+  h2('stay tuned.'),
 ]
