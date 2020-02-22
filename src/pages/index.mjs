@@ -3,11 +3,7 @@ export const state = {
   description: 'noncon.org',
 }
 
-export const View = (state) => [
+export const View = state => [
   Hero(state),
-  div([
-    h2({ id: 'vienna' }, 'Vienna Calling'),
-
-    h2('stay tuned.'),
-  ]),
+  div([h2({ id: 'vienna' }, 'Vienna Calling'), h2('stay tuned.')]),
 ]

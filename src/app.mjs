@@ -28,9 +28,7 @@ export const state = {
     },
     two: {
       title: 'network',
-      menu: [
-        { to: 'https://parallele.at', text: 'parallele polis' },
-      ],
+      menu: [{ to: 'https://parallele.at', text: 'parallele polis' }],
     },
     three: {
       title: 'social',
@@ -40,5 +38,4 @@ export const state = {
       ],
     },
   },
-
 }

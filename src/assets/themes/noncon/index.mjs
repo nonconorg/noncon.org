@@ -39,7 +39,6 @@ export const vars = {
   borderColor: '#FAFAFA',
 
   maxWidth: '1200px',
-
 }
 
 export default (v = {}) => {
