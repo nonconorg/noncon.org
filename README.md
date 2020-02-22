@@ -2,7 +2,7 @@
 
 this is the noncon.org homepage, built using the [@magic](https://github.com/magic/core) framework.
 
-it is hosted at [parallele.at](https://parallele.at) using github pages.
+it is hosted at [noncon.org](https://noncon.org) using github pages.
 
 
 ### sanity
