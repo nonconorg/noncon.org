@@ -4,7 +4,10 @@ export const state = {
 }
 
 export const View = (state) => [
-  h2({ id: 'vienna' }, 'Vienna Calling'),
+  Hero(state),
+  div([
+    h2({ id: 'vienna' }, 'Vienna Calling'),
 
-  h2('stay tuned.'),
+    h2('stay tuned.'),
+  ]),
 ]
