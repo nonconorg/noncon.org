@@ -1,7 +1,10 @@
 export const View = ({ hero, ...state }) => {
   const title = Array.isArray(hero.title) ? hero.title : [hero.title]
 
-  const content = hero.content && Array.isArray(hero.content) ? hero.content : [hero.content]
+  let { content } = hero
+  if (content && !Array.isArray(content)) {
+    content = [content]
+  }
 
   return div({ id: 'hero', class: 'Hero' }, [
     div({ class: 'LogoWrapper' }, [
@@ -27,14 +30,14 @@ export const View = ({ hero, ...state }) => {
 export const style = vars => ({
   backgroundColor: vars.background.dark,
   display: 'inline-block',
-  margin: '5vh auto',
+  margin: '5vh auto 0',
   position: 'relative',
   maxWidth: 'inherit',
   width: '100%',
 
   '.content': {
     clear: 'both',
-    padding: '1.5em 0 0',
+    padding: '1.5em 0',
   },
 
   '.LogoWrapper': {
@@ -69,7 +72,7 @@ export const style = vars => ({
   '.Menu': {
     float: 'none',
     textAlign: 'center',
-    padding: '3em 0 0',
+    padding: 0,
     width: '100%',
     clear: 'both',
 
