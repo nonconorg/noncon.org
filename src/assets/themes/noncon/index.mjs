@@ -21,7 +21,7 @@ export const vars = {
   },
 
   primary: {
-    neutral: '#FAFAFA',
+    neutral: '#FF0000',
     dark: '#CACACA',
     light: '#FFFFFF',
   },
@@ -45,6 +45,10 @@ export default (v = {}) => {
   v = { ...vars, ...v }
 
   return {
+    body: {
+      fontSize: '16px',
+    },
+
     '::selection': {
       backgroundColor: v.text.dark,
       color: v.background.dark,
@@ -56,18 +60,97 @@ export default (v = {}) => {
       scrollbarWidth: 'thin',
     },
 
+    '#Magic.light': {
+      'h1, h2, h3': {
+        color: vars.text.light,
+      },
+
+      a: {
+        color: vars.primary.neutral,
+      },
+    },
+
+
+    'h1, h2, h3': {
+      color: vars.text.dark,
+    },
+
+    a: {
+      color: vars.primary.neutral,
+    },
+
+    '.pageImg': {
+      fontSize: '1.8em',
+      margin: '0 0 2em',
+    },
+
+    '.Page': {
+      '> div': {
+        padding: '1.5em 5%',
+
+        '&#hero': {
+          padding: '1.5em 0',
+        },
+      },
+    },
+
+    'h1, h2, h3, h4, h5': {
+      textAlign: 'center',
+    },
+
+    h2: {
+      fontSize: '1.8em',
+      padding: '0 0 2em',
+    },
+
+    '.Hero': {
+      '.Menu': {
+        a: {
+          fontSize: '1.7em',
+          color: v.primary.neutral,
+        },
+      },
+    },
+
     '.Footer': {
       fontSize: '1em',
       width: '100%',
-      color: v.text.light,
+      color: v.text.dark,
+
+      h2: {
+        textAlign: 'left',
+        padding: 0,
+        color: v.text.dark,
+
+        '#Magic.light &&': {
+          color: v.text.dark,
+        },
+      },
 
       '.Menus, .Credits': {
         a: {
           color: v.text.light,
+
+          '#Magic.light &&': {
+            color: v.text.light,
+          },
+
           '&:hover': {
             color: v.neutral,
           },
         },
+      },
+    },
+
+    [`@media screen and (min-width: ${v.widths.tablet})`]: {
+      body: {
+        fontSize: '20px',
+      },
+    },
+
+    [`@media screen and (min-width: ${v.widths.laptop})`]: {
+      body: {
+        fontSize: '24px',
       },
     },
   }
