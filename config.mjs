@@ -7,5 +7,5 @@ export default {
   URL: 'noncon.org',
   CNAME: 'noncon.org',
 
-  HOIST: 'Gdpr',
+  HOIST: ['LightSwitch', 'Gdpr'],
 }
