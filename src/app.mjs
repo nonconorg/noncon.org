@@ -9,13 +9,13 @@ export const state = {
   // ],
 
   hero: {
-    // title: 'noncon',
-    description: 'more info soon.',
+    // title: 'Not a Conference. Not a Conjob.',
+    // description: 'more info soon.',
 
     // content: 'the non con.',
 
     // menu: [
-    //   { to: '/#about', text: 'about' },
+    //   { to: 'https://the-commons-stack.typeform.com/to/SemYgK', text: 'SIGNUP' },
     //   { to: '/#venue', text: 'venue' },
     //   { to: '/#support', text: 'support' },
     // ],
@@ -25,7 +25,9 @@ export const state = {
     one: {
       title: 'noncon',
       before: ['created by the parallele polis dao.'],
-      menu: [{ to: '/privacy/', text: 'privacy notice' }],
+      menu: [
+        { to: '/privacy/', text: 'privacy notice' },
+      ],
     },
     two: {
       title: 'network',
