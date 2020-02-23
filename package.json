@@ -34,8 +34,8 @@
   },
   "dependencies": {
     "@magic-modules/gdpr": "0.0.14",
-    "@magic-themes/project": "0.0.1",
-    "@magic/core": "0.0.32",
+    "@magic-themes/project": "0.0.3",
+    "@magic/core": "0.0.36",
     "@magic/format": "0.0.7"
   },
   "contributors": [
