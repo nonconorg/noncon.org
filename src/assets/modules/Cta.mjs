@@ -19,7 +19,7 @@ export const style = {
 
 export const propTypes = {
   Cta: [
-  { key: 'to', type: 'string', required: true },
-  { key: 'text', type: 'string', required: true },
-]
+    { key: 'to', type: 'string', required: true },
+    { key: 'text', type: 'string', required: true },
+  ],
 }

@@ -9,10 +9,7 @@ export const View = state => [
   Cta({ to: 'https://the-commons-stack.typeform.com/to/SemYgK', text: 'SIGNUP' }),
 
   div([
-    h2([
-      p('Not a Conference.'),
-      p(' Not a Conjob.'),
-    ]),
+    h2([p('Not a Conference.'), p(' Not a Conjob.')]),
     p([
       'We intend for NONCON 2020 to be much smaller in scope, cheaper,',
       ' and in general more community oriented than EDCON,',

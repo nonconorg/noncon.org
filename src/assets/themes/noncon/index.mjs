@@ -70,7 +70,6 @@ export default (v = {}) => {
       },
     },
 
-
     'h1, h2, h3': {
       color: vars.text.dark,
     },
