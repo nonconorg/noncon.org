@@ -30,10 +30,13 @@ export default {
 
 ### getting started
 ```
-git clone git@github.com:nonconorg/noncon.org
+# first get the git repository
+git clone https://github.com/nonconorg/noncon.org
 
+# go to the noncon.org directory that just got created
 cd noncon.org
 
+# install @magic and other dependencies
 npm install
 
 # see all available tasks
@@ -45,7 +48,13 @@ npm run dev
 # build to /docs dir
 npm run build
 
+# add files to git staging
+git add .
+git add src/pages/index.mjs
+
+# commit changes with message
+git commit -m "commit message"
+
 # publish page on noncon.org (after comitting all changes to src and docs)
 git push
-
 ```
