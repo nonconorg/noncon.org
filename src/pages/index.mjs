@@ -4,7 +4,7 @@ export const state = {
 }
 
 export const View = state => [
-  Hero(state),
+  HeroImage(state),
 
   Cta({ to: 'https://the-commons-stack.typeform.com/to/SemYgK', text: 'SIGNUP' }),
 
