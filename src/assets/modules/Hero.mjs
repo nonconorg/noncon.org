@@ -53,7 +53,6 @@ export const style = vars => ({
 
     '.Logo': {
       float: 'none',
-
     },
 
     h1: {
