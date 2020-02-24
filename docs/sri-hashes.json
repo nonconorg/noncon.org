@@ -1,10 +1,10 @@
 {
-  "css": "sha384-PNIiN1fQDpLdAOD0U+Pyx6z6UuXoDOPrLD/zQUfey3KaPj1FerUUOyKM4Mo6Gc2D",
-  "js": "sha384-nvQpZA+6hjOG9mXQHcoU8DjPiz9n29fhAcJkfbQvgqxKlNMWTiyk3glosCgbhA+/",
+  "css": "sha384-1cwz99zg7GxM/cr5AG4As/tcWDW7J+yaA5DrmntXxviklJoasWLsjnpU8uTZthNw",
+  "js": "sha384-OmqIkNNwH0BvQef8yzJ+wPNz1Y34Mq4I2DsKHS9DPgPxkw/C9WzrVYJBKRWPwiTH",
   "pages": {
-    "/": "sha384-ootnXselPCKjN3O2pFdUZK9GK1SFr+iBi8YxR7SVIk064GeMGZr0d4gHVEN3Zt8b",
-    "/404/": "sha384-H+8n0fvCG3SkHWQAcGxGkxZYeHvNZpRrtcnSAO+lGjJ/ATg61lkXAZo7MLPx+JzP",
-    "/privacy/": "sha384-zd5bvJ56H39KhUd/qskBJfIc6Z8+3Q466Md/z9l88CzFH7kSZmag7ngO3WndlJQF"
+    "/": "sha384-VfQmI4eLJ7cmsk1g2RSBAyhQ6eA995JX0BlCQUdnm5gIXMv1l5i2qLW7aULJhOuu",
+    "/404/": "sha384-HLPqYYVUGy6BPoUhfdlQBSW8w7rSQ9bjsf7EyceOAFIKIEuaPCyLMeNhIjvEOnVx",
+    "/privacy/": "sha384-afxh5zTxo6BecrLoe+mr9zCO2bqHlyaNdRyZDRJMnEHNw5L/IrexNr/Dctf1Q6xD"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -13,8 +13,8 @@
     "/img/bandana.png": "sha384-+YEzoy98owBnpikkJ3mJV5xyU2A6TUxqMRlHq5pY6Jx1xWPD9LGbvjN1wWbj1h/t",
     "/img/bandana.xcf": "sha384-IFwdSJRBFdqIVPevl7Eo0/SBIgVZD2Jg8HqTWT2S22uj1SOn630yvJyGH+2ZYhKl",
     "/img/dealwithit.gif": "sha384-EKlw/1zCVF8hNqtYbmVrFgexoImqRPUVoskzQvEd2P08nZfzA6alhRklZeS7wPjh",
-    "/img/noncon2020-banner.png": "sha384-eJ8VFe4lrR0r3BXtMV1N1r9LYH7EGtOiqwaPw5aBI2IYg+4BY1ytCyoF9DWcJZk9",
-    "/img/noncon2020-banner.xcf": "sha384-KbfVAY6Fbmuo4hgIluC9YE5kLkX0Od28qfyoHV+c8QmwcNIJ+UwJK2VC6XKl2Rv4",
+    "/img/noncon2020-banner.png": "sha384-J/enitAk3xTmXf6b2GS+Z4RA4uWJVzfgyKtSAsj1oQopOIUUvrHbLX6bE4jDi44M",
+    "/img/noncon2020-banner.xcf": "sha384-PqMwScTQlVDINCsx0bu64g/JFFNAYdOu5S94x50w0SidfB54aWjXGHpkUUd2N8ZF",
     "/img/organizers/bwb.png": "sha384-pIa8coOwrmNG/QZh/WnTnY3T6SAoVcSQky66Ih35Hk2MaqMW81VVwLQM04t7nt4K",
     "/img/organizers/bwb.xcf": "sha384-F5DUROrQZG0hYCy0033ilqIWRKz4+mWBGbl90gaPZOasZZUBFFDz91rSSumwGjoT",
     "/img/organizers/parallele.png": "sha384-MG989SUrc1bwStsgps6XXW1emK97811YjtNN0vW21rh/mxMjvBPpTomnuo68D+r3",
