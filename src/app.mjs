@@ -21,15 +21,14 @@ export const state = {
 
   footer: {
     one: {
-      title: 'noncon',
-      before: ['created by the parallele polis dao.'],
+      title: 'NonCon',
       menu: [
         { to: '/privacy/', text: 'privacy notice' },
         { to: 'https://www.parallele.at/code-of-conduct/', text: 'code of conduct' },
       ],
     },
     two: {
-      title: 'network',
+      title: 'Network',
       menu: [
         { to: 'https://parallele.at', text: 'parallele polis' },
         { to: 'https://bwb.is', text: 'bwb' },
@@ -37,7 +36,7 @@ export const state = {
       ],
     },
     three: {
-      title: 'social',
+      title: 'Social',
       menu: [
         { to: 'https://keybase.io/noncon', text: 'keybase' },
         { to: 'https://github.com/nonconorg', text: 'github' },
