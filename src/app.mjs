@@ -37,6 +37,8 @@ export const state = {
       menu: [
         { to: 'https://keybase.io/noncon', text: 'keybase' },
         { to: 'https://github.com/nonconorg', text: 'github' },
+        { to: 'https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA', text: 'telegram' },
+        { to: 'https://twitter.com/ParallelePolis', text: 'twitter' },
       ],
     },
   },
