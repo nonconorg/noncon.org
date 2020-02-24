@@ -1,8 +1,3 @@
-export const state = {
-  title: 'Non Con Org',
-  description: 'noncon.org',
-}
-
 export const View = state => [
   HeroImage(state),
 
