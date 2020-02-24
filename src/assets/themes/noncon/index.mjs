@@ -46,6 +46,9 @@ export default (v = {}) => {
   v = { ...vars, ...v }
 
   return {
+    html: {
+      scrollBehavior: 'auto',
+    },
     body: {
       fontSize: '16px',
     },
@@ -138,7 +141,6 @@ export default (v = {}) => {
       },
 
       '.Menus, .Credits': {
-
         a: {
           color: v.text.light,
 
@@ -166,6 +168,10 @@ export default (v = {}) => {
     },
 
     [`@media screen and (min-width: ${v.widths.tablet})`]: {
+      html: {
+        scrollBehavior: 'smooth',
+      },
+
       body: {
         fontSize: '20px',
       },
