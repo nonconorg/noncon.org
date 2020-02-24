@@ -17,7 +17,7 @@ export const View = () => [
       title: 'Metacartel',
     },
     {
-      img: '/img/support/giveth.png',
+      img: '/img/support/giveth.jpg',
       to: 'https://giveth.io',
       title: 'Giveth',
     },
@@ -25,6 +25,11 @@ export const View = () => [
       img: '/img/support/commonsstack.png',
       to: 'https://comonsstack.org',
       title: 'Commons Stack',
+    },
+    {
+      img: '/img/support/codechain.png',
+      to: 'https://github.com/frankbraun/codechain',
+      title: 'CodeChain',
     },
     {
       img: '/img/support/webboot.png',
