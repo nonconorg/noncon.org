@@ -43,9 +43,15 @@ export const View = state => [
 
     p([
       'EN 12054 certified ',
-      Link({ to: 'https://en.wikipedia.org/wiki/Hand_sanitizer#Surgical_hand_disinfection' }, 'Surgical hand sanitizer'),
+      Link(
+        { to: 'https://en.wikipedia.org/wiki/Hand_sanitizer#Surgical_hand_disinfection' },
+        'Surgical hand sanitizer',
+      ),
       ' and Masks. ',
-      Link({ to: 'https://twitter.com/TheRealSmuggler/status/1203361366708494342?s=20' }, "(It's a cypherpunk event after all.)"),
+      Link(
+        { to: 'https://twitter.com/TheRealSmuggler/status/1203361366708494342?s=20' },
+        "(It's a cypherpunk event after all.)",
+      ),
     ]),
 
     h3('Sanitization Process'),
@@ -59,10 +65,7 @@ export const View = state => [
       ' to prevent the bottle(s) from being our infection vector.',
     ]),
 
-    p([
-      'We advise everyone to wear some kind of glasses or goggles. ',
-      DealWithIt(state),
-    ]),
+    p(['We advise everyone to wear some kind of glasses or goggles. ', DealWithIt(state)]),
 
     p([
       'If you have any further suggestions to refine these processes, please ',
@@ -127,10 +130,7 @@ export const View = state => [
       ' to keep up to date :-)',
     ]),
 
-    p([
-      'Oldskool-stylee: ',
-      Link({ to: 'mailto:info@parallele.at' }, 'email'),
-    ]),
+    p(['Oldskool-stylee: ', Link({ to: 'mailto:info@parallele.at' }, 'email')]),
   ]),
 
   div(Organizers()),
