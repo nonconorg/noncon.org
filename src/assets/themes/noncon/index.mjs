@@ -81,12 +81,14 @@ export default (v = {}) => {
 
     '.pageImg': {
       fontSize: '1.8em',
-      margin: '0 0 2em',
+      margin: '0 auto 2em',
+      display: 'block',
+      height: 'auto',
     },
 
     '.Page': {
       '> div': {
-        padding: '1.5em 5%',
+        padding: '1.5em 8%',
 
         '&#hero': {
           padding: '1.5em 0',
@@ -149,6 +151,18 @@ export default (v = {}) => {
           },
         },
       },
+    },
+
+    '.Gdpr': {
+      '.ShowHide': {
+        width: '1.5em',
+        height: '1.5em',
+      },
+    },
+
+    '.LightSwitch': {
+      width: '1.5em',
+      height: '1.5em',
     },
 
     [`@media screen and (min-width: ${v.widths.tablet})`]: {
