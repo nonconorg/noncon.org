@@ -1,7 +1,7 @@
 export const View = items =>
   ul(
     { class: 'List' },
-    items.map(i => [li([Img({ src: i.img, height: '90' }), Link({ to: i.to }, i.title)])]),
+    items.map(i => [li(Link({ to: i.to }, [Img({ src: i.img, height: '90' }), i.title]))]),
   )
 
 export const style = {
