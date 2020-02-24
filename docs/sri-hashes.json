@@ -1,10 +1,10 @@
 {
   "css": "sha384-PCJwBsklUyyc96TMAoCeHtxJuE2b6BOUZRxGbt6oS/tHrlBIeqDWaubU+9LngMOD",
-  "js": "sha384-e/KLR3unXBbgArwSliiEbJhXzJXSc8p79hKNkexdOd5pYFQUoLwQ6Cb+C5NjNgzY",
+  "js": "sha384-CtcXCcEskRSekn/wkY686ZK+LWlYKeN+USZ+2Zn5BecivubXI9w/I8+kiQ1Nejb/",
   "pages": {
-    "/": "sha384-7+efGCqBydEpbTRla6W36F15U10RTTncfOxFN3BKbUJqZwjcjBnBh6HVuXCMDI1F",
-    "/404/": "sha384-d/wqRtAV1pa8KKrVgtvGDZZKjRiw2P8sUVUGrhGODjLp8h4tere4i+Io7UMRb42F",
-    "/privacy/": "sha384-/FHHEZyJfBlYFLZ/EbkJcSIm6WyC/7ArEGdCxFNy+BKVTG8ThejfykNtkaiti6Gy"
+    "/": "sha384-/Kch8+ydRAAa1tY6cwKCZ7KJxp7/HvfOb3zuXlIgkSV5+zERp936N2/bcRfCBjmy",
+    "/404/": "sha384-EO1SwxyKpbMQNvQYev4ffz/qktccQMClU0lUdddl0QJBmwrA3h8igEmF2adaHgW/",
+    "/privacy/": "sha384-fGng544Y8kvUVue9zWHB9RKJoSx/5/ZzmxF8vdAeahDgXXebslMmn90F3N3p3Krs"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -13,8 +13,8 @@
     "/img/bandana.png": "sha384-+YEzoy98owBnpikkJ3mJV5xyU2A6TUxqMRlHq5pY6Jx1xWPD9LGbvjN1wWbj1h/t",
     "/img/bandana.xcf": "sha384-IFwdSJRBFdqIVPevl7Eo0/SBIgVZD2Jg8HqTWT2S22uj1SOn630yvJyGH+2ZYhKl",
     "/img/dealwithit.gif": "sha384-EKlw/1zCVF8hNqtYbmVrFgexoImqRPUVoskzQvEd2P08nZfzA6alhRklZeS7wPjh",
-    "/img/noncon2020-banner.png": "sha384-J/enitAk3xTmXf6b2GS+Z4RA4uWJVzfgyKtSAsj1oQopOIUUvrHbLX6bE4jDi44M",
-    "/img/noncon2020-banner.xcf": "sha384-PqMwScTQlVDINCsx0bu64g/JFFNAYdOu5S94x50w0SidfB54aWjXGHpkUUd2N8ZF",
+    "/img/noncon2020-banner.jpg": "sha384-IK5VBvhiCv6rqn0antYZcVCWYpy5H7e1MORnoGHnjddR5hccIifjG72bt2I1M6yL",
+    "/img/noncon2020-banner.xcf": "sha384-az+M1gA2o1Pk+ND5wZI2M/bPw3XSsoylfzbrGNS6FQ5/UyEXWLcBDUTRlyYdUQ3o",
     "/img/organizers/bwb.png": "sha384-pIa8coOwrmNG/QZh/WnTnY3T6SAoVcSQky66Ih35Hk2MaqMW81VVwLQM04t7nt4K",
     "/img/organizers/bwb.xcf": "sha384-F5DUROrQZG0hYCy0033ilqIWRKz4+mWBGbl90gaPZOasZZUBFFDz91rSSumwGjoT",
     "/img/organizers/parallele.png": "sha384-MG989SUrc1bwStsgps6XXW1emK97811YjtNN0vW21rh/mxMjvBPpTomnuo68D+r3",
