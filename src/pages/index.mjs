@@ -81,7 +81,7 @@ export const View = state => [
   div([
     h2('Venue'),
 
-    Img({ class: 'pageImg', src: 'https://i.imgur.com/bmgyrhD.jpg', height: 400 }),
+    Img({ class: 'pageImg', src: '/img/qryptoquberaumd.jpg', height: 400 }),
 
     p([
       'Located in the center of Vienna,',
