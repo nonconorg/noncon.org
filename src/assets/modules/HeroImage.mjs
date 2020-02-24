@@ -1,6 +1,5 @@
 export const View = () =>
-  p({ class: 'HeroImage' }, Img({ height: 300, src: '/img/noncon2020-banner.png' }))
-
+  p({ class: 'HeroImage' }, Img({ height: 300, src: '/img/noncon2020-banner.jpg' }))
 
 export const style = {
   width: '100%',
