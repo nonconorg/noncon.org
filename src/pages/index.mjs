@@ -56,16 +56,21 @@ export const View = state => [
 
     h3('Sanitization Process'),
 
-    p('First, every attendant will clean their hand'),
+    p('First, every attendee will be required to sanitize their hands.'),
 
     p([
-      ' We will provide disinfectant for the masks.',
+      ' Then, we will provide disinfectant for the masks.',
       ' You will hodl the mask,',
       ' our team will handle the disinfectant,',
       ' to prevent the bottle(s) from being our infection vector.',
     ]),
 
     p(['We advise everyone to wear some kind of glasses or goggles. ', DealWithIt(state)]),
+
+    p([
+      'After sanitizing your hands,',
+      ' please make sure to cough into your elbow and not in your hands.',
+    ]),
 
     p([
       'If you have any further suggestions to refine these processes, please ',
