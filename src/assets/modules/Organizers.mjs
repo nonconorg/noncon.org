@@ -2,7 +2,7 @@ export const View = () => [
   h2('Organizers'),
   List([
     {
-      img: '/img/organizers/parallele.png',
+      img: '/img/organizers/parallele.jpg',
       to: 'https://parallele.at',
       title: 'parallele polis',
     },
@@ -12,7 +12,7 @@ export const View = () => [
       title: 'bwb.is',
     },
     {
-      img: '/img/organizers/riat.png',
+      img: '/img/organizers/riat.jpg',
       to: 'https://riat.at',
       title: 'riat.at',
     },
