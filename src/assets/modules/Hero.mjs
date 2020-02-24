@@ -8,7 +8,7 @@ export const View = ({ hero, ...state }) => {
 
   return div({ id: 'hero', class: 'Hero' }, [
     div({ class: 'LogoWrapper' }, [
-      Img('/img/noncon2020-banner.png'),
+      Img({ height: 300, src: '/img/noncon2020-banner.png' }),
       hero.title && h1([span(title[0]), title[1]]),
       hero.description && p(hero.description),
     ]),
@@ -35,6 +35,10 @@ export const style = vars => ({
   maxWidth: 'inherit',
   width: '100%',
 
+  img: {
+    width: 'auto',
+  },
+
   '.content': {
     clear: 'both',
     padding: '1.5em 0',
@@ -50,15 +54,6 @@ export const style = vars => ({
     '.Logo': {
       float: 'none',
 
-      svg: {
-        width: '100%',
-        maxWidth: '200px',
-        margin: '0 auto',
-        display: 'block',
-        float: 'none',
-        height: 'auto',
-        borderRadius: 0,
-      },
     },
 
     h1: {
