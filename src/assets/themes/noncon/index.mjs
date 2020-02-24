@@ -116,9 +116,9 @@ export default (v = {}) => {
       fontSize: '1em',
       width: '100%',
       color: v.text.dark,
+      textAlign: 'center',
 
       h2: {
-        textAlign: 'left',
         padding: 0,
         color: v.text.dark,
 
@@ -127,7 +127,16 @@ export default (v = {}) => {
         },
       },
 
+      li: {
+        textAlign: 'center',
+      },
+
+      '.Credits': {
+        textAlign: 'center',
+      },
+
       '.Menus, .Credits': {
+
         a: {
           color: v.text.light,
 
