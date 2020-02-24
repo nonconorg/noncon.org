@@ -1,4 +1,4 @@
-export const View = state =>[
+export const View = state => [
   HeroImage(),
 
   div([
