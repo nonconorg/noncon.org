@@ -30,7 +30,11 @@ export const state = {
     },
     two: {
       title: 'network',
-      menu: [{ to: 'https://parallele.at', text: 'parallele polis' }],
+      menu: [
+        { to: 'https://parallele.at', text: 'parallele polis' },
+        { to: 'https://bwb.is', text: 'bwb' },
+        { to: 'https://riat.at', text: 'riat' },
+      ],
     },
     three: {
       title: 'social',

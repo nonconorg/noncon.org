@@ -9,12 +9,12 @@ export const View = () => [
     {
       img: '/img/organizers/bwb.png',
       to: 'https://bwb.is',
-      title: 'bwb',
+      title: 'bwb.is',
     },
     {
       img: '/img/organizers/riat.png',
       to: 'https://riat.at',
-      title: 'riat',
+      title: 'riat.at',
     },
   ]),
 ]
