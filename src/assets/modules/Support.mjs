@@ -27,9 +27,24 @@ export const View = () => [
       title: 'Commons Stack',
     },
     {
+      img: '/img/support/mintbase.png',
+      to: 'https://mintbase.io',
+      title: 'Mintbase',
+    },
+    {
+      img: '/img/support/DoD.png',
+      to: 'https://twitter.com/ethberlin',
+      title: 'ETH Berlin',
+    },
+    {
+      img: '/img/support/rotki.png',
+      to: 'https://rotki.com',
+      title: 'Rotki',
+    },
+    {
       img: '/img/support/codechain.png',
       to: 'https://github.com/frankbraun/codechain',
-      title: 'CodeChain',
+      title: 'Codechain',
     },
     {
       img: '/img/support/webboot.png',
