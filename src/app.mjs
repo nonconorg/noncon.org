@@ -28,20 +28,20 @@ export const state = {
       ],
     },
     two: {
-      title: 'Network',
-      menu: [
-        { to: 'https://parallele.at', text: 'parallele polis' },
-        { to: 'https://bwb.is', text: 'bwb' },
-        { to: 'https://riat.at', text: 'riat' },
-      ],
-    },
-    three: {
       title: 'Social',
       menu: [
         { to: 'https://keybase.io/noncon', text: 'keybase' },
         { to: 'https://github.com/nonconorg', text: 'github' },
         { to: 'https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA', text: 'telegram' },
         { to: 'https://twitter.com/ParallelePolis', text: 'twitter' },
+      ],
+    },
+    three: {
+      title: 'Network',
+      menu: [
+        { to: 'https://parallele.at', text: 'parallele.at' },
+        { to: 'https://bwb.is', text: 'bwb.is' },
+        { to: 'https://riat.at', text: 'riat.at' },
       ],
     },
   },
