@@ -4,6 +4,8 @@ export const state = {
 }
 
 export const View = state => [
+  HeroImage(),
+
   div([
     h2('Privacy Notice'),
 
