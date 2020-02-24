@@ -29,9 +29,51 @@ export const View = state => [
   ]),
 
   div([
+    h2('How do we intend to deal with Covid19?'),
+
+    p([
+      "It's the reason for the edcon cancellation after all.",
+      ' We believe that public communication needs to shift from',
+      Link({ to: 'https://www.psandman.com/col/swineflu2.htm' }, ' containment to coping.'),
+      ', based on lessons learned from past viral infections.',
+      ' Are we Crazy? Well, lets say we are willing to take a calculated risk.',
+    ]),
+
+    h3('Things that we will provide:'),
+
+    p([
+      'EN 12054 certified ',
+      Link({ to: 'https://en.wikipedia.org/wiki/Hand_sanitizer#Surgical_hand_disinfection' }, 'Surgical hand sanitizer'),
+      ' and Masks. ',
+      Link({ to: 'https://twitter.com/TheRealSmuggler/status/1203361366708494342?s=20' }, "(It's a cypherpunk event after all.)"),
+    ]),
+
+    h3('Sanitization Process'),
+
+    p('First, every attendant will clean their hand'),
+
+    p([
+      ' We will provide disinfectant for the masks.',
+      ' You will hodl the mask,',
+      ' our team will handle the disinfectant,',
+      ' to prevent the bottle(s) from being our infection vector.',
+    ]),
+
+    p([
+      'We advise everyone to wear some kind of glasses or goggles. ',
+      DealWithIt(state),
+    ]),
+
+    p([
+      'If you have any further suggestions to refine these processes, please ',
+      Link({ to: '/#contacts' }, 'contact us'),
+    ]),
+  ]),
+
+  div([
     h2('Venue'),
 
-    Img({ class: 'pageImg', src: 'https://i.imgur.com/bmgyrhD.jpg' }),
+    Img({ class: 'pageImg', src: 'https://i.imgur.com/bmgyrhD.jpg', height: 400 }),
 
     p([
       'Located in the center of Vienna,',
@@ -58,7 +100,7 @@ export const View = state => [
     ]),
   ]),
 
-  div([
+  div({ id: 'contacts' }, [
     p([
       'If you would like to attend, sponsor, or speak at NonCon 2020 in Vienna, ',
       Link({ to: 'https://the-commons-stack.typeform.com/to/SemYgK' }, 'sign up via this Typeform'),
@@ -84,7 +126,16 @@ export const View = state => [
       Link({ to: 'https://twitter.com/ParallelePolis' }, 'follow us on Twitter'),
       ' to keep up to date :-)',
     ]),
+
+    p([
+      'Oldskool-stylee: ',
+      Link({ to: 'mailto:info@parallele.at' }, 'email'),
+    ]),
   ]),
+
+  div(Organizers()),
+
+  div(Support()),
 
   Cta({ to: 'https://app.ens.domains/name/noncon.eth', text: 'Donate' }),
 ]
