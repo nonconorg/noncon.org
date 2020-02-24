@@ -109,6 +109,7 @@ export const View = state => [
   ]),
 
   div({ id: 'contacts' }, [
+    h2('Connect'),
     p([
       'If you would like to attend, sponsor, or speak at NonCon 2020 in Vienna, ',
       Link({ to: 'https://the-commons-stack.typeform.com/to/SemYgK' }, 'sign up via this Typeform'),
