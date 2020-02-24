@@ -34,7 +34,7 @@ export const View = state => [
     p([
       "It's the reason for the edcon cancellation after all.",
       ' We believe that public communication needs to shift from',
-      Link({ to: 'https://www.psandman.com/col/swineflu2.htm' }, ' containment to coping.'),
+      Link({ to: 'https://www.psandman.com/col/swineflu2.htm' }, ' containment to coping'),
       ', based on lessons learned from past viral infections.',
       ' Are we Crazy? Well, lets say we are willing to take a calculated risk.',
     ]),
@@ -50,7 +50,7 @@ export const View = state => [
       ' and Masks. ',
       Link(
         { to: 'https://twitter.com/TheRealSmuggler/status/1203361366708494342?s=20' },
-        "(It's a cypherpunk event after all.)",
+        "(It's a cypherpunk event after all)",
       ),
     ]),
 
