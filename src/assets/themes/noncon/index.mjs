@@ -7,7 +7,8 @@ export const vars = {
   headerBackgroundColor: '#000000cc',
 
   scrollbar: {
-    dark: '#C55400',
+    dark: '#FF0000',
+    light: '#FF0000',
   },
 
   text: {
