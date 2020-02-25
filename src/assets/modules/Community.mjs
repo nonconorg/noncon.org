@@ -53,7 +53,7 @@ export const View = () =>
         title: 'Webboot',
       },
       {
-        img: '/img/support/progressbar.jpg',
+        img: '/img/support/progressbar.png',
         to: 'https://progressbar.sk',
         title: 'Progressbar',
       },
