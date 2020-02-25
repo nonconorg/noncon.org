@@ -4,7 +4,7 @@ export const View = () =>
 
     List([
       {
-        img: '/img/support/bitcoinundco.jpg',
+        img: '/img/mediapartners/bitcoinundco.jpg',
         to: 'https://bitcoinundco.com',
         title: 'Bitcoin und co',
       },
