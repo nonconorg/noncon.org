@@ -134,9 +134,11 @@ export const View = state => [
     p(['Oldskool-stylee: ', Link({ to: 'mailto:info@parallele.at' }, 'email')]),
   ]),
 
-  div(Organizers()),
+  Organizers(),
 
-  div(Support()),
+  Community(),
+
+  MediaPartners(),
 
   Cta({ to: 'https://app.ens.domains/name/noncon.eth', text: 'Donate' }),
 ]
