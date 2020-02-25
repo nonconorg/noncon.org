@@ -136,7 +136,7 @@ export const View = state => [
 
   Organizers(),
 
-  Community(),
+  Support(),
 
   MediaPartners(),
 

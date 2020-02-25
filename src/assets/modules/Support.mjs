@@ -1,6 +1,7 @@
 export const View = () =>
-  div([
+  div({ class: 'Support' }, [
     h2('Community'),
+
     List([
       {
         img: '/img/community/goerli.jpg',
