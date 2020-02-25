@@ -8,4 +8,6 @@ export default {
   CNAME: 'noncon.org',
 
   HOIST: ['LightSwitch', 'Gdpr'],
+
+  IGNORED_STATIC: ['.xcf'],
 }
