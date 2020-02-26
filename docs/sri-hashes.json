@@ -1,10 +1,10 @@
 {
   "css": "sha384-6kj1Q3d84Xfk4TwjIOFDCGELqSI5YjhJp1zqBZnCAGxps+FEU1QfZ9lVooej8NhH",
-  "js": "sha384-V6h2O3t1fjtqH6DU6scwkR/otKjlSvwYpCZzKoV4gcT/XYdoEvTpxrBYy8Xp8Lr3",
+  "js": "sha384-+speYy4UooRNAbmEnQ9XZPqOwBf3bhRv9cFgq5EsFqW3xcHJqc5scCVpGIkLYXoZ",
   "pages": {
-    "/": "sha384-VmfendI5lRTQ7nS5R3/IHLXGGKfmKEBliLtP7G4k6itoMOI480wnnY+jVLiPCHKN",
-    "/404/": "sha384-Q5XxyZ4BA23xZ0i6ysREAtYhpxwN61CW6MdU1E3d6B1JWqauUiCP9KBXhl/gB8nU",
-    "/privacy/": "sha384-4m9jhlAtKmJ4m54AFyRMunQxRMrr9S0pMCuxm+uOs1/L/i2QQx8BEpUDixzLC/bU"
+    "/": "sha384-q64h5tAIiN3rcTDTxZSLKdRv4YZHTCj+LGy5G943U6mdZ2iMtXqRZf/FPVMMBesN",
+    "/404/": "sha384-W8xgVu6IIo+lluO/X9zuv2p1gTK8JvHm/O9O2++cziQxOtSNPIblRpEtRCIoMdjw",
+    "/privacy/": "sha384-GAMB8tN/683aSaOzdP8KXaaQeZxFRG4FsiwUuliSeaJo/kykkG1aPnm3vO+Y+QIq"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -23,6 +23,7 @@
     "/img/community/poap.png": "sha384-8pn5mga+8VDsZ2M8PKHbl+onjqYrapT2aYvpz8Pv9y9cFN7q2A510+mJHs8diWuk",
     "/img/community/progressbar.png": "sha384-9Kvmgm7eFZhgPSTlxcAxmp4Bi1/JcZ9NIId5f+89iJgznVsKbhRUGzzOE1kshSM1",
     "/img/community/rotki.png": "sha384-LA8JiKMfb1oyywVdq1DXmc4RKpcvnuD5c7k5Mz4Ugw9bXkUo7tuG1c/h//v7Z2aX",
+    "/img/community/swarm.png": "sha384-neFhhutvk6uH1hGajznUp/q4okHJXPJ/KMYyL2IS+F0XGQm/3qYfuKqlgHSi5KK4",
     "/img/community/webboot.png": "sha384-zgLUFTU0QUwOvnXNQ5LIRu1+RY7+OJ1I++3SpGVHiSaVcVL63jX6dfHS5X4uVpbg",
     "/img/dealwithit.gif": "sha384-EKlw/1zCVF8hNqtYbmVrFgexoImqRPUVoskzQvEd2P08nZfzA6alhRklZeS7wPjh",
     "/img/mediapartners/bitcoinundco.jpg": "sha384-FyeIzETDk4yxuNXcD0pu5ZvnRCM37ocJtyoRVtQEOYXAcGKsWthbAK70HJWMwC1z",
