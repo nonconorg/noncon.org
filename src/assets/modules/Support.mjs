@@ -73,5 +73,10 @@ export const View = () =>
         to: 'https://poap.xyz',
         title: 'POAP',
       },
+      {
+        img: '/img/community/swarm.png',
+        to: 'https://swarm.ethereum.org',
+        title: 'Swarm',
+      },
     ]),
   ])
