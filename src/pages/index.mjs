@@ -24,7 +24,9 @@ export const View = state => [
   ]),
 
   div([
-    h2('How do we intend to deal with Covid19?'),
+    h2('Looking Covid-19 in The Eye'),
+
+    Img('/img/in-the-eye.jpg'),
 
     p([
       "It's the reason for the edcon cancellation after all.",
@@ -33,6 +35,19 @@ export const View = state => [
       ', based on lessons learned from past viral infections.',
       ' Are we Crazy? Well, lets say we are willing to take a calculated risk.',
     ]),
+
+    p([
+      'Digital Natives travel widely to attend numerous conferences throughout the year,',
+      ' yet we are observably not following COVID-19 preventative practices.',
+    ]),
+
+    p('And yet, the motives to be pro-active about COVID-19 are simple.'),
+
+    p('We want to protect our teams, friends, and families.'),
+    p('We want to protect the wider community.'),
+    p('We want to protect the healthcare and social systems we rely on.'),
+
+    p('How do we plan to proceed with our conference?'),
 
     h3('Things that we will provide:'),
 
@@ -55,10 +70,14 @@ export const View = state => [
 
     p([
       ' Then, we will provide disinfectant for the masks.',
-      ' You will hodl the mask,',
+      ' You will hodl your mask,',
       ' our team will handle the disinfectant,',
       ' to prevent the bottle(s) from being our infection vector.',
     ]),
+
+    p('Those without a mask will get a bandana from us.'),
+
+    Img({ class: 'center', src: '/img/bandana.png' }),
 
     p(['We advise everyone to wear some kind of glasses or goggles. ', DealWithIt(state)]),
 
@@ -67,10 +86,26 @@ export const View = state => [
       ' please make sure to cough into your elbow and not in your hands.',
     ]),
 
-    p([
-      'If you have any further suggestions to refine these processes, please ',
-      Link({ to: '/#contacts' }, 'contact us'),
-    ]),
+    // p('Before eating or drinking, sanitize your hands. Try not to expose food'),
+
+    // p('Do not expose food. If you brought something to eat, unpack and eat it outside.'),
+
+    // p([
+      // 'No open drinks. If you brought a bottle, keep it closed and in your backpack.',
+      // ' Move away from others when drinking, preferably move outside the building.',
+    // ]),
+
+    // p('Try not to touch your eyes, pick your nose, suck your thumb.'),
+
+    // p([
+      // 'Wash and/or sanitize your hands both ',
+      // b('before and after'),
+      // ' using the toilets',
+    // ]),
+
+    // p('Please only touch people you touch on a regular basis anyways. No group cuddles, sorry.'),
+
+    Link({ to: 'https://www.parallele.at/lets-look-covid-19-dead-in-the-eye/'}, 'Read more...'),
   ]),
 
   div([
