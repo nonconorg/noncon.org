@@ -17,7 +17,7 @@ export const View = state => [
 
     p([
       'Since this page and the connecting databases were setup in about 12 hours,',
-      ' so we used ',
+      ' we used ',
       Link({ to: 'https://www.typeform.com/' }, 'typeform'),
       ' to implement the form.',
       ' For now, we save all submitted forms in a google document.',
