@@ -171,7 +171,7 @@ export const View = state => [
 
   Organizers(),
 
-  Support(),
+  Community(),
 
   MediaPartners(),
 
