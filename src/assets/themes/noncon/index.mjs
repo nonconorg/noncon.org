@@ -82,6 +82,13 @@ export default (v = {}) => {
       color: vars.primary.neutral,
     },
 
+    img: {
+      '&.center': {
+        display: 'block',
+        margin: '0 auto',
+      },
+    },
+
     '.pageImg': {
       fontSize: '1.8em',
       margin: '0 auto 2em',
