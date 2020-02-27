@@ -78,5 +78,10 @@ export const View = () =>
         to: 'https://swarm.ethereum.org',
         title: 'Swarm',
       },
+      {
+        img: '/img/community/ethturin.png',
+        to: 'http://ethturin.com/',
+        title: 'Eth Turin',
+      },
     ]),
   ])
