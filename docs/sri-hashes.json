@@ -1,10 +1,10 @@
 {
-  "css": "sha384-w7DwE/lwz5PRhW0h9OgCRzjA4e3/w7gjm5Nz/gmzS9fE8zTg/dg6Ie6dlb1/aJwf",
-  "js": "sha384-NRRbGFNYMxDiDsKO0/7V327ry0JwQZLo2FuEG6UCfYOme9bb7c3osvtd7bw0M0Af",
+  "css": "sha384-Z4ytdJokyt48qbkxNZcaJ9cfaIzJomZXJbwdFElWOEX708mwyavLb/GW/0KsTXOe",
+  "js": "sha384-gpnl2GHVhKMgpyjc+nfdkqkQaxNQG8gpa2BCyyhUr+i81c6chJz0O0FoN4Hf2Lx/",
   "pages": {
-    "/": "sha384-Mr/LVPk8ZaIaCc7scgYFbdDlxvTxfWd1CM0UtYY809FxeuH/wJ5v6Aqq05wpIt+a",
-    "/404/": "sha384-xqXrmV9WkRt4Fjb6+eYjcweVrf+Z7zW7i5ROPzvwyVDCQNUwtI0HM54YRyNCSYsm",
-    "/privacy/": "sha384-mbuPyfn+dGkCMERHoLtaFlhoe5yrFUFhv3rVYRcoP9y1MJ8CmtRCuyZ0FX2Ulbs5"
+    "/": "sha384-ue+sZHPwCmLYkiXUhhEq/J0D246epSEHK83UQ2WNxbisp6a0fOjzFxI3rcA3O8dB",
+    "/404/": "sha384-7VV4OzA/Q1xgPaDu/UeeQH0zk7Wqqsm2AWzvcuPZmU0cN0i/PyWutecvj/tOcQ4z",
+    "/privacy/": "sha384-rn/+0zYJ/HvWVPAY275se2jlAuKSO71eQ3iWaR+UEfJvHcQM8oQYn0bjOZoKwvVn"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -13,11 +13,13 @@
     "/img/community/DoD.png": "sha384-Ufj0guwJ/CxGywS6Yi8Dwtxm211sX7PA93PaZcYbdmE0NJoFE39korkVOTDrl6Ak",
     "/img/community/codechain.png": "sha384-Ot1ZsmiRUScuhP+KPImJXRqTmQSUC4j1F8K3533/y7D5cF/wSXFyvu+MALjFsQM0",
     "/img/community/commonsstack.png": "sha384-M7Vg8L8oXJK2fl/iorMJ8fxw4cdTNKkmyTyW7huHIc8NKR+5/vOuXaJsALtsU8/u",
+    "/img/community/daofest.jpg": "sha384-epD7RBPOnLcyB94cNFXWvVnUQOezF17e8LFH3pwoF37vAZ2tCnMZq1hFL7Cr22fs",
     "/img/community/ethmagicians.png": "sha384-Vb2oJQloroqDJ1H7qjdbSPjuL/G18oEzd0JrZTvF7bjUK1aZyCTW24QT/VktgBrE",
     "/img/community/ethturin.png": "sha384-3UvtGLvO/dpqAiv7WLR6Tg1nHGmGgr2Xkil9rGei4juS4w/X7/SzdDvTv/GrHLwo",
     "/img/community/giveth.jpg": "sha384-NX6FrjeoJCEwuMuRxOjvxXznosbQhghE8jpXo9SaaEbdjE0ZA1x4Gld0rcFsvv1n",
     "/img/community/goerli.jpg": "sha384-S7656fmwMfsDJnb5lkPIlTG2sjXxqso4e3xLpDn9/Q8Ys2/eNwNyVT21seHnqwCE",
     "/img/community/kickback.png": "sha384-S2MD7UDJuUNIzwvH28EoIOpX8jbTQmwTKiL1KziL/qfg0F2IVM9CiODBjgxg/d9T",
+    "/img/community/leapdao.jpg": "sha384-dMlFht/uDD5y2C59xwg++NlI6P0txrg80t0HDYqdw43xTXIZ6gHLnhTyydYe4URH",
     "/img/community/metacartel.png": "sha384-Xhbovn0cEgK48BKhd3Yu1WktRBVVxizCUa1w73DcI99LZv2EAJvR2XazZwPeLkFT",
     "/img/community/metagame.png": "sha384-2KQEfsVSjprMeFTAyfY+0FyR6og0EV/QEyP24q23KJ7Twjq+FujGYN6+ioNeLDtU",
     "/img/community/mintbase.png": "sha384-zaNMtPn10Wrk97KL3GHzWc1M1Ylcs0PiGtd0os+DbRrio9nuo3WvgnQGQmtjDrGs",
@@ -38,6 +40,6 @@
     "/logo.png": "sha384-Q3ypbBxUVOxlS92PA5BWRCO0jK6/I0dFDAUPTLnLF6ZMgJCJMEjIydBjUUYfNtGJ",
     "/noncon2020-logo.png": "sha384-oiSaA/myQ8D1kp16bI1mQWmKs/bUWguuWN/rCggArhYY9jTio2h+HsjUvRJe62/2",
     "/robots.txt": "sha384-hWab9nDjega468pWIRjKpsihTLGkTuK2au4gH6EtmHj5zy3Kou4Sowouxr7P0ieq",
-    "/sitemap.xml": "sha384-ulx+NxrWir4SFZoVwc2zVERn0NiPhjCKS6l13H1RZ33qx5Cx/A8LKqWnu2XBDI8Y"
+    "/sitemap.xml": "sha384-BDMV3zB8W7SPfJBJDVfvDil60ZMwHM0KMMtvvTnneUiithWwUeSrM2r4flLgRYSU"
   }
 }
