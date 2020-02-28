@@ -83,5 +83,15 @@ export const View = () =>
         to: 'http://ethturin.com/',
         title: 'Eth Turin',
       },
+      {
+        img: '/img/community/leapdao.jpg',
+        to: 'http://leapdao.org/',
+        title: 'LeapDAO',
+      },
+      {
+        img: '/img/community/daofest.jpg',
+        to: 'http://daofest.io/',
+        title: 'DAOfest',
+      },
     ]),
   ])
