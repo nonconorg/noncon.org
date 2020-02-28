@@ -12,11 +12,11 @@ export const View = () =>
         to: 'https://bwb.is',
         title: 'bwb.is',
       },
-      {
-        img: '/img/organizers/riat.jpg',
-        to: 'https://riat.at',
-        title: 'riat.at',
-      },
+      // {
+        // img: '/img/organizers/riat.jpg',
+        // to: 'https://riat.at',
+        // title: 'riat.at',
+      // },
     ]),
   ])
 
