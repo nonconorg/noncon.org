@@ -182,6 +182,10 @@ export default (v = {}) => {
       body: {
         fontSize: '20px',
       },
+
+      '.Footer': {
+        fontSize: '0.9em',
+      }
     },
 
     [`@media screen and (min-width: ${v.widths.laptop})`]: {
