@@ -41,7 +41,7 @@ export const state = {
       menu: [
         { to: 'https://parallele.at', text: 'parallele.at' },
         { to: 'https://bwb.is', text: 'bwb.is' },
-        { to: 'https://riat.at', text: 'riat.at' },
+        // { to: 'https://riat.at', text: 'riat.at' },
       ],
     },
   },
