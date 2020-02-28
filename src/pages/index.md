@@ -28,7 +28,7 @@ We subscribe to these values and support them flowing out into other social spac
 
 <Img src='/img/in-the-eye.jpg'/>
 
-It's the reason for the edcon cancellation after all.",
+It's the reason for the edcon cancellation after all.
 We believe that public communication needs to shift from
 [containment to coping](https://www.psandman.com/col/swineflu2.htm),
 based on lessons learned from past viral infections.
