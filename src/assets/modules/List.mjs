@@ -1,6 +1,11 @@
-export const View = items =>
+export const View = ({ items, title, class: cl = '' }) =>
   ul(
-    { class: 'List' },
+    {
+      class: {
+        List: true,
+        [cl]: cl,
+      },
+    },
     items.map(i => [li(Link({ to: i.to }, [Img({ src: i.img, height: '90' }), i.title]))]),
   )
 
