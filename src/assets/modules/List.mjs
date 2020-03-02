@@ -20,6 +20,8 @@ export const style = {
     width: 'auto',
     display: 'block',
     margin: '0 auto 1em',
+    maxHeight: '90px',
+    height: 'auto',
   },
 
   '@media screen and (min-width: 600px)': {
