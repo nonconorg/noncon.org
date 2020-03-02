@@ -1,6 +1,6 @@
 <HeroImage state></HeroImage>
 
-<Cta to='https://the-commons-stack.typeform.com/to/SemYgK' text='SIGNUP'></Cta>
+<Cta to="https://the-commons-stack.typeform.com/to/SemYgK" text="SIGNUP"></Cta>
 
 <div>
 
@@ -26,7 +26,7 @@ We subscribe to these values and support them flowing out into other social spac
 
 ## Looking Covid-19 in The Eye
 
-<Img src='/img/in-the-eye.jpg'/>
+<Img src="/img/in-the-eye.jpg"></Img>
 
 It's the reason for the edcon cancellation after all.
 We believe that public communication needs to shift from
@@ -50,7 +50,7 @@ How do we plan to proceed with our conference?
 EN 12054 certified
 [Surgical hand sanitizer](https://en.wikipedia.org/wiki/Hand_sanitizer#Surgical_hand_disinfection)
 and Masks.
-[(It's a cypherpunk event after all)](https://twitter.com/TheRealSmuggler/status/1203361366708494342?s=20)
+[(It\\\'s a cypherpunk event after all)](https://twitter.com/TheRealSmuggler/status/1203361366708494342?s=20)
 
 ### Sanitization Process
 
@@ -63,7 +63,7 @@ to prevent the bottle(s) from being our infection vector.
 
 Those without a mask will get a bandana from us.
 
-<Img class='center' src='/img/bandana.png' />
+<Img class="center" src="/img/bandana.png"></Img>
 
 We advise everyone to wear some kind of glasses or goggles. <DealWithIt state></DealWithIt>
 
@@ -71,7 +71,6 @@ After sanitizing your hands,
 please make sure to cough into your elbow and not in your hands.
 
 Try not to touch your eyes, pick your nose, suck your thumb.
-
 
 Wash and/or sanitize your hands both **before and after** using the toilets
 
@@ -84,7 +83,7 @@ Please only touch people you touch on a regular basis anyways. No group cuddles,
 
 ## Venue
 
-<Img class='pageImg' src='/img/qryptoquberaumd.jpg' height="400" />
+<Img class="pageImg" src="/img/qryptoquberaumd.jpg" height="400"></Img>
 
 Located in the center of Vienna,
 our tentative venue
@@ -105,7 +104,7 @@ a short trip via
 from the Museumsquarter.
 </div>
 
-<div id='contacts'>
+<div id="contacts">
 
 ## Connect
 
@@ -123,17 +122,158 @@ Join our
 to coordinate with other attendees.
 
 Don't forget to
-[follow us on Twitter]()https://twitter.com/ParallelePolis)
+[follow us on Twitter](https://twitter.com/ParallelePolis)
 to keep up to date :-)
 
 Oldskool-stylee: [email](mailto:info@parallele.at)
 
-<Organizers></Organizers>
+## Organizers
 
-<Community></Community>
+<Organizers items="[
+  {
+    img: '/img/organizers/parallele.jpg',
+    to: 'https://parallele.at',
+    title: 'parallele polis',
+  },
+  {
+    img: '/img/organizers/institue-for-cryptoeconomics.jpg',
+    to: 'https://www.wu.ac.at/cryptoeconomics',
+    title: 'Cryptoeconomic Institute',
+  },
+  {
+    img: '/img/organizers/bwb.png',
+    to: 'https://bwb.is',
+    title: 'bwb.is',
+  },
+]"></Organizers>
 
-<MediaPartners></MediaPartners>
+## Financial Support
 
-<Cta to='https://app.ens.domains/name/noncon.eth' text='Donate'></Cta>
+<List items="[
+{
+  img: '/img/sponsors/parity.jpg',
+  to: 'https://parity.io/substrate',
+  title: 'parity substrate',
+},
+{
+  img: '/img/sponsors/raiden.jpg',
+  to: 'https://raiden.network',
+  title: 'raiden network',
+},
+]"></List>
+
+
+## Community
+
+<List items="[
+{
+  img: '/img/community/goerli.jpg',
+  to: 'https://goerli.net',
+  title: 'Goerli Testnet',
+},
+{
+  img: '/img/community/metagame.png',
+  to: 'https://metagame.wtf',
+  title: 'Metagame',
+},
+{
+  img: '/img/community/metacartel.png',
+  to: 'https://metacartel.org',
+  title: 'Metacartel',
+},
+{
+  img: '/img/community/giveth.jpg',
+  to: 'https://giveth.io',
+  title: 'Giveth',
+},
+{
+  img: '/img/community/commonsstack.png',
+  to: 'https://comonsstack.org',
+  title: 'Commons Stack',
+},
+{
+  img: '/img/community/mintbase.png',
+  to: 'https://mintbase.io',
+  title: 'Mintbase',
+},
+{
+  img: '/img/community/DoD.png',
+  to: 'https://twitter.com/ethberlin',
+  title: 'ETH Berlin',
+},
+{
+  img: '/img/community/rotki.png',
+  to: 'https://rotki.com',
+  title: 'Rotki',
+},
+{
+  img: '/img/community/codechain.png',
+  to: 'https://github.com/frankbraun/codechain',
+  title: 'Codechain',
+},
+{
+  img: '/img/community/webboot.png',
+  to: 'https://webboot.org',
+  title: 'Webboot',
+},
+{
+  img: '/img/community/progressbar.png',
+  to: 'https://progressbar.sk',
+  title: 'Progressbar',
+},
+{
+  img: '/img/community/ethmagicians.png',
+  to: 'http://ethereum-magicians.org/',
+  title: 'Eth Magicians',
+},
+{
+  img: '/img/community/kickback.png',
+  to: 'https://kickback.events',
+  title: 'Kickback',
+},
+{
+  img: '/img/community/poap.png',
+  to: 'https://poap.xyz',
+  title: 'POAP',
+},
+{
+  img: '/img/community/swarm.png',
+  to: 'https://swarm.ethereum.org',
+  title: 'Swarm',
+},
+{
+  img: '/img/community/ethturin.png',
+  to: 'http://ethturin.com/',
+  title: 'Eth Turin',
+},
+{
+  img: '/img/community/leapdao.jpg',
+  to: 'http://leapdao.org/',
+  title: 'LeapDAO',
+},
+{
+  img: '/img/community/daofest.jpg',
+  to: 'http://daofest.io/',
+  title: 'DAOfest',
+},
+]"></List>
+
+</div>
+
+<div>
+
+## Media Partners
+
+<List items="[
+{
+  img: '/img/mediapartners/bitcoinundco.jpg',
+  to: 'https://bitcoinundco.com',
+  title: 'Bitcoin und co',
+  },
+]"></List>
+
+</div>
+
+<Cta to="https://app.ens.domains/name/noncon.eth" text="Donate"></Cta>
 
 </div>
