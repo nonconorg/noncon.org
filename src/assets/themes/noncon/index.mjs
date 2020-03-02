@@ -185,7 +185,7 @@ export default (v = {}) => {
 
       '.Footer': {
         fontSize: '0.9em',
-      }
+      },
     },
 
     [`@media screen and (min-width: ${v.widths.laptop})`]: {
