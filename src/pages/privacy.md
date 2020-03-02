@@ -32,4 +32,5 @@ All purchasers of tickets will receive an non-personalized nft token.
 
 This token will not be required for entry, ! just come !,
 but will unlock some awesome goodies instead.
+
 </div>
