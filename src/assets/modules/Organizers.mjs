@@ -8,19 +8,25 @@ export const View = () =>
         title: 'parallele polis',
       },
       {
+        img: '/img/organizers/institue-for-cryptoeconomics.jpg',
+        to: 'https://www.wu.ac.at/cryptoeconomics',
+        title: 'Cryptoeconomic Institute',
+      },
+      {
         img: '/img/organizers/bwb.png',
         to: 'https://bwb.is',
         title: 'bwb.is',
       },
-      // {
-        // img: '/img/organizers/riat.jpg',
-        // to: 'https://riat.at',
-        // title: 'riat.at',
-      // },
     ]),
   ])
 
 export const style = {
+  li: {
+    display: 'block',
+    width: '80%',
+    margin: '0 auto 5em',
+  },
+
   '@media screen and (min-width: 850px)': {
     '.List': {
       li: {
