@@ -1,10 +1,10 @@
 {
-  "css": "sha384-7ZksMIJffOefGl5KjXkH7XIOlNMRvycEiZTzvwninVIeEeaF0wqX3YUOzUnBH1NH",
-  "js": "sha384-DZcJoaLd0WYLmPaQdl3s3DVGPbuHTOPENEieyeoVM9674i3zce88/hvvRNfq2cMu",
+  "css": "sha384-4X7X87/mLTEUdbbyxoD5Ef6CWn4tzHILDtLX5XHHvapvyP7hxHNoi61OcncXWNKA",
+  "js": "sha384-BmCv47+/mI/4Yq9XExjxZWgjxIB/42pXxMjO/Rhj2hdoZE2N9eWhy2aZ7DucFUXQ",
   "pages": {
-    "/": "sha384-nYDP05t2iOHxrpVrp/G8escKNRMc/EfT3ZZQahIOnYLDqDeQ2EN0Tj/IJ1Gkc0k/",
-    "/404/": "sha384-jVvhDpauAwT90DVTQnnpAHXan43bnrVxubMRPLU1kyAiKtWGoceXW+jeivWgfTa3",
-    "/privacy/": "sha384-n6sAN/1vAKFOCUphAqBuTsSjr2Ri0NCAP/241mOnvkCJTpB1gFWTh2qmsro+ZAZg"
+    "/": "sha384-rCzE5gE6VEnJAfQm8opTKobHNSu8Pbxu2mYDaQK/xg2IwlTD+CXttFkVPdoQRVVM",
+    "/404/": "sha384-0cFfdnS7R/6NIEmIaxM7lILdib8/i9TOPLS75CawWhg9o6joCLqSIY89Z07IDETm",
+    "/privacy/": "sha384-cTHjwG0AlaX6SA6lQVSUKkUk2AmYRgo5ac951f8jJPVLBbIW/qNEAgBNg+dZajb/"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -33,12 +33,14 @@
     "/img/mediapartners/bitcoinundco.jpg": "sha384-FyeIzETDk4yxuNXcD0pu5ZvnRCM37ocJtyoRVtQEOYXAcGKsWthbAK70HJWMwC1z",
     "/img/noncon2020-banner.jpg": "sha384-IK5VBvhiCv6rqn0antYZcVCWYpy5H7e1MORnoGHnjddR5hccIifjG72bt2I1M6yL",
     "/img/organizers/bwb.png": "sha384-pIa8coOwrmNG/QZh/WnTnY3T6SAoVcSQky66Ih35Hk2MaqMW81VVwLQM04t7nt4K",
-    "/img/organizers/institue-for-cryptoeconomics.jpg": "sha384-sHHr0RIj206MBM2LvsY7BgHDp/nGu33M3v3n4LlXacfV9G2gV8mrFj+XCMNAGOPa",
+    "/img/organizers/institue-for-cryptoeconomics.jpg": "sha384-ezs+urCSp++VcPitfqXSrZhF1SW1nBaYq9QxTU1W8NAwzIQEMMp4O43R56VBqTuq",
     "/img/organizers/parallele.jpg": "sha384-jiR5n1dLYrgKQ8l7RQVuWUPlSZiuE5I47ngvHWyhFuqZARqBgaztpfU766ljVx2H",
     "/img/qryptoquberaumd.jpg": "sha384-Nhw786FaCdxmd9DOkk7cQlREW2OCNMmrk4BMWdqcob2oKJVjAQ3/dM0Iz+tAng92",
+    "/img/sponsors/parity.jpg": "sha384-M+MgtEqwBvlEDpWcGQh9aYsytV83K758wm5/7f3cuD+A/QWUQgYK2qnfZrNQRyZ3",
+    "/img/sponsors/raiden.jpg": "sha384-fN3LdkXM+RtQewNdocQePPLIm3xExasZyK6nCf4mhE8/IbqjkelGIOZ8tZafgas9",
     "/logo.png": "sha384-Q3ypbBxUVOxlS92PA5BWRCO0jK6/I0dFDAUPTLnLF6ZMgJCJMEjIydBjUUYfNtGJ",
     "/noncon2020-logo.png": "sha384-oiSaA/myQ8D1kp16bI1mQWmKs/bUWguuWN/rCggArhYY9jTio2h+HsjUvRJe62/2",
     "/robots.txt": "sha384-hWab9nDjega468pWIRjKpsihTLGkTuK2au4gH6EtmHj5zy3Kou4Sowouxr7P0ieq",
-    "/sitemap.xml": "sha384-tZSq80Cm86rAu2LHSTzYIYsfOTGdZ7Qan8U7bECylCAfdD4YX/35UalW9MLFowYF"
+    "/sitemap.xml": "sha384-7CY9OXplOyBIPYrN9VW0g0gkov+ILxLME3z6smWzD+VeeJCiSw64ssmVW6BgNmCp"
   }
 }
