@@ -1,10 +1,10 @@
 {
-  "css": "sha384-5gdVqPcmd8lYEJhgEwqsTn4lxwStNtNnRt8Q0QFs4dTPFstXgl4fX9MVBIJUKcqa",
-  "js": "sha384-9oa3iTacB0YmAlsdCzhUCt/v4bHdEXhGrcbibqW5JPQ8dXItq9LViqR1KjmEBGdC",
+  "css": "sha384-7ZksMIJffOefGl5KjXkH7XIOlNMRvycEiZTzvwninVIeEeaF0wqX3YUOzUnBH1NH",
+  "js": "sha384-DZcJoaLd0WYLmPaQdl3s3DVGPbuHTOPENEieyeoVM9674i3zce88/hvvRNfq2cMu",
   "pages": {
-    "/": "sha384-DYu1THSt8Bx21Ab4BLHODT/h0lq9ahKp60GxS6pnSeTuCHbrUFI8TX26l9SQGGDJ",
-    "/404/": "sha384-r3p/Elq13kLPapO5n7Z0XUJnBwA0W4Au9KvQTgUs3mFHRQaBMkdk7poy1pmnYtDj",
-    "/privacy/": "sha384-y1J76y8vxARdsJjkP5U6AQNavx8YLAO9pRl58KsLm4gKRTL8kUUcNQg0OuXqcTdf"
+    "/": "sha384-nYDP05t2iOHxrpVrp/G8escKNRMc/EfT3ZZQahIOnYLDqDeQ2EN0Tj/IJ1Gkc0k/",
+    "/404/": "sha384-jVvhDpauAwT90DVTQnnpAHXan43bnrVxubMRPLU1kyAiKtWGoceXW+jeivWgfTa3",
+    "/privacy/": "sha384-n6sAN/1vAKFOCUphAqBuTsSjr2Ri0NCAP/241mOnvkCJTpB1gFWTh2qmsro+ZAZg"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -33,13 +33,12 @@
     "/img/mediapartners/bitcoinundco.jpg": "sha384-FyeIzETDk4yxuNXcD0pu5ZvnRCM37ocJtyoRVtQEOYXAcGKsWthbAK70HJWMwC1z",
     "/img/noncon2020-banner.jpg": "sha384-IK5VBvhiCv6rqn0antYZcVCWYpy5H7e1MORnoGHnjddR5hccIifjG72bt2I1M6yL",
     "/img/organizers/bwb.png": "sha384-pIa8coOwrmNG/QZh/WnTnY3T6SAoVcSQky66Ih35Hk2MaqMW81VVwLQM04t7nt4K",
+    "/img/organizers/institue-for-cryptoeconomics.jpg": "sha384-sHHr0RIj206MBM2LvsY7BgHDp/nGu33M3v3n4LlXacfV9G2gV8mrFj+XCMNAGOPa",
     "/img/organizers/parallele.jpg": "sha384-jiR5n1dLYrgKQ8l7RQVuWUPlSZiuE5I47ngvHWyhFuqZARqBgaztpfU766ljVx2H",
-    "/img/organizers/riat.jpg": "sha384-hcFpHdM5QpzQdAp8oBD7QL7Avu9lOAlajl71xE+aOH3ebhby5QtzeLPxNxtvLoV5",
-    "/img/organizers/riat.svg": "sha384-FYdjLczqs6xSl/S/LPMbp/80deC9+JDHQhqCwypezTyvNDluaFTfppgsBHD0I175",
     "/img/qryptoquberaumd.jpg": "sha384-Nhw786FaCdxmd9DOkk7cQlREW2OCNMmrk4BMWdqcob2oKJVjAQ3/dM0Iz+tAng92",
     "/logo.png": "sha384-Q3ypbBxUVOxlS92PA5BWRCO0jK6/I0dFDAUPTLnLF6ZMgJCJMEjIydBjUUYfNtGJ",
     "/noncon2020-logo.png": "sha384-oiSaA/myQ8D1kp16bI1mQWmKs/bUWguuWN/rCggArhYY9jTio2h+HsjUvRJe62/2",
     "/robots.txt": "sha384-hWab9nDjega468pWIRjKpsihTLGkTuK2au4gH6EtmHj5zy3Kou4Sowouxr7P0ieq",
-    "/sitemap.xml": "sha384-BDMV3zB8W7SPfJBJDVfvDil60ZMwHM0KMMtvvTnneUiithWwUeSrM2r4flLgRYSU"
+    "/sitemap.xml": "sha384-tZSq80Cm86rAu2LHSTzYIYsfOTGdZ7Qan8U7bECylCAfdD4YX/35UalW9MLFowYF"
   }
 }
