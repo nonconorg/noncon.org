@@ -1,10 +1,10 @@
 {
   "css": "sha384-4X7X87/mLTEUdbbyxoD5Ef6CWn4tzHILDtLX5XHHvapvyP7hxHNoi61OcncXWNKA",
-  "js": "sha384-8ey3MwXI5NAGOz6g1zNa2YjiF50pv6EZtV4bBgSNBdB7hnSjlGnMT9POMeQbViuX",
+  "js": "sha384-jLgFKkW0AKabypgtGlsp30q3EocrUqcA1kalcHDJ7p5C6uprs6AmaVI3G1QB61IJ",
   "pages": {
-    "/": "sha384-QhM1uTiu1TgLCR9Os0DU1ztGQooheG2sbhKeRjZs5CQPFenvzCjcfiS2BFjoAduJ",
-    "/404/": "sha384-kGOEknxbMZfwLfZXrIEgD+vBmWWE/2a79aa/0D2Baigd/0vjKx9Ei38CNGVn2xuS",
-    "/privacy/": "sha384-f/1CUZ78udGleTVLHHSYpNK5T+HnItYM3SNyQr7/M2wsZgpjzOzkEb8G1AyVCWx4"
+    "/": "sha384-m2d7GQoF+IDv+yhMJNRZfQ7NfKmXkujGYaKhyReJROgMuKJvThh4PA5w3rPpQxZQ",
+    "/404/": "sha384-Mpn4HNAK62p9MK6MxUtRUagT3cS3pXGuAykaw6Bnbif2oxyZkfltlcOalpTtJ2ws",
+    "/privacy/": "sha384-TOybWLZKEEwbl/9MUzXQRNYAyKr5mz/KzmofBGe2ta0+zABxy7WrHsE7dyzyVpLr"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -38,8 +38,10 @@
     "/img/organizers/institue-for-cryptoeconomics.jpg": "sha384-ezs+urCSp++VcPitfqXSrZhF1SW1nBaYq9QxTU1W8NAwzIQEMMp4O43R56VBqTuq",
     "/img/organizers/parallele.jpg": "sha384-jiR5n1dLYrgKQ8l7RQVuWUPlSZiuE5I47ngvHWyhFuqZARqBgaztpfU766ljVx2H",
     "/img/qryptoquberaumd.jpg": "sha384-Nhw786FaCdxmd9DOkk7cQlREW2OCNMmrk4BMWdqcob2oKJVjAQ3/dM0Iz+tAng92",
-    "/img/sponsors/parity.jpg": "sha384-M+MgtEqwBvlEDpWcGQh9aYsytV83K758wm5/7f3cuD+A/QWUQgYK2qnfZrNQRyZ3",
+    "/img/sponsors/keycard.png": "sha384-VFw435ofA8naQnxyK3J0PpZu+Zlsg9V/IqDt4TedMIM1c0ChPK/hxvyVqnDuI3yy",
+    "/img/sponsors/parity.jpg": "sha384-bYdfa6RQ5rMt3PCPU2hucvLREeFxLUQ0yAqbcaL3iY9Ehxkzq/x30af7ue4vbFDl",
     "/img/sponsors/raiden.jpg": "sha384-fN3LdkXM+RtQewNdocQePPLIm3xExasZyK6nCf4mhE8/IbqjkelGIOZ8tZafgas9",
+    "/img/sponsors/status.png": "sha384-zYDj2ywzH+5eZJpIVJDzVoK6NA+N9VWq82Bh/u/G5tFbopbeJfQQ1ZXAQwOLqYqY",
     "/logo.png": "sha384-Q3ypbBxUVOxlS92PA5BWRCO0jK6/I0dFDAUPTLnLF6ZMgJCJMEjIydBjUUYfNtGJ",
     "/noncon2020-logo.png": "sha384-oiSaA/myQ8D1kp16bI1mQWmKs/bUWguuWN/rCggArhYY9jTio2h+HsjUvRJe62/2",
     "/robots.txt": "sha384-hWab9nDjega468pWIRjKpsihTLGkTuK2au4gH6EtmHj5zy3Kou4Sowouxr7P0ieq",
