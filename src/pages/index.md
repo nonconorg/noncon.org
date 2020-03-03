@@ -153,12 +153,22 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 {
   img: '/img/sponsors/parity.jpg',
   to: 'https://parity.io/substrate',
-  title: 'parity substrate',
+  title: 'parity',
 },
 {
   img: '/img/sponsors/raiden.jpg',
   to: 'https://raiden.network',
-  title: 'raiden network',
+  title: 'raiden',
+},
+{
+  img: '/img/sponsors/status.png',
+  to: 'https://status.im/',
+  title: 'status',
+},
+{
+  img: '/img/sponsors/keycard.png',
+  to: 'https://keycard.tech/',
+  title: 'keycard',
 },
 ]"></List>
 
