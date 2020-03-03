@@ -276,6 +276,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   to: 'https://whiteblock.io/',
   title: 'whiteblock',
 },
+{
+  img: '/img/community/urbit.png',
+  to: 'https://urbit.org',
+  title: 'urbit',
+},
 ]"></List>
 
 </div>
