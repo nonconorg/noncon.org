@@ -86,7 +86,7 @@ Please only touch people you touch on a regular basis anyways. No group cuddles,
 <Img class="pageImg" src="/img/qryptoquberaumd.jpg" height="400"></Img>
 
 Located in the center of Vienna,
-our tentative venue
+our venue
 [Raum D](https://www.mqw.at/en/institutions/q21/institutions/raum-d-q21)
 can comfortably hold 100 people.
 
@@ -223,7 +223,7 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 },
 {
   img: '/img/community/ethmagicians.png',
-  to: 'http://ethereum-magicians.org/',
+  to: 'https://ethereum-magicians.org/',
   title: 'Eth Magicians',
 },
 {
@@ -243,18 +243,28 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 },
 {
   img: '/img/community/ethturin.png',
-  to: 'http://ethturin.com/',
+  to: 'https://ethturin.com/',
   title: 'Eth Turin',
 },
 {
   img: '/img/community/leapdao.jpg',
-  to: 'http://leapdao.org/',
+  to: 'https://leapdao.org/',
   title: 'LeapDAO',
 },
 {
   img: '/img/community/daofest.jpg',
-  to: 'http://daofest.io/',
+  to: 'https://daofest.io/',
   title: 'DAOfest',
+},
+{
+  img: '/img/community/trustlines.png',
+  to: 'https://trustlines.network/',
+  title: 'Trustlines',
+},
+{
+  img: '/img/community/whiteblock.png',
+  to: 'https://whiteblock.io/',
+  title: 'whiteblock',
 },
 ]"></List>
 
