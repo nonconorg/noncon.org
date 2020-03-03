@@ -1,10 +1,10 @@
 {
   "css": "sha384-4X7X87/mLTEUdbbyxoD5Ef6CWn4tzHILDtLX5XHHvapvyP7hxHNoi61OcncXWNKA",
-  "js": "sha384-jLgFKkW0AKabypgtGlsp30q3EocrUqcA1kalcHDJ7p5C6uprs6AmaVI3G1QB61IJ",
+  "js": "sha384-hDT67bdx2Cb5rdQikZjzJE+cDDZW7K2kIt9YKDzQ4krdOokiPEqJMzhxiyzTkpxs",
   "pages": {
-    "/": "sha384-m2d7GQoF+IDv+yhMJNRZfQ7NfKmXkujGYaKhyReJROgMuKJvThh4PA5w3rPpQxZQ",
-    "/404/": "sha384-Mpn4HNAK62p9MK6MxUtRUagT3cS3pXGuAykaw6Bnbif2oxyZkfltlcOalpTtJ2ws",
-    "/privacy/": "sha384-TOybWLZKEEwbl/9MUzXQRNYAyKr5mz/KzmofBGe2ta0+zABxy7WrHsE7dyzyVpLr"
+    "/": "sha384-TH8aVkDfvkGOdG/CJ3v/1KS4K+14MleVUR5bIZLryReBSzTncw3uCxAQYEzTTAo1",
+    "/404/": "sha384-BG63nzLUJOHxivu2PttX1JK265fQghAtevZWnj7A4t448/sxvzcxe9la9jFdFcKG",
+    "/privacy/": "sha384-t+CMaMnxQbXFqZtT77C/L8m8tDgMPn9OP6uJE7JoIlYJdc54ru6riB1xYgVL5Sgf"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -28,6 +28,7 @@
     "/img/community/rotki.png": "sha384-LA8JiKMfb1oyywVdq1DXmc4RKpcvnuD5c7k5Mz4Ugw9bXkUo7tuG1c/h//v7Z2aX",
     "/img/community/swarm.png": "sha384-neFhhutvk6uH1hGajznUp/q4okHJXPJ/KMYyL2IS+F0XGQm/3qYfuKqlgHSi5KK4",
     "/img/community/trustlines.png": "sha384-2F5hQPlRJGcpZBzchi9sRjwQgwi/kOxQLYrBABgqRfD3SOmmYhp5FgCpWxAUeDnb",
+    "/img/community/urbit.png": "sha384-gwOMZzhJnmXc0CSBETiU+O0gsYuYltF54oIpkO9dIknIWskzUMm869jyRRwPRk2v",
     "/img/community/webboot.png": "sha384-zgLUFTU0QUwOvnXNQ5LIRu1+RY7+OJ1I++3SpGVHiSaVcVL63jX6dfHS5X4uVpbg",
     "/img/community/whiteblock.png": "sha384-X0wI4HyYiNimA2IAjkNfJ7/6pni/bB+EYD09YZq/x0O2BcecbAW3Tg+BY8lmaCRD",
     "/img/dealwithit.gif": "sha384-EKlw/1zCVF8hNqtYbmVrFgexoImqRPUVoskzQvEd2P08nZfzA6alhRklZeS7wPjh",
@@ -45,6 +46,6 @@
     "/logo.png": "sha384-Q3ypbBxUVOxlS92PA5BWRCO0jK6/I0dFDAUPTLnLF6ZMgJCJMEjIydBjUUYfNtGJ",
     "/noncon2020-logo.png": "sha384-oiSaA/myQ8D1kp16bI1mQWmKs/bUWguuWN/rCggArhYY9jTio2h+HsjUvRJe62/2",
     "/robots.txt": "sha384-hWab9nDjega468pWIRjKpsihTLGkTuK2au4gH6EtmHj5zy3Kou4Sowouxr7P0ieq",
-    "/sitemap.xml": "sha384-7CY9OXplOyBIPYrN9VW0g0gkov+ILxLME3z6smWzD+VeeJCiSw64ssmVW6BgNmCp"
+    "/sitemap.xml": "sha384-TJ95Z7cZNQsaTwwfnIRxlM3URDnMSWqQNbWjT3T9e5jNBf3HEZEQW6UVE/n67hgd"
   }
 }
