@@ -67,13 +67,13 @@ Blockchain and art
 DFO: The Next wave of Dapps without founders
 
 [John Adler](https://twitter.com/jadler0)
-Fuel: Scaling Ethereum with Optimistic Rollups |
+Fuel: Scaling Ethereum with Optimistic Rollups
 
 [Eldar Khamitov](https://www.linkedin.com/in/ekhamitov/)
-Multi-Party Computation in cryptowallets |
+Multi-Party Computation in cryptowallets
 
 [Thomas Zeinzinger](https://twitter.com/tze42)
-Minerva - Digital Wallet Multiverse |
+Minerva - Digital Wallet Multiverse
 
 [Johan Barbie](https://twitter.com/johba)
 layer-2, rollups, plasma, onboarding-ux
