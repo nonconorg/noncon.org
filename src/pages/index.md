@@ -39,6 +39,8 @@ a short trip via
 from the Museumsquarter.
 </div>
 
+## Speakers
+
 <div id="speakers">
   
 Listed in the order we received their application; we'll be adding more!
