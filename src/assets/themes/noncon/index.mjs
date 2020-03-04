@@ -124,6 +124,15 @@ export default (v = {}) => {
       },
     },
 
+    '.Speakers': {
+      h3: {
+        padding: 0,
+      },
+      li: {
+        textAlign: 'center',
+      },
+    },
+
     '.Footer': {
       fontSize: '1em',
       width: '100%',
