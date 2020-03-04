@@ -291,6 +291,11 @@ fairdatasociety.jpg},
   to: 'https://loki.network/',
   title: 'Loki Network',
 },
+{
+  img: '/img/community/condensat.tech.png',
+  to: 'https://condensat.tech/',
+  title: 'Condensat',
+},
 ]"></List>
 
 </div>
