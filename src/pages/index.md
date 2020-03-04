@@ -18,7 +18,7 @@ We subscribe to these values and support them flowing out into other social spac
 
 ## Venue
 
-<Img class="pageImg" src="/img/qryptoquberaumd.jpg" height="400"></Img>
+<Img class="pageImg" src="/img/noncon-raum-d.jpg" height="400"></Img>
 
 Located in the center of Vienna,
 our venue
