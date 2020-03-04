@@ -39,7 +39,90 @@ a short trip via
 from the Museumsquarter.
 </div>
 
+<div id="speakers">
+  
+Listed in the order we received their application; we'll be adding more!
+
+[Artem Vorotnikov](https://twitter.com/vorot93)
+OpenEthereum onboarding and development
+
+[Anja Blaj](https://twitter.com/AnjaBlaj)
+Legal challenges and dimensions for virtual conducts
+
+[Stefan Starflinger](https://twitter.com/stefan_star)
+Deep dive into the ETH 2.0 Beacon Chain explorer 
+
+[Jacob Czepluch](https://twitter.com/_czepluch)
+Layer 2 scalability and payment channels
+
+[Maria Magenes](https://twitter.com/mariamagenes1)
+DeFi and the role of Maker
+
+[Maria-Paula Fernandez](https://twitter.com/MPtherealMVP) & [Stina Gustafsson](https://twitter.com/stinalinneag)
+Blockchain and art
+
+[Alessandromlt](https://twitter.com/alessandromlt)
+DFO: The Next wave of Dapps without founders
+
+[John Adler](https://twitter.com/jadler0)
+Fuel: Scaling Ethereum with Optimistic Rollups |
+
+[Eldar Khamitov](https://www.linkedin.com/in/ekhamitov/)
+Multi-Party Computation in cryptowallets |
+
+[Thomas Zeinzinger](https://twitter.com/tze42)
+Minerva - Digital Wallet Multiverse |
+
+[Johan Barbie](https://twitter.com/johba)
+layer-2, rollups, plasma, onboarding-ux
+
+[Afri Schoeden](https://https://twitter.com/a4fri)
+Something Something Görli
+
+[Griff Green](https://twitter.com/thegrifft)
+Using Token Engineering to align incentives around non-profit causes
+
+[Carol-Ann O'Hagan](https://twitter.com/cajboh)
+Substrate: The Blockchain Framework
+
+[Speaker TBD](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md)
+Aeternity's Sophia smart contract language
+
+[Anita Posch](https://twitter.com/AnitaPosch) 
+Bitcoin Should be Making a Difference in Zimbabwe and Botswana ... But Is It?
+
+[Zak Cole](https://twitter.com/0xzak)
+P2P Networks & Peer Discovery
+
+[Viktor Trón](https://https://twitter.com/zeligf)
+The Book of Swarm
+
+[Matilde Park](https://twitter.com/matildepark_)
+Creating interfaces for P2P communities
+
+[Jascha Ehrenreich](https://keybase.io/jascha)
+Solving the Trust On First Use problem with @webboot
+
+[Gregor Žavcer](https://twitter.com/jssr)
+Striving towards a Society of Fair Data
+
+Mel Kuttan
+Permissionless innovation: building a private messenger using blockchain & crypto frameworks
+
+[Julien Guitton](https://twitter.com/weedcoder)
+Removing Friction with Crypto-native banking  
+
+[Rachel Black](https://twitter.com/rachblondon)
+Building with composable data and user identities
+
+[Dave Appleton](https://twitter.com/appletondave)
+Gold as a store of value for international financial inclusion / social impact projects
+
+[Igor Barinov](https://twitter.com/barinov)
+Arbitrary Message Bridge for Ethereum interoperability 
 <div id="contacts">
+  
+<div>
 
 ## Connect
 
