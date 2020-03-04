@@ -127,6 +127,10 @@ to keep up to date :-)
 
 Oldskool-stylee: [email](mailto:info@parallele.at)
 
+</div>
+
+<div>
+
 ## Organizers
 
 <Organizers items="[
@@ -146,6 +150,10 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
     title: 'bwb.is',
   },
 ]"></Organizers>
+
+</div>
+
+<div>
 
 ## Financial Support
 
@@ -172,6 +180,9 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 },
 ]"></List>
 
+</div>
+
+<div>
 
 ## Community
 
