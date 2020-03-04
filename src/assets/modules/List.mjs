@@ -15,32 +15,31 @@ export const style = {
   li: {
     clear: 'both',
     display: 'inline-block',
-    margin: '0.5em 0 5em',
-    width: '48%',
     margin: '0 0.99% 5em',
     textAlign: 'center',
+    width: '48%',
   },
 
   img: {
-    width: 'auto',
     display: 'block',
+    height: 'auto',
     margin: '0 auto 1em',
     maxHeight: '90px',
-    height: 'auto',
+    width: 'auto',
   },
 
   '@media screen and (min-width: 600px)': {
     li: {
       clear: 'none',
-      width: '30%',
       margin: '0 1.49% 5em',
+      width: '30%',
     },
   },
 
   '@media screen and (min-width: 850px)': {
     li: {
-      width: '23%',
       margin: '0 0.99% 5em',
+      width: '23%',
     },
   },
 }
