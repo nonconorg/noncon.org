@@ -286,6 +286,11 @@ fairdatasociety.jpg},
   to: 'https://fairdatasociety.org/',
   title: 'Fair Data Society',
 },
+{
+  img: '/img/community/loki-network.jpg',
+  to: 'https://loki.network/',
+  title: 'Loki Network',
+},
 ]"></List>
 
 </div>
