@@ -170,6 +170,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   to: 'https://keycard.tech/',
   title: 'keycard',
 },
+{
+  img: '/img/sponsors/poa-network.png',
+  to: 'https://www.poa.network/',
+  title: 'POA Network',
+},
 ]"></List>
 
 
