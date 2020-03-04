@@ -280,6 +280,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   img: '/img/community/urbit.png',
   to: 'https://urbit.org',
   title: 'urbit',
+fairdatasociety.jpg},
+{
+  img: '/img/community/fairdatasociety.jpg',
+  to: 'https://fairdatasociety.org/',
+  title: 'Fair Data Society',
 },
 ]"></List>
 
