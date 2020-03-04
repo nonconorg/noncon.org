@@ -182,6 +182,38 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 
 </div>
 
+
+<div>
+
+## Speakers
+
+<Speakers items="[
+['Artem Vorotnikov', 'https://twitter.com/vorot93', 'OpenEthereum onboarding and development'],
+['Anja Blaj', 'https://twitter.com/AnjaBlaj', 'Legal challenges and dimensions for virtual conducts'],
+['Stefan Starflinger', 'https://twitter.com/stefan_star', 'Deep dive into the ETH 2.0 Beacon Chain explorer'],
+['Jacob Czepluch', 'https://twitter.com/_czepluch', 'Layer 2 scalability and payment channels'],
+['Maria Magenes', 'https://twitter.com/mariamagenes1', 'DeFi and the role of Maker'],
+['Stina Gustafsson', 'https://twitter.com/stinalinneag', 'Blockchain and art'],
+['Maria-Paula Fernandez', 'https://twitter.com/MPtherealMVP', 'Blockchain and art'],
+['Alessandromlt', 'https://twitter.com/alessandromlt', 'DFO: The Next wave of Dapps without founders'],
+['John Adler', 'https://twitter.com/jadler0', 'Fuel: Scaling Ethereum with Optimistic Rollups'],
+['Eldar Khamitov', 'https://www.linkedin.com/in/ekhamitov/', 'Multi-Party Computation in cryptowallets'],
+['Thomas Zeinzinger', 'https://twitter.com/tze42', 'Minerva - Digital Wallet Multiverse'],
+['Johan Barbie', 'https://twitter.com/johba', 'layer-2, rollups, plasma, onboarding-ux'],
+['Afri Schoeden', 'https://https://twitter.com/a4fri', 'Something Something Görli'],
+['Griff Green', 'https://twitter.com/thegrifft', 'Using Token Engineering to align incentives around non-profit causes'],
+['Carol-Ann O\'Hagan', 'https://twitter.com/cajboh', 'Substrate: The Blockchain Framework'],
+['TBD', '', 'Aeternity\'s Sophia smart contract language'],
+['Anita Posch', 'https://twitter.com/AnitaPosch', 'Reporting from Zimbabwe and Botswana: Where Bitcoin Should be Making a Difference ... But Is It?'],
+['Zak Cole', 'https://twitter.com/0xzak', 'P2P Networks & Peer Discovery'],
+['Viktor Trón', 'https://https://twitter.com/zeligf', 'The Book of Swarm'],
+['Matilde Park', 'https://twitter.com/matildepark_', 'Creating interfaces for P2P communities'],
+['Jascha Ehrenreich', 'https://keybase.io/jascha', 'Solving the Trust On First Use problem wth @webboot'],
+['Gregor Žavcer', 'https://twitter.com/jssr', 'Striving towards a Society of Fair Dat'],
+]"></Speakers>
+
+</div>
+
 <div>
 
 ## Community
