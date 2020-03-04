@@ -16,20 +16,18 @@ We subscribe to these values and support them flowing out into other social spac
 [Read More...](https://www.parallele.at/not-a-conference-not-a-conjob/),
 </div>
 
+<div>
+
+<div id="venue>
+
 ## Venue
 
 <Img class="pageImg" src="/img/noncon-raum-d.jpg" height="400"></Img>
 
-Located in the center of Vienna,
-our venue
-[Raum D](https://www.mqw.at/en/institutions/q21/institutions/raum-d-q21)
-can comfortably hold 100 people.
+Located in the center of Vienna our venue [Raum D](https://www.mqw.at/en/institutions/q21/institutions/raum-d-q21)
+in the [Museumsquarter](https://www.mqw.at/institutionen/q21/)
 
-It is directly opposite our
-[Qrypto Qube](https://www.parallele.at/#qrypto-qube)
-on Electric Avenue in the
-[Museumsquarter](https://www.mqw.at/institutionen/q21/)
-and based on the response, we can scale up the amount of space we utilize there.
+<Img class="pageImg" src="/img/nQ21-QDK-01.png" height="150"></Img>
 
 If you are arriving earlier than April 3rd,
 and staying longer than April 6, you can hang out in our coworking space,
@@ -122,6 +120,8 @@ Gold as a store of value for international financial inclusion / social impact p
 
 [Igor Barinov](https://twitter.com/barinov)
 Arbitrary Message Bridge for Ethereum interoperability 
+</dv>
+
 <div id="contacts">
   
 <div>
