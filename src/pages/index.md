@@ -122,7 +122,7 @@ DeFi and the role of Maker
 ### [Maria-Paula Fernandez](https://twitter.com/MPtherealMVP) & [Stina Gustafsson](https://twitter.com/stinalinneag)
 Blockchain and art
 
-### [Alessandromlt](https://twitter.com/alessandromlt)
+### [Alessandro Mario Laganà Toschi](https://twitter.com/alessandromlt)
 DFO: The Next wave of Dapps without founders
 
 ### [John Adler](https://twitter.com/jadler0)
