@@ -84,10 +84,9 @@ We'll be sorry to see you leave, hope to see you again soon!
 
 <Img class="pageImg" src="/img/noncon-raum-d.jpg" height="400"></Img>
 
-Our venue [Raum D](https://www.mqw.at/en/institutions/q21/institutions/raum-d-q21)
-is located in the heart of historical Vienna in the [Museumsquarter](https://www.mqw.at/institutionen/q21/) There are multiple restaurants on-site.
-
 <Img class="pageImg" src="/img/Q21-QDK-01.png" height="150"></Img>
+
+Our venue [Raum D](https://www.mqw.at/en/institutions/q21/institutions/raum-d-q21) is located in the heart of historical Vienna in the [Museumsquarter](https://www.mqw.at/institutionen/q21/) There are multiple restaurants on-site.
 
 If you are arriving earlier than April 3rd,
 and staying longer than April 6, you can hang out in our coworking space,
@@ -120,7 +119,7 @@ Layer 2 scalability and payment channels
 ### [Maria Magenes](https://twitter.com/mariamagenes1)
 DeFi and the role of Maker
 
-### [Maria-Paula Fernandez](https://twitter.com/MPtherealMVP) & ### [Stina Gustafsson](https://twitter.com/stinalinneag)
+### [Maria-Paula Fernandez](https://twitter.com/MPtherealMVP) & [Stina Gustafsson](https://twitter.com/stinalinneag)
 Blockchain and art
 
 ### [Alessandromlt](https://twitter.com/alessandromlt)
@@ -168,7 +167,7 @@ Solving the Trust On First Use problem with @webboot
 ### [Gregor Žavcer](https://twitter.com/jssr)
 Striving towards a Society of Fair Data
 
-### Mel Kuttan
+### [Mel Kuttan](https://loki.network)
 Permissionless innovation: building a private messenger using blockchain & crypto frameworks
 
 ### [Julien Guitton](https://twitter.com/weedcoder)
@@ -184,6 +183,8 @@ Gold as a store of value for international financial inclusion / social impact p
 Arbitrary Message Bridge for Ethereum interoperability
 
 </div>
+
+<div>
 
 <div id="contacts">
 
