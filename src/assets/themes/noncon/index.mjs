@@ -126,10 +126,12 @@ export default (v = {}) => {
 
     '.Speakers': {
       h3: {
+        textAlign: 'center',
         padding: 0,
       },
-      li: {
+      p: {
         textAlign: 'center',
+        width: '100%',
       },
     },
 
