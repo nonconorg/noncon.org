@@ -6,6 +6,8 @@
 
 ## <p>Not a Conference.</p><p>Not a Conjob.</p>
 
+It's not what you do or where you go, it's the friends you make along the way. 
+
 NONCON 2020  is smaller in scope, cheaper, and in general more community
 oriented than EDCON. The main topics are tilted towards community, development, 
 and security, and inclusive of interests outside the Ethereum ecosystem
@@ -18,14 +20,73 @@ We subscribe to these values and support them flowing out into other social spac
 
 <div>
 
+<div id="tickets">
+
+## Tickets
+
+Ticketing will be via NFT on a donation basis beginning on or around March 15th.
+
+This means you don't HAVE to pay to attend, but you will be supporting us if you do.
+
+Those who do support the event by securing an NFT will get cool handmade branded schwag 
+& other perks, those who don't, won't. You'll still have to register for an event badge 
+though to attend talks and workshops for all four days of the event. 
+</div>
+
+<div>
+
+<div id="schedule">
+
+## Schedule
+
+### Friday, April 3
+
+Registration opens 12 noon
+
+Opening Ceremony 19:00
+
+Socialize & Party til Midnight
+
+### Saturday, April 4
+
+Talks and Workshops 10:00 - 14:30
+
+Lunchbreak 14:30 - 16:00
+
+Talks and Workshops 16:00 - 20:00
+
+Afterwards: Enjoy Vienna Nightlife!
+
+### Sunday, April 5
+
+Talks and Workshops 10 - 14:30
+
+Lunchbreak 14:30 - 16:00
+
+Talks and Workshops 16:00 - 20:00
+
+Vienna is dead at night on Sundays. Get some sleep.
+
+
+### Monday April 6
+
+Talks and Workshops 10 - 14:00
+
+Closing Speeches, Bounty Winners, etc. 15 - 16:00
+
+We'll be sorry to see you leave, hope to see you again soon!
+</div>
+
+<div>
+
 <div id="venue>
 
 ## Venue
 
 <Img class="pageImg" src="/img/noncon-raum-d.jpg" height="400"></Img>
 
-Located in the center of Vienna our venue [Raum D](https://www.mqw.at/en/institutions/q21/institutions/raum-d-q21)
-in the [Museumsquarter](https://www.mqw.at/institutionen/q21/)
+Our venue [Raum D](https://www.mqw.at/en/institutions/q21/institutions/raum-d-q21)
+is located in the heart of historical Vienna in the [Museumsquarter](https://www.mqw.at/institutionen/q21/) There are multiple restaurants on-site.
 
 <Img class="pageImg" src="/img/nQ21-QDK-01.png" height="150"></Img>
 
@@ -36,6 +97,8 @@ a short trip via
 [public transport](https://www.google.com/maps/dir/MuseumsQuartier,+Museumsplatz,+Vienna/Hofstattgasse+4,+1180+Wien/@48.2167831,16.3352999,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d07903eeb4fdf:0x94d429b3eb41ebff!2m2!1d16.3586166!2d48.2033369!1m5!1m1!1s0x476d07d13a94c74d:0x9a5f70aab1cc7fb5!2m2!1d16.3409366!2d48.2283202!3e3)
 from the Museumsquarter.
 </div>
+
+<div>
 
 ## Speakers
 
@@ -120,7 +183,7 @@ Gold as a store of value for international financial inclusion / social impact p
 
 [Igor Barinov](https://twitter.com/barinov)
 Arbitrary Message Bridge for Ethereum interoperability 
-</dv>
+</div>
 
 <div id="contacts">
   
@@ -340,6 +403,8 @@ fairdatasociety.jpg},
 </div>
 
 <div>
+
+<div id="covid">
 ## Looking Covid-19 in The Eye
 
 <Img src="/img/in-the-eye.jpg"></Img>
@@ -394,7 +459,7 @@ Please only touch people you touch on a regular basis anyways. No group cuddles,
 
 [Read more...](https://www.parallele.at/lets-look-covid-19-dead-in-the-eye/)
 
-[Open Source Information Collection Platform for Wuhan Covid-19 Epidemic Prevention] (https://github.com/wuhan2020/wuhan2020/blob/master/README_EN.md)
+[Open Source Information Collection Platform for Wuhan Covid-19 Epidemic Prevention](https://github.com/wuhan2020/wuhan2020/blob/master/README_EN.md)
 </div>
 
 <div>
