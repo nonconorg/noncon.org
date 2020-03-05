@@ -6,19 +6,18 @@
 
 ## <p>Not a Conference.</p><p>Not a Conjob.</p>
 
-NONCON 2020  is smaller in scope, cheaper, and in general more community
-oriented than EDCON. The main topics are tilted towards community, development, 
+NONCON 2020 is smaller in scope, cheaper, and in general more community
+oriented than EDCON. The main topics are tilted towards community, development,
 and security, and inclusive of interests outside the Ethereum ecosystem
 to include all cypherpunk and privacy focused individuals and communities.
 
 Open source Blockchain projects celebrate permissionless innovation and self sovereignty.
 We subscribe to these values and support them flowing out into other social spaces.
 [Read More...](https://www.parallele.at/not-a-conference-not-a-conjob/),
+
 </div>
 
-<div>
-
-<div id="venue>
+<div id="venue">
 
 ## Venue
 
@@ -27,7 +26,7 @@ We subscribe to these values and support them flowing out into other social spac
 Located in the center of Vienna our venue [Raum D](https://www.mqw.at/en/institutions/q21/institutions/raum-d-q21)
 in the [Museumsquarter](https://www.mqw.at/institutionen/q21/)
 
-<Img class="pageImg" src="/img/nQ21-QDK-01.png" height="150"></Img>
+<Img class="pageImg" src="/img/Q21-QDK-01.png" height="150"></Img>
 
 If you are arriving earlier than April 3rd,
 and staying longer than April 6, you can hang out in our coworking space,
@@ -35,96 +34,96 @@ and staying longer than April 6, you can hang out in our coworking space,
 a short trip via
 [public transport](https://www.google.com/maps/dir/MuseumsQuartier,+Museumsplatz,+Vienna/Hofstattgasse+4,+1180+Wien/@48.2167831,16.3352999,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d07903eeb4fdf:0x94d429b3eb41ebff!2m2!1d16.3586166!2d48.2033369!1m5!1m1!1s0x476d07d13a94c74d:0x9a5f70aab1cc7fb5!2m2!1d16.3409366!2d48.2283202!3e3)
 from the Museumsquarter.
+
 </div>
+
+<div class="Speakers">
 
 ## Speakers
 
-<div id="speakers">
-  
 Listed in the order we received their application; we'll be adding more!
 
-[Artem Vorotnikov](https://twitter.com/vorot93)
+### [Artem Vorotnikov](https://twitter.com/vorot93)
 OpenEthereum onboarding and development
 
-[Anja Blaj](https://twitter.com/AnjaBlaj)
+### [Anja Blaj](https://twitter.com/AnjaBlaj)
 Legal challenges and dimensions for virtual conducts
 
-[Stefan Starflinger](https://twitter.com/stefan_star)
-Deep dive into the ETH 2.0 Beacon Chain explorer 
+### [Stefan Starflinger](https://twitter.com/stefan_star)
+Deep dive into the ETH 2.0 Beacon Chain explorer
 
-[Jacob Czepluch](https://twitter.com/_czepluch)
+### [Jacob Czepluch](https://twitter.com/_czepluch)
 Layer 2 scalability and payment channels
 
-[Maria Magenes](https://twitter.com/mariamagenes1)
+### [Maria Magenes](https://twitter.com/mariamagenes1)
 DeFi and the role of Maker
 
-[Maria-Paula Fernandez](https://twitter.com/MPtherealMVP) & [Stina Gustafsson](https://twitter.com/stinalinneag)
+### [Maria-Paula Fernandez](https://twitter.com/MPtherealMVP) & ### [Stina Gustafsson](https://twitter.com/stinalinneag)
 Blockchain and art
 
-[Alessandromlt](https://twitter.com/alessandromlt)
+### [Alessandromlt](https://twitter.com/alessandromlt)
 DFO: The Next wave of Dapps without founders
 
-[John Adler](https://twitter.com/jadler0)
+### [John Adler](https://twitter.com/jadler0)
 Fuel: Scaling Ethereum with Optimistic Rollups
 
-[Eldar Khamitov](https://www.linkedin.com/in/ekhamitov/)
+### [Eldar Khamitov](https://www.linkedin.com/in/ekhamitov/)
 Multi-Party Computation in cryptowallets
 
-[Thomas Zeinzinger](https://twitter.com/tze42)
+### [Thomas Zeinzinger](https://twitter.com/tze42)
 Minerva - Digital Wallet Multiverse
 
-[Johan Barbie](https://twitter.com/johba)
+### [Johan Barbie](https://twitter.com/johba)
 layer-2, rollups, plasma, onboarding-ux
 
-[Afri Schoeden](https://https://twitter.com/a4fri)
+### [Afri Schoeden](https://https://twitter.com/a4fri)
 Something Something Görli
 
-[Griff Green](https://twitter.com/thegrifft)
+### [Griff Green](https://twitter.com/thegrifft)
 Using Token Engineering to align incentives around non-profit causes
 
-[Carol-Ann O'Hagan](https://twitter.com/cajboh)
+### [Carol-Ann O\\\'Hagan](https://twitter.com/cajboh)
 Substrate: The Blockchain Framework
 
-[Speaker TBD](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md)
+### [Speaker TBD](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md)
 Aeternity's Sophia smart contract language
 
-[Anita Posch](https://twitter.com/AnitaPosch) 
+### [Anita Posch](https://twitter.com/AnitaPosch)
 Bitcoin Should be Making a Difference in Zimbabwe and Botswana ... But Is It?
 
-[Zak Cole](https://twitter.com/0xzak)
+### [Zak Cole](https://twitter.com/0xzak)
 P2P Networks & Peer Discovery
 
-[Viktor Trón](https://https://twitter.com/zeligf)
+### [Viktor Trón](https://https://twitter.com/zeligf)
 The Book of Swarm
 
-[Matilde Park](https://twitter.com/matildepark_)
+### [Matilde Park](https://twitter.com/matildepark_)
 Creating interfaces for P2P communities
 
-[Jascha Ehrenreich](https://keybase.io/jascha)
+### [Jascha Ehrenreich](https://keybase.io/jascha)
 Solving the Trust On First Use problem with @webboot
 
-[Gregor Žavcer](https://twitter.com/jssr)
+### [Gregor Žavcer](https://twitter.com/jssr)
 Striving towards a Society of Fair Data
 
-Mel Kuttan
+### Mel Kuttan
 Permissionless innovation: building a private messenger using blockchain & crypto frameworks
 
-[Julien Guitton](https://twitter.com/weedcoder)
-Removing Friction with Crypto-native banking  
+### [Julien Guitton](https://twitter.com/weedcoder)
+Removing Friction with Crypto-native banking
 
-[Rachel Black](https://twitter.com/rachblondon)
+### [Rachel Black](https://twitter.com/rachblondon)
 Building with composable data and user identities
 
-[Dave Appleton](https://twitter.com/appletondave)
+### [Dave Appleton](https://twitter.com/appletondave)
 Gold as a store of value for international financial inclusion / social impact projects
 
-[Igor Barinov](https://twitter.com/barinov)
-Arbitrary Message Bridge for Ethereum interoperability 
-</dv>
+### [Igor Barinov](https://twitter.com/barinov)
+Arbitrary Message Bridge for Ethereum interoperability
+
+</div>
 
 <div id="contacts">
-  
-<div>
 
 ## Connect
 
@@ -204,38 +203,6 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   title: 'POA Network',
 },
 ]"></List>
-
-</div>
-
-
-<div>
-
-## Speakers
-
-<Speakers items="[
-['Artem Vorotnikov', 'https://twitter.com/vorot93', 'OpenEthereum onboarding and development'],
-['Anja Blaj', 'https://twitter.com/AnjaBlaj', 'Legal challenges and dimensions for virtual conducts'],
-['Stefan Starflinger', 'https://twitter.com/stefan_star', 'Deep dive into the ETH 2.0 Beacon Chain explorer'],
-['Jacob Czepluch', 'https://twitter.com/_czepluch', 'Layer 2 scalability and payment channels'],
-['Maria Magenes', 'https://twitter.com/mariamagenes1', 'DeFi and the role of Maker'],
-['Stina Gustafsson', 'https://twitter.com/stinalinneag', 'Blockchain and art'],
-['Maria-Paula Fernandez', 'https://twitter.com/MPtherealMVP', 'Blockchain and art'],
-['Alessandromlt', 'https://twitter.com/alessandromlt', 'DFO: The Next wave of Dapps without founders'],
-['John Adler', 'https://twitter.com/jadler0', 'Fuel: Scaling Ethereum with Optimistic Rollups'],
-['Eldar Khamitov', 'https://www.linkedin.com/in/ekhamitov/', 'Multi-Party Computation in cryptowallets'],
-['Thomas Zeinzinger', 'https://twitter.com/tze42', 'Minerva - Digital Wallet Multiverse'],
-['Johan Barbie', 'https://twitter.com/johba', 'layer-2, rollups, plasma, onboarding-ux'],
-['Afri Schoeden', 'https://https://twitter.com/a4fri', 'Something Something Görli'],
-['Griff Green', 'https://twitter.com/thegrifft', 'Using Token Engineering to align incentives around non-profit causes'],
-['Carol-Ann O\'Hagan', 'https://twitter.com/cajboh', 'Substrate: The Blockchain Framework'],
-['TBD', '', 'Aeternity\'s Sophia smart contract language'],
-['Anita Posch', 'https://twitter.com/AnitaPosch', 'Reporting from Zimbabwe and Botswana: Where Bitcoin Should be Making a Difference ... But Is It?'],
-['Zak Cole', 'https://twitter.com/0xzak', 'P2P Networks & Peer Discovery'],
-['Viktor Trón', 'https://https://twitter.com/zeligf', 'The Book of Swarm'],
-['Matilde Park', 'https://twitter.com/matildepark_', 'Creating interfaces for P2P communities'],
-['Jascha Ehrenreich', 'https://keybase.io/jascha', 'Solving the Trust On First Use problem wth @webboot'],
-['Gregor Žavcer', 'https://twitter.com/jssr', 'Striving towards a Society of Fair Dat'],
-]"></Speakers>
 
 </div>
 
@@ -348,7 +315,7 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   img: '/img/community/urbit.png',
   to: 'https://urbit.org',
   title: 'urbit',
-fairdatasociety.jpg},
+},
 {
   img: '/img/community/fairdatasociety.jpg',
   to: 'https://fairdatasociety.org/',
@@ -383,6 +350,7 @@ fairdatasociety.jpg},
 </div>
 
 <div>
+
 ## Looking Covid-19 in The Eye
 
 <Img src="/img/in-the-eye.jpg"></Img>
@@ -437,7 +405,8 @@ Please only touch people you touch on a regular basis anyways. No group cuddles,
 
 [Read more...](https://www.parallele.at/lets-look-covid-19-dead-in-the-eye/)
 
-[Open Source Information Collection Platform for Wuhan Covid-19 Epidemic Prevention] (https://github.com/wuhan2020/wuhan2020/blob/master/README_EN.md)
+[Open Source Information Collection Platform for Wuhan Covid-19 Epidemic Prevention](https://github.com/wuhan2020/wuhan2020/blob/master/README_EN.md)
+
 </div>
 
 <div>
