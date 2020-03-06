@@ -86,6 +86,7 @@ export default (v = {}) => {
 
     a: {
       color: vars.primary.neutral,
+      whiteSpace: 'normal',
     },
 
     img: {

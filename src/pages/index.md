@@ -520,7 +520,7 @@ Please only touch people you touch on a regular basis anyways. No group cuddles,
 
 [Read more...](https://www.parallele.at/lets-look-covid-19-dead-in-the-eye/)
 
-[Open Source Information Collection Platform for Wuhan Covid-19 Epidemic Prevention](https://github.com/wuhan2020/wuhan2020/blob/master/README_EN.md)
+[Information Collection Platform for Covid-19 Epidemic Prevention](https://github.com/wuhan2020/wuhan2020/blob/master/README_EN.md)
 
 </div>
 
