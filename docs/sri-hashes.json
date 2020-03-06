@@ -1,10 +1,10 @@
 {
   "css": "sha384-bVV85R3ewahNGr3gXbfnEszzdi1XGCzJvKAyf01JTF0dTG1Ot6ewouhRJ0LF5S4z",
-  "js": "sha384-R6ou4xCFEG+djwEdJsxUhpIYpa+RbSXipFlI48C/Z21xZbsMA1Pd2r3u+zKNWwGf",
+  "js": "sha384-SVHae+vlEjmRA6l0eo+113cZca7ZyLP3HtF1FOivlTna3R7UeNZWrzgeByPgo1fa",
   "pages": {
-    "/": "sha384-EPxfRtdq9WbyxijnWedXJG6az2KYNfsb4gPuFrE1ib3IUspyiWlyQWVRhwKmhjfM",
-    "/404/": "sha384-WG5BSQN422mknGOYPkInBDkz7ESOYHtplo/Z8VD0jgJrlFYb3lLVWamwTcHGTs+f",
-    "/privacy/": "sha384-u0PzlgROHeOCT37bDlK8oo2NfNDayPUlJOo0sE8wsZiJ02w/ugM/RKOTWEaRwLbA"
+    "/": "sha384-CC7xxLq1KIddZhm5bZYC3Hyq/Fs2RkO4RUvwG8S7wYk1qLynC1EyH8gEA+RVvG31",
+    "/404/": "sha384-yEJZeXdH+frH8eiqGr6JlDoX6+jLRmG+Edq5LFz3eOOStZ7NQRDlSzo/3myLCYF1",
+    "/privacy/": "sha384-dYnsb5L+uFBrYrm4Q9dB/FeKXQN/Ec+QKrWUhi2UOEikSK/TcutjsTFtWQzx6E8L"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -13,6 +13,7 @@
     "/img/Q21-QDK-01.png": "sha384-WzMOXP5vIWqYQXIPGLTU/K9LR7pHz7kTcrImJ44U4rzc0ss6zIsQ/THrF8oarQt7",
     "/img/bandana.png": "sha384-+YEzoy98owBnpikkJ3mJV5xyU2A6TUxqMRlHq5pY6Jx1xWPD9LGbvjN1wWbj1h/t",
     "/img/community/DoD.png": "sha384-Ufj0guwJ/CxGywS6Yi8Dwtxm211sX7PA93PaZcYbdmE0NJoFE39korkVOTDrl6Ak",
+    "/img/community/artis.eco.jpg": "sha384-yAz0//jFMdbunvazvzf+wT/xiOUxLck5sk+PBUqzsLcubtva3SOn0PlQKLKAd9Gr",
     "/img/community/bitcoin-austria.png": "sha384-bYCDSKqTifMJ8qHE1BUut3KVtSR+hKtNI8Gnd6yeKFz5/ikSaaUxC0qkzCT8MCWw",
     "/img/community/codechain.png": "sha384-Ot1ZsmiRUScuhP+KPImJXRqTmQSUC4j1F8K3533/y7D5cF/wSXFyvu+MALjFsQM0",
     "/img/community/commonsstack.png": "sha384-M7Vg8L8oXJK2fl/iorMJ8fxw4cdTNKkmyTyW7huHIc8NKR+5/vOuXaJsALtsU8/u",
@@ -24,12 +25,16 @@
     "/img/community/fairdatasociety.jpg": "sha384-HJ2vnrBGRxCwgYbDHOrdac6tKDQm3BvjQ8e1NPuS2yCaF3NRAcJRlE0sHGHKQiBQ",
     "/img/community/giveth.jpg": "sha384-1pnUL/Wg+NNOJLXLIFc/3J8mfL2kONb/VoSs8HYW4tIi+zD5ZZXfqBapmrfLzQyR",
     "/img/community/goerli.jpg": "sha384-OhFiB3refV4Q/cyzBRJPvhFe/8evTpBJ83U64Mc7lUjtko6xOO8y2Jp+F/nvbx1w",
+    "/img/community/interlay-multicolor.png": "sha384-4wI4f2YKCwYFpcN35xuZotEySNFobEhzpRTVn9Uz9dEll5nrpO4VxMJtSR7XF0G5",
     "/img/community/kickback.png": "sha384-S2MD7UDJuUNIzwvH28EoIOpX8jbTQmwTKiL1KziL/qfg0F2IVM9CiODBjgxg/d9T",
+    "/img/community/lab10.png": "sha384-m0rNvJpty4QE1R6/d8MFVPb/OCWSI1BDI5y8kgliiiFw6Ct7FjeYWkTEAXdGddCF",
     "/img/community/leapdao.jpg": "sha384-3otmaBnqXGVcbbF6hAISKQo9MJem/8ilZyodIMdOe6yHWmcXL3E92d5mqsGo3lJx",
     "/img/community/loki-network.jpg": "sha384-ngWj8ftrkzERp+mqYx/o+CWYXNMM13hSY1czmrxaLSSYVfWLd9puhPyKyEUgoQ7H",
+    "/img/community/maskbook.png": "sha384-AGLrLvuPPpuz59CLoMrVk21oRko9S6K0JJyvYFzexNIVZtRn3X4S3Y/x48g4wTy+",
     "/img/community/metacartel.png": "sha384-2zto3tfzPjCFUwCf+/zFta+HDMxV8pz5Cii2jJN6FlLEPQ2lVW0m6KoMqm2uywY9",
     "/img/community/metagame.png": "sha384-2KQEfsVSjprMeFTAyfY+0FyR6og0EV/QEyP24q23KJ7Twjq+FujGYN6+ioNeLDtU",
     "/img/community/mintbase.png": "sha384-zaNMtPn10Wrk97KL3GHzWc1M1Ylcs0PiGtd0os+DbRrio9nuo3WvgnQGQmtjDrGs",
+    "/img/community/origintrail.io.jpg": "sha384-tloyluIxCDnnv3XRC7Nr4g8NvKvbgXg9JnEZUKfrGA3GBEvcDHRiw7sqzmBxjJW6",
     "/img/community/poap.png": "sha384-8pn5mga+8VDsZ2M8PKHbl+onjqYrapT2aYvpz8Pv9y9cFN7q2A510+mJHs8diWuk",
     "/img/community/progressbar.png": "sha384-9Kvmgm7eFZhgPSTlxcAxmp4Bi1/JcZ9NIId5f+89iJgznVsKbhRUGzzOE1kshSM1",
     "/img/community/rotki.png": "sha384-LA8JiKMfb1oyywVdq1DXmc4RKpcvnuD5c7k5Mz4Ugw9bXkUo7tuG1c/h//v7Z2aX",
