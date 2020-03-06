@@ -5,6 +5,12 @@ export const style = {
   width: '100%',
   display: 'block',
   padding: '1.5em 0 0',
+  margin: '0 auto',
+  backgroundColor: 'transparent',
+
+  '.light &&': {
+    backgroundColor: 'transparent',
+  },
 
   img: {
     display: 'block',
