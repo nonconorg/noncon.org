@@ -283,12 +283,7 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 {
   img: '/img/sponsors/shift.png',
   to: 'https://shiftcrypto.ch/',
-  title: 'shift cryptosecurity',
-},
-{
-  img: '/img/sponsors/interlay-multicolor.png',
-  to: 'https://shiftcrypto.ch/',
-  title: 'shift cryptosecurity',
+  title: 'shift cryptosec',
 },
 ]"></List>
 
