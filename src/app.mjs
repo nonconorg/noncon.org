@@ -21,7 +21,9 @@ export const state = {
   },
 
   theme: 'light',
-  pageClass: 'light',
+  pageClass: {
+    light: true,
+  },
 
   footer: {
     one: {
