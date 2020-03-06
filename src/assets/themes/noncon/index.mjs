@@ -1,6 +1,6 @@
 export const vars = {
-  black: '#010101',
-  white: '#FEFEFE',
+  black: '#000000',
+  white: '#ffffff',
 
   neutral: '#c4c4c4',
 
@@ -12,13 +12,13 @@ export const vars = {
   },
 
   text: {
-    dark: '#FAFAFA',
+    dark: '#FFFFFF',
     light: '#000000',
   },
 
   background: {
     dark: '#000000',
-    light: '#FAFAFA',
+    light: '#FFFFFF',
   },
 
   primary: {
@@ -28,7 +28,7 @@ export const vars = {
   },
 
   link: {
-    dark: '#FAFAFA',
+    dark: '#FFFFFF',
     light: '#000000',
 
     hover: {
@@ -37,7 +37,7 @@ export const vars = {
     },
   },
 
-  borderColor: '#FAFAFA',
+  borderColor: '#FFFFFF',
 
   maxWidth: '1200px',
 }
@@ -57,6 +57,12 @@ export default (v = {}) => {
       backgroundColor: v.text.dark,
       color: v.background.dark,
       textShadow: 'none',
+
+
+      '.light &&': {
+        color: v.text.dark,
+        backgroundColor: v.background.dark,
+      },
     },
 
     '*': {
