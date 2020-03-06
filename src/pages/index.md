@@ -191,6 +191,9 @@ Cross-chain Communication: Impossible or Incentive Compatible?
 ### [Beth McCarthy](https://twitter.com/ontologymachine)
 Designing Ecosystems for P2P Data Exchange
 
+### [Horst Treiblmaier](https://scholar.google.at/citations?user=7K32h3QAAAAJ&hl=en)
+Blockchain and Sustainability - Overhyped or Undervalued?
+
 </div>
 
 <div>
