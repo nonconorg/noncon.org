@@ -408,7 +408,7 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 {
   img: '/img/community/condensat.tech.png',
   to: 'https://condensat.tech/',
-  title: 'Condensat',
+  title: 'Condensat Bank',
 },
 {
   img: '/img/community/bitcoin-austria.png',
