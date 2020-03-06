@@ -407,6 +407,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   to: 'https://bitcoin-austria.at/',
   title: 'Bitcoin Austria',
 },
+{
+  img: '/img/community/lab10.png',
+  to: 'https://lab10.coop/',
+  title: 'Lab10',
+},
 ]"></List>
 
 </div>
