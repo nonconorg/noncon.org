@@ -432,6 +432,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   to: 'https://interlay.io',
   title: 'interlay',
 },
+{
+  img: '/img/community/origintrail.io.jpg',
+  to: 'https://origintrail.io',
+  title: 'Origin Trail',
+},
 ]"></List>
 
 </div>
