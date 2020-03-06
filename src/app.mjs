@@ -20,6 +20,9 @@ export const state = {
     // ],
   },
 
+  theme: 'light',
+  pageClass: 'light',
+
   footer: {
     one: {
       title: 'NonCon',
