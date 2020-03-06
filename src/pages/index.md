@@ -146,7 +146,7 @@ Using Token Engineering to align incentives around non-profit causes
 ### [Carol-Ann O\\\'Hagan](https://twitter.com/cajboh)
 Substrate: The Blockchain Framework
 
-### [Speaker TBD](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md)
+### [Speaker TBA](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md)
 Aeternity's Sophia smart contract language
 
 ### [Anita Posch](https://twitter.com/AnitaPosch)
@@ -181,6 +181,9 @@ Gold as a store of value for international financial inclusion / social impact p
 
 ### [Igor Barinov](https://twitter.com/barinov)
 Arbitrary Message Bridge for Ethereum interoperability
+
+### [Yisi Liu](https://twitter.com/TheYisiLiu)
+Surrender No Privacy to You‑Know‑Who.
 
 </div>
 
@@ -264,6 +267,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   img: '/img/sponsors/poa-network.png',
   to: 'https://www.poa.network/',
   title: 'POA Network',
+},
+{
+  img: '/img/sponsors/shift.png',
+  to: 'https://shiftcrypto.ch/',
+  title: 'shift cryptosecurity',
 },
 ]"></List>
 
@@ -393,6 +401,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   img: '/img/community/condensat.tech.png',
   to: 'https://condensat.tech/',
   title: 'Condensat',
+},
+{
+  img: '/img/community/bitcoin-austria.png',
+  to: 'https://bitcoin-austria.at/',
+  title: 'Bitcoin Austria',
 },
 ]"></List>
 
