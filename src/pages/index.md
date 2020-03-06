@@ -162,7 +162,7 @@ The Book of Swarm
 Creating interfaces for P2P communities
 
 ### [Jascha Ehrenreich](https://keybase.io/jascha)
-Solving the Trust On First Use problem with @webboot
+Solving Trust On First Use with @webboot
 
 ### [Gregor Žavcer](https://twitter.com/jssr)
 Striving towards a Society of Fair Data
