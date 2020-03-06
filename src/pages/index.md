@@ -1,4 +1,4 @@
-<HeroImage state></HeroImage>
+<Hero state></Hero>
 
 <Cta to="https://the-commons-stack.typeform.com/to/SemYgK" text="SIGNUP"></Cta>
 

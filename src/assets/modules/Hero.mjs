@@ -1,5 +1,5 @@
-export const View = () =>
-  Link({ class: 'HeroImage', to: '/' }, Img({ height: 300, src: '/img/noncon2020-banner.jpg' }))
+export const View = ({ state }) =>
+  Link({ class: 'Hero', to: '/' }, Img({ height: 300, src: `/img/noncon2020-banner-${state.theme || 'light'}.jpg` }))
 
 export const style = vars => ({
   width: '100%',

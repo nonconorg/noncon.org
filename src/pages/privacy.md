@@ -5,7 +5,7 @@
 }
 ---
 
-<HeroImage></HeroImage>
+<Hero state></Hero>
 
 <div>
 
