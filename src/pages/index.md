@@ -412,6 +412,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   to: 'https://lab10.coop/',
   title: 'Lab10',
 },
+{
+  img: '/img/community/maskbook.png',
+  to: 'https://maskbook.com',
+  title: 'Maskbook',
+},
 ]"></List>
 
 </div>
