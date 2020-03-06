@@ -188,6 +188,9 @@ Honey Badger BFT: Performance & Integration into OpenEthereum powered ARTIS Bloc
 ### [Alexei Zamyatin](https://twitter.com/alexeiZamyatin)
 Cross-chain Communication: Impossible or Incentive Compatible?
 
+### [Beth McCarthy](https://twitter.com/ontologymachine)
+Designing Ecosystems for P2P Data Exchange
+
 </div>
 
 <div>
