@@ -273,6 +273,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   to: 'https://shiftcrypto.ch/',
   title: 'shift cryptosecurity',
 },
+{
+  img: '/img/sponsors/interlay-multicolor.png',
+  to: 'https://shiftcrypto.ch/',
+  title: 'shift cryptosecurity',
+},
 ]"></List>
 
 </div>
@@ -416,6 +421,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   img: '/img/community/maskbook.png',
   to: 'https://maskbook.com',
   title: 'Maskbook',
+},
+{
+  img: '/img/community/interlay-multicolor.png',
+  to: 'https://interlay.io',
+  title: 'interlay',
 },
 ]"></List>
 
