@@ -194,6 +194,9 @@ Designing Ecosystems for P2P Data Exchange
 ### [Horst Treiblmaier](https://scholar.google.at/citations?user=7K32h3QAAAAJ&hl=en)
 Blockchain and Sustainability - Overhyped or Undervalued?
 
+### [Henning Diedrich](https://twitter.com/hdiedrich)
+Human-Readable Smart Contracts
+
 </div>
 
 <div>
