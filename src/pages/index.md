@@ -122,7 +122,7 @@ DeFi and the role of Maker
 ### [Maria-Paula Fernandez](https://twitter.com/MPtherealMVP) & [Stina Gustafsson](https://twitter.com/stinalinneag)
 Blockchain and art
 
-### [Alessandro Mario Laganà Toschi](https://twitter.com/alessandromlt)
+### [Alessandro Mario Laganà Toschi](https://twitter.com/alessandromlt) & [Marco Vasapollo](https://twitter.com/vasapower_)
 DFO: The Next wave of Dapps without founders
 
 ### [John Adler](https://twitter.com/jadler0)
@@ -184,6 +184,15 @@ Arbitrary Message Bridge for Ethereum interoperability
 
 ### [Yisi Liu](https://twitter.com/TheYisiLiu)
 Surrender No Privacy to You‑Know‑Who.
+
+### [Branimir Rakić](https://twitter.com/origin_trail)
+Optimizing cost and avoiding bottlenecks for high data throughputs with off-chain solutions
+
+### [Dr. David Forstenlechner](https://twitter.com/dforsten)
+Honey Badger BFT: Performance & Integration into OpenEthereum powered ARTIS Blockchain
+
+### [Alexei Zamyatin](https://twitter.com/alexeiZamyatin)
+Cross-chain Communication: Impossible or Incentive Compatible?
 
 </div>
 
