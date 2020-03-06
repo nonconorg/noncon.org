@@ -143,9 +143,6 @@ Something Something Görli
 ### [Griff Green](https://twitter.com/thegrifft)
 Using Token Engineering to align incentives around non-profit causes
 
-### [Carol-Ann O\\\'Hagan](https://twitter.com/cajboh)
-Substrate: The Blockchain Framework
-
 ### [Speaker TBA](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md)
 Aeternity's Sophia smart contract language
 
@@ -166,9 +163,6 @@ Solving Trust On First Use with @webboot
 
 ### [Gregor Žavcer](https://twitter.com/jssr)
 Striving towards a Society of Fair Data
-
-### [Mel Kuttan](https://loki.network)
-Permissionless innovation: building a private messenger using blockchain & crypto frameworks
 
 ### [Julien Guitton](https://twitter.com/weedcoder)
 Removing Friction with Crypto-native banking
