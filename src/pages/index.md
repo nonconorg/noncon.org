@@ -225,7 +225,7 @@ Human-Readable Smart Contracts
 ## Connect
 
 If you would like to attend, sponsor, or speak at NonCon 2020 in Vienna,
-sign up via [this Typeform](https://the-commons-stack.typeform.com/to/SemYgK)
+sign up via [this Typeform](https://the-commons-stack.typeform.com/to/EjlEhQ)
 (thx to [Commons Stack](https://commonsstack.org))
 and we'll keep you informed.
 
