@@ -119,7 +119,7 @@ export default (v = {}) => {
 
     h2: {
       fontSize: '1.8em',
-      padding: '0 0 2em',
+      padding: '1em 0',
     },
 
     '.Hero': {
