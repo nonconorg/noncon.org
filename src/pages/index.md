@@ -1,6 +1,6 @@
 <Hero state></Hero>
 
-<Cta to="https://the-commons-stack.typeform.com/to/SemYgK" text="SIGNUP"></Cta>
+<Cta to="https://the-commons-stack.typeform.com/to/EjlEhQ" text="SIGNUP for virtualNONCON"></Cta>
 
 <div>
 
@@ -8,8 +8,21 @@
 
 It's not what you do or where you go, it's the friends you make along the way.
 
-NONCON 2020  is smaller in scope, cheaper, and in general more community
-oriented than EDCON. The main topics are tilted towards community, development,
+As of Tuesday March 10, the austrian govt has restricted public events to a maximum of 100 attendees in closed spaces, and to 500 attendees in open spaces. Our contracted venue, RaumD has informed us that we can have a maximum of 10 people in the space. As a result of these limitations, we have decided to turn noncon2020 during the same dates of 3-6 april into a virtual conference under the following conditions:
+
+We will host all speakers who still want to travel to vienna in our coworking 
+space at https://parallele.at, and record / livestream their talks, but there 
+will be no tickets for members of the public, only the group of your peers. 
+
+Those who do not plan to travel to Vienna, we will either allow to submit a 
+prerecorded talk to be broadcast via our livestream channel, or to give your
+talk remotely via videochat. 
+
+Please respond on [this Typeform](https://the-commons-stack.typeform.com/to/EjlEhQ) what your personal preference is, 
+so that we can create an agenda for the production on Monday March 16th, and 
+publish confirmed speakers to our website and via social media channels. 
+
+The main topics are tilted towards community, development,
 and security, and inclusive of interests outside the Ethereum ecosystem
 to include all cypherpunk and privacy focused individuals and communities.
 
@@ -23,28 +36,24 @@ We subscribe to these values and support them flowing out into other social spac
 
 ## Tickets
 
-Ticketing will be via NFT on a donation basis beginning on or around March 15th.
-
-This means you don't HAVE to pay to attend, but you will be supporting us if you do.
-
-Those who do support the event by securing an NFT will get cool handmade branded schwag
-& other perks, those who don't, won't. You'll still have to register for an event badge
-though to attend talks and workshops for all four days of the event.
+Tickets are no longer available as there will be no public event, only the invite-
+only production event at Parallele Polis. If you would like to participate online
+virtualNONCON, please signal your intention / preferences [here](https://the-commons-stack.typeform.com/to/EjlEhQ).
 </div>
 
 <div>
 
 <div id="schedule">
 
-## Schedule
+## Schedule (All Times are UTC+01:00)
 
 ### Friday, April 3
 
-Registration opens 12 noon
+Talks and Workshops 10:00 - 14:30
 
-Opening Ceremony 19:00
+Lunchbreak 14:30 - 16:00
 
-Socialize & Party til Midnight
+Talks and Workshops 16:00 - 20:00
 
 ### Saturday, April 4
 
@@ -54,8 +63,6 @@ Lunchbreak 14:30 - 16:00
 
 Talks and Workshops 16:00 - 20:00
 
-Afterwards: Enjoy Vienna Nightlife!
-
 ### Sunday, April 5
 
 Talks and Workshops 10 - 14:30
@@ -64,36 +71,48 @@ Lunchbreak 14:30 - 16:00
 
 Talks and Workshops 16:00 - 20:00
 
-Vienna is dead at night on Sundays. Get some sleep.
-
 
 ### Monday April 6
 
-Talks and Workshops 10 - 14:00
+Talks and Workshops 10:00 - 14:30
 
-Closing Speeches, Bounty Winners, etc. 15 - 16:00
+Lunchbreak 14:30 - 16:00
 
-We'll be sorry to see you leave, hope to see you again soon!
+Closing Speeches, Bounty Winners, etc. 16 - 18:00
+
 </div>
 
 <div>
 
-<div id="venue">
+<div id="livestream-production-venue">
 
-## Venue
+## Livestream Production Venue
 
-<Img class="pageImg" src="/img/noncon-raum-d.jpg" height="400"></Img>
+<Img class="pageImg" src="/img/paperhub-sw.jpg" height="400"></Img>
 
-<Img class="pageImg" src="/img/Q21-QDK-01.png" height="150"></Img>
+There are no passes available for the public, only speakers and production personal
+will be accomodated for livestream production at Parallele Polis' [Paper Hub coworking space](https://www.parallele.at/#paperhub-coworking), a short trip via [public transport](https://www.google.com/maps/dir/MuseumsQuartier,+Museumsplatz,+Vienna/Hofstattgasse+4,+1180+Wien/@48.2167831,16.3352999,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d07903eeb4fdf:0x94d429b3eb41ebff!2m2!1d16.3586166!2d48.2033369!1m5!1m1!1s0x476d07d13a94c74d:0x9a5f70aab1cc7fb5!2m2!1d16.3409366!2d48.2283202!3e3)from Vienna's city center. 
 
-Our venue [Raum D](https://www.mqw.at/en/institutions/q21/institutions/raum-d-q21) is located in the heart of historical Vienna in the [Museumsquarter](https://www.mqw.at/institutionen/q21/) There are multiple restaurants on-site.
+</div>
 
-If you are arriving earlier than April 3rd,
-and staying longer than April 6, you can hang out in our coworking space,
-[Paper Hub](https://www.parallele.at/#paperhub-coworking)
-a short trip via
-[public transport](https://www.google.com/maps/dir/MuseumsQuartier,+Museumsplatz,+Vienna/Hofstattgasse+4,+1180+Wien/@48.2167831,16.3352999,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d07903eeb4fdf:0x94d429b3eb41ebff!2m2!1d16.3586166!2d48.2033369!1m5!1m1!1s0x476d07d13a94c74d:0x9a5f70aab1cc7fb5!2m2!1d16.3409366!2d48.2283202!3e3)
-from the Museumsquarter.
+<div id="virtual-venues">
+
+## Virtual Venues
+
+<Img class="pageImg" src="/img/interspace-mock.jpg" height="400"></Img>
+
+We will stream all talks live on our [youtube channel](https://www.youtube.com/channel/UCsF67FGXtv4lplQyQSPizbQ).
+
+We will also provide a primary virtual conference location using our self-hosted open-source [jitsi implementation](https://github.com/nonconorg/interspace.noncon.org), mirrored in data centers on multiple continents, which allows us to embed the livestreams, AND provide video and text chat for particpants. [Sign up Here](https://the-commons-stack.typeform.com/to/EjlEhQ). 
+
+There will be a lobby, and three rooms / tracks, each with individual livestreams, including the Parallele Polis, Cryptoeconomics Institute, and Metatrack virtual spaces. An calendar agenda for each of the rooms will be available here on our website before the event takes place so that you can plan which talks you want to participate in. 
+
+
+<Img class="pageImg" src="/img/cryptovoxels-interspace.jpg" height="400"></Img>
+
+For those of you into virtual 3d spaces, there will be an interspace.noncon [spawning location in Cryptovoxels](https://www.cryptovoxels.com/parcels/1322) - a user owned virtual world powered by the [Ethereum](https://www.ethereum.org/) blockchain.
+
+We will be adding links to additional VR spaces here. If you are a builder or a host of a VR space in other portals / formats, and you would like to host our live streams, get in touch with us via [Telegram](https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA) or [email](mailto:info@parallele.at)
 
 </div>
 
