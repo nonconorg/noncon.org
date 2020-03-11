@@ -99,7 +99,7 @@ will be accomodated for livestream production at Parallele Polis' [Paper Hub cow
 
 ## Virtual Venues
 
-<Img class="pageImg" src="/img/interspace-mock.jpg" height="400"></Img>
+<Img class="pageImg" src="/static/interspace-mock.jpg" height="400"></Img>
 
 We will stream all talks live on our [youtube channel](https://www.youtube.com/channel/UCsF67FGXtv4lplQyQSPizbQ).
 
@@ -108,11 +108,15 @@ We will also provide a primary virtual conference location using our self-hosted
 There will be a lobby, and three rooms / tracks, each with individual livestreams, including the Parallele Polis, Cryptoeconomics Institute, and Metatrack virtual spaces. A calendar agenda for each of the rooms will be available here on our website before the event takes place so that you can plan which talks you want to participate in. 
 
 
-<Img class="pageImg" src="/img/cryptovoxels-interspace.jpg" height="400"></Img>
+<Img class="pageImg" src="/static/cryptovoxels-interspace.jpg" height="400"></Img>
 
 For those of you into virtual 3d spaces, there will be an interspace.noncon [spawning location in Cryptovoxels](https://www.cryptovoxels.com/parcels/1322) - a user owned virtual world powered by the [Ethereum](https://www.ethereum.org/) blockchain.
 
-We will be adding links to additional VR spaces here. If you are a builder or a host of a VR space in other portals / formats, and you would like to host our live streams, get in touch with us via [Telegram](https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA) or [email](mailto:info@parallele.at)
+<Img class="pageImg" src="/static/mozilla-hubs.jpg" height="400"></Img>
+
+The four interspace rooms will also be available with live streams and VR mingling / text / audio chat and cute avatars in [Mozilla Hubs](https://hubs.mozilla.com/KivhW8q/intercon-outdoor-conference-room)
+
+We will be adding links to additional VR spaces carrying our livestream here. If you are a builder or a host of a VR space in other portals / formats, and you would like to host our live streams, get in touch with us via [Telegram](https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA) or [email](mailto:info@parallele.at)
 
 </div>
 
