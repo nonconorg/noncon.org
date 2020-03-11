@@ -105,7 +105,7 @@ We will stream all talks live on our [youtube channel](https://www.youtube.com/c
 
 We will also provide a primary virtual conference location using our self-hosted open-source [jitsi implementation](https://github.com/nonconorg/interspace.noncon.org), mirrored in data centers on multiple continents, which allows us to embed the livestreams, AND provide video and text chat for particpants. [Sign up Here](https://the-commons-stack.typeform.com/to/EjlEhQ). 
 
-There will be a lobby, and three rooms / tracks, each with individual livestreams, including the Parallele Polis, Cryptoeconomics Institute, and Metatrack virtual spaces. An calendar agenda for each of the rooms will be available here on our website before the event takes place so that you can plan which talks you want to participate in. 
+There will be a lobby, and three rooms / tracks, each with individual livestreams, including the Parallele Polis, Cryptoeconomics Institute, and Metatrack virtual spaces. A calendar agenda for each of the rooms will be available here on our website before the event takes place so that you can plan which talks you want to participate in. 
 
 
 <Img class="pageImg" src="/img/cryptovoxels-interspace.jpg" height="400"></Img>
