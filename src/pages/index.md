@@ -10,17 +10,17 @@ It's not what you do or where you go, it's the friends you make along the way.
 
 As of Tuesday March 10, the austrian govt has restricted public events to a maximum of 100 attendees in closed spaces, and to 500 attendees in open spaces. Our contracted venue, RaumD has informed us that we can have a maximum of 10 people in the space. As a result of these limitations, we have decided to turn noncon2020 during the same dates of 3-6 april into a virtual conference under the following conditions:
 
-We will host all speakers who still want to travel to vienna in our coworking 
-space at https://parallele.at, and record / livestream their talks, but there 
-will be no tickets for members of the public, only the group of your peers. 
+We will host all speakers who still want to travel to vienna in our coworking
+space at https://parallele.at, and record / livestream their talks, but there
+will be no tickets for members of the public, only the group of your peers.
 
-Those who do not plan to travel to Vienna, we will either allow to submit a 
+Those who do not plan to travel to Vienna, we will either allow to submit a
 prerecorded talk to be broadcast via our livestream channel, or to give your
-talk remotely via videochat. 
+talk remotely via videochat.
 
-Please respond on [this Typeform](https://the-commons-stack.typeform.com/to/EjlEhQ) what your personal preference is, 
-so that we can create an agenda for the production on Monday March 16th, and 
-publish confirmed speakers to our website and via social media channels. 
+Please respond on [this Typeform](https://the-commons-stack.typeform.com/to/EjlEhQ) what your personal preference is,
+so that we can create an agenda for the production on Monday March 16th, and
+publish confirmed speakers to our website and via social media channels.
 
 The main topics are tilted towards community, development,
 and security, and inclusive of interests outside the Ethereum ecosystem
@@ -28,7 +28,7 @@ to include all cypherpunk and privacy focused individuals and communities.
 
 Open source Blockchain projects celebrate permissionless innovation and self sovereignty.
 We subscribe to these values and support them flowing out into other social spaces.
-[Read More...](https://www.parallele.at/not-a-conference-not-a-conjob/),
+[Read More...](https://www.parallele.at/not-a-conference-not-a-conjob/)
 
 </div>
 
@@ -39,9 +39,8 @@ We subscribe to these values and support them flowing out into other social spac
 Tickets are no longer available as there will be no public event, only the invite-
 only production event at Parallele Polis. If you would like to participate online
 virtualNONCON, please signal your intention / preferences [here](https://the-commons-stack.typeform.com/to/EjlEhQ).
-</div>
 
-<div>
+</div>
 
 <div id="schedule">
 
@@ -82,8 +81,6 @@ Closing Speeches, Bounty Winners, etc. 16 - 18:00
 
 </div>
 
-<div>
-
 <div id="livestream-production-venue">
 
 ## Livestream Production Venue
@@ -91,7 +88,11 @@ Closing Speeches, Bounty Winners, etc. 16 - 18:00
 <Img class="pageImg" src="/img/paperhub-sw.jpg" height="400"></Img>
 
 There are no passes available for the public, only speakers and production personal
-will be accomodated for livestream production at Parallele Polis' [Paper Hub coworking space](https://www.parallele.at/#paperhub-coworking), a short trip via [public transport](https://www.google.com/maps/dir/MuseumsQuartier,+Museumsplatz,+Vienna/Hofstattgasse+4,+1180+Wien/@48.2167831,16.3352999,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d07903eeb4fdf:0x94d429b3eb41ebff!2m2!1d16.3586166!2d48.2033369!1m5!1m1!1s0x476d07d13a94c74d:0x9a5f70aab1cc7fb5!2m2!1d16.3409366!2d48.2283202!3e3)from Vienna's city center. 
+will be accomodated for livestream production at Parallele Polis'
+[Paper Hub coworking space](https://www.parallele.at/#paperhub-coworking),
+a short trip via
+[public transport](https://goo.gl/maps/gsexB5PEtPrsy3ha8)
+from Vienna's city center.
 
 </div>
 
@@ -99,20 +100,20 @@ will be accomodated for livestream production at Parallele Polis' [Paper Hub cow
 
 ## Virtual Venues
 
-<Img class="pageImg" src="/static/interspace-mock.jpg" height="400"></Img>
+<Img class="pageImg" src="/img/interspace-mock.jpg" height="400"></Img>
 
 We will stream all talks live on our [youtube channel](https://www.youtube.com/channel/UCsF67FGXtv4lplQyQSPizbQ).
 
-We will also provide a primary virtual conference location using our self-hosted open-source [jitsi implementation](https://github.com/nonconorg/interspace.noncon.org), mirrored in data centers on multiple continents, which allows us to embed the livestreams, AND provide video and text chat for particpants. [Sign up Here](https://the-commons-stack.typeform.com/to/EjlEhQ). 
+We will also provide a primary virtual conference location using our self-hosted open-source [jitsi implementation](https://github.com/nonconorg/interspace.noncon.org), mirrored in data centers on multiple continents, which allows us to embed the livestreams, AND provide video and text chat for particpants. [Sign up Here](https://the-commons-stack.typeform.com/to/EjlEhQ).
 
-There will be a lobby, and three rooms / tracks, each with individual livestreams, including the Parallele Polis, Cryptoeconomics Institute, and Metatrack virtual spaces. A calendar agenda for each of the rooms will be available here on our website before the event takes place so that you can plan which talks you want to participate in. 
+There will be a lobby, and three rooms / tracks, each with individual livestreams, including the Parallele Polis, Cryptoeconomics Institute, and Metatrack virtual spaces. A calendar agenda for each of the rooms will be available here on our website before the event takes place so that you can plan which talks you want to participate in.
 
 
-<Img class="pageImg" src="/static/cryptovoxels-interspace.jpg" height="400"></Img>
+<Img class="pageImg" src="/img/cryptovoxels-interspace.jpg" height="400"></Img>
 
 For those of you into virtual 3d spaces, there will be an interspace.noncon [spawning location in Cryptovoxels](https://www.cryptovoxels.com/parcels/1322) - a user owned virtual world powered by the [Ethereum](https://www.ethereum.org/) blockchain.
 
-<Img class="pageImg" src="/static/mozilla-hubs.jpg" height="400"></Img>
+<Img class="pageImg" src="/img/mozilla-hubs.jpg" height="400"></Img>
 
 The four interspace rooms will also be available with live streams and VR mingling / text / audio chat and cute avatars in [Mozilla Hubs](https://hubs.mozilla.com/KivhW8q/intercon-outdoor-conference-room)
 
@@ -222,7 +223,6 @@ Human-Readable Smart Contracts
 
 </div>
 
-<div>
 
 <div id="contacts">
 
@@ -489,8 +489,6 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 ]"></List>
 
 </div>
-
-<div>
 
 <div id="covid">
 
