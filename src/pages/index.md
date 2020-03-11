@@ -463,6 +463,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   to: 'https://origintrail.io',
   title: 'Origin Trail',
 },
+{
+  img: '/img/community/cryptovoxels.com.png',
+  to: 'https://www.cryptovoxels.com/parcels/1322',
+  title: 'Cryptovoxels',
+},
 ]"></List>
 
 </div>
