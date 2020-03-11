@@ -1,10 +1,10 @@
 {
-  "css": "sha384-PWNIjbPFFx4F0JZi8oGSECyfCrn7mDRWBTkDxaDjZ59bMVp9b5SZRAi1kHNTzM7J",
-  "js": "sha384-pFQLDJpXqTEb6B13rfBF1VIa2xRS3hhkdQuZzp78Ui4fbuS88aqBXAxw/0e2ziir",
+  "css": "sha384-y+V0otoremjv+FWtd6oJGYvxpH5FC2Dwj2hhOPC//uwIO4NXLXw578ndI8gBJ6R6",
+  "js": "sha384-vZfTfBTiUsBMWEkqnkJqYVHgQC+R29k5Wmbw4mUhJGgKDBenmlnYn6sjftXmUrk9",
   "pages": {
-    "/": "sha384-bgSFSEU7jTlUEGqOPti4wTWde+GaThnv0VLIH7yFD9Uqu7mJDc3jNXjX+nEaEuaR",
-    "/404/": "sha384-7rEmB9Y3vxeO0KjRaw+V9HEPDbeGr8+9V3RQ6XpZpageQBc8Wpt57T2p9XBT7QG/",
-    "/privacy/": "sha384-mp1zu9Lo4DUPfjVcaZeEFeeNlGYeEJUhysRUOapb5/SheI9iB6g8AIggbG2kxPYk"
+    "/": "sha384-KgfmCfAw3BAUTyvkeYHuC2so0/UTcgkKXD9lyjwCuYz3UlnoX4elG8rYmGPOcxlR",
+    "/404/": "sha384-sy08Vph3KAdTLzcPaSfNKvV9Ky18wYRH5OVpFnp6vAXChgQLpTN9puMdmcI3sTgr",
+    "/privacy/": "sha384-+OsKcXyM123HLI3gJ1E73z2BrzvMhFroKFHK4rbrQIlIHiXmFaZ+pJyjxetZhRmf"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -18,6 +18,7 @@
     "/img/community/codechain.png": "sha384-Ot1ZsmiRUScuhP+KPImJXRqTmQSUC4j1F8K3533/y7D5cF/wSXFyvu+MALjFsQM0",
     "/img/community/commonsstack.png": "sha384-M7Vg8L8oXJK2fl/iorMJ8fxw4cdTNKkmyTyW7huHIc8NKR+5/vOuXaJsALtsU8/u",
     "/img/community/condensat.tech.png": "sha384-/Jwu7D13zUbbqXkQfWJeCcPLocSTmzal/7al8g8DTF35qXVRChfxz6VLfQm9u/XO",
+    "/img/community/cryptovoxels.com.png": "sha384-FFH2jafB3kPk9nbK1WBzlGw9t0YL20OsSWWYKIuNaJqs+gKSLzoW/s++BfWWC6pk",
     "/img/community/daofest.jpg": "sha384-CXHQRHVLsZVLfXOD1kCUeC4qzkY4WmyrcmUT99tVu272bYGLp5hFtTMG4Ownz0kz",
     "/img/community/datafund.svg": "sha384-H5lSzdN7xXVqMDYdRiu7qI3f7awFD9wBqIpP6CSysfAwXni0sAIKwrTW6ujktZln",
     "/img/community/ethmagicians.png": "sha384-Vb2oJQloroqDJ1H7qjdbSPjuL/G18oEzd0JrZTvF7bjUK1aZyCTW24QT/VktgBrE",
@@ -43,15 +44,19 @@
     "/img/community/urbit.png": "sha384-ASVCRmeBbnTnb+ONOMPe4xJjqX9Z08w48gfYigbar81vVHlqR62XLOxnP41RRkv8",
     "/img/community/webboot.png": "sha384-zgLUFTU0QUwOvnXNQ5LIRu1+RY7+OJ1I++3SpGVHiSaVcVL63jX6dfHS5X4uVpbg",
     "/img/community/whiteblock.png": "sha384-X0wI4HyYiNimA2IAjkNfJ7/6pni/bB+EYD09YZq/x0O2BcecbAW3Tg+BY8lmaCRD",
+    "/img/cryptovoxels-interspace.jpg": "sha384-J8o34ipmZy12mD1sWAW7qDdlJxxQt36HS7UvM+CazP0ug/HHMHk+EEw4V3jbKwwU",
     "/img/dealwithit.gif": "sha384-EKlw/1zCVF8hNqtYbmVrFgexoImqRPUVoskzQvEd2P08nZfzA6alhRklZeS7wPjh",
     "/img/in-the-eye.jpg": "sha384-0TgKdycAXOBeRX9xbeK9RLmwbL0KPtbmlZo5eufsmom0lckZ5qrnLI7Q00BPlP7/",
+    "/img/interspace-mock.jpg": "sha384-kuzA88bvhZX/XbaO/tVAXt0cSPQKQRF5abfNuBap9ml+UPYur7G5ViA50cv+qP8D",
     "/img/mediapartners/bitcoinundco.jpg": "sha384-FyeIzETDk4yxuNXcD0pu5ZvnRCM37ocJtyoRVtQEOYXAcGKsWthbAK70HJWMwC1z",
+    "/img/mozilla-hubs.jpg": "sha384-blp5NETZDILOU6znow8Dw4TjuTzjjrSfeT6RvuQqOj60S9QFitPLDKY7/U74mWeq",
     "/img/noncon-raum-d.jpg": "sha384-6DT18n9HIS1kHdpAYe7pM8yQ1WtX/zEoW/9JaKk9OUhojUTNSf5dTLCoC32UdbAw",
     "/img/noncon2020-banner-dark.jpg": "sha384-dcB1HJ/YDa/Nu39+KLTBR+3pLYXs/g36X6BdUmomquTpNMn1+kAGhnennilcolR6",
     "/img/noncon2020-banner-light.jpg": "sha384-OlKXrEC9VnRzsG291cz+hTDfkNPOQvUNnaXVnxgnZI8n3qQ3/CE7r5ZNy0ktS9HS",
     "/img/organizers/bwb.png": "sha384-Cuq+mv2C/45Fe5qxl6YHpMObdXVFDuYCIDS1zCeN3BSWG8LWeP7ZoN1b28FccUuB",
     "/img/organizers/institue-for-cryptoeconomics.jpg": "sha384-ezs+urCSp++VcPitfqXSrZhF1SW1nBaYq9QxTU1W8NAwzIQEMMp4O43R56VBqTuq",
     "/img/organizers/parallele.jpg": "sha384-jiR5n1dLYrgKQ8l7RQVuWUPlSZiuE5I47ngvHWyhFuqZARqBgaztpfU766ljVx2H",
+    "/img/paperhub-sw.jpg": "sha384-vZg3SvG7okvIvDgKQ0HwkP/PnkhBJy3Gg1q9MbzOBq91jZW1fjgI6rMGPfZTRZfb",
     "/img/qryptoquberaumd.jpg": "sha384-Nhw786FaCdxmd9DOkk7cQlREW2OCNMmrk4BMWdqcob2oKJVjAQ3/dM0Iz+tAng92",
     "/img/sponsors/keycard.png": "sha384-VFw435ofA8naQnxyK3J0PpZu+Zlsg9V/IqDt4TedMIM1c0ChPK/hxvyVqnDuI3yy",
     "/img/sponsors/parity.jpg": "sha384-bYdfa6RQ5rMt3PCPU2hucvLREeFxLUQ0yAqbcaL3iY9Ehxkzq/x30af7ue4vbFDl",
@@ -63,6 +68,6 @@
     "/noncon2020-logo-white-bg.jpg": "sha384-86NY4wSqdIjCPRyuNWQfQS8A3r1ZmL1M4A6q09dpAakjH0QNVxGvnXKGJ2IQvBX4",
     "/noncon2020-logo.png": "sha384-oiSaA/myQ8D1kp16bI1mQWmKs/bUWguuWN/rCggArhYY9jTio2h+HsjUvRJe62/2",
     "/robots.txt": "sha384-hWab9nDjega468pWIRjKpsihTLGkTuK2au4gH6EtmHj5zy3Kou4Sowouxr7P0ieq",
-    "/sitemap.xml": "sha384-QOWwBpr1QDIaSYFU8qmj6W745o5IH6QCLDsrc+OLqM6Ul+iMLYjpHJYWcwj9Ancp"
+    "/sitemap.xml": "sha384-ipWFWem90RtTCzgnhxfV72FQmvz37D++NbwFa4o0TZ2Zbow9+ibZBV+XXypvi6Gm"
   }
 }
