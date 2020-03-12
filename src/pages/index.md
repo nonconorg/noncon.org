@@ -477,6 +477,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   to: 'https://www.cryptovoxels.com/parcels/1322',
   title: 'Cryptovoxels',
 },
+{
+  img: '/img/community/bitfly.at.png',
+  to: 'https://bitfly.at',
+  title: 'Bitfly',
+},
 ]"></List>
 
 </div>
