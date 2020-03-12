@@ -269,6 +269,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
     to: 'https://bwb.is',
     title: 'bwb.is',
   },
+  {
+    img: '/img/organizers/tegg.io.png',
+    to: 'https://tegg.io',
+    title: 'tegg.io',
+  },
 ]"></Organizers>
 
 </div>
