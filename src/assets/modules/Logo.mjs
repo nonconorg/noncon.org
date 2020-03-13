@@ -1,5 +1,5 @@
 export const View = ({ branding, root }) =>
-  Link({ to: root, class: 'Logo' }, [Img('/noncon2020-logo.png')])
+  Link({ to: root, class: 'Logo' }, [Img('/virtualnoncon-logo.jpg')])
 
 export const style = vars => ({
   float: 'left',
