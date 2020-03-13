@@ -425,11 +425,6 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   title: 'Fair Data Society',
 },
 {
-  img: '/img/community/loki-network.jpg',
-  to: 'https://loki.network/',
-  title: 'Loki Network',
-},
-{
   img: '/img/community/condensat.tech.png',
   to: 'https://condensat.tech/',
   title: 'Condensat Bank',
