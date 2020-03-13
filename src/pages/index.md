@@ -6,29 +6,63 @@
 
 ## <p>Not a Conference.</p><p>Not a Conjob.</p>
 
-It's not what you do or where you go, it's the friends you make along the way.
+It's not what you do or where you go, it's the friends you make along the way. Open source Blockchain projects celebrate permissionless innovation and self sovereignty. We subscribe to these values and support them flowing out into other social spaces. [Read More...](https://www.parallele.at/not-a-conference-not-a-conjob/)
+
+### From meatspace to cyberspace
 
 As of Tuesday March 10, the austrian govt has restricted public events to a maximum of 100 attendees in closed spaces, and to 500 attendees in open spaces. Our contracted venue, RaumD has informed us that we can have a maximum of 10 people in the space. As a result of these limitations, we have decided to turn noncon2020 during the same dates of 3-6 april into a virtual conference under the following conditions:
 
-We will host all speakers who still want to travel to vienna in our coworking
-space at https://parallele.at, and record / livestream their talks, but there
-will be no tickets for members of the public, only the group of your peers.
-
-Those who do not plan to travel to Vienna, we will either allow to submit a
-prerecorded talk to be broadcast via our livestream channel, or to give your
-talk remotely via videochat.
+We will host all speakers who still want to travel to vienna in our coworking space at https://parallele.at, and record / livestream their talks, but there will be no tickets for members of the public, only the group of your peers. Those who do not plan to travel to Vienna, we will either allow to submit a prerecorded talk to be broadcast via our livestream channel, or to give your talk remotely via videochat.
 
 Please respond on [this Typeform](https://the-commons-stack.typeform.com/to/EjlEhQ) what your personal preference is,
-so that we can create an agenda for the production on Monday March 16th, and
-publish confirmed speakers to our website and via social media channels.
+so that we can create an agenda for the production, and publish confirmed speakers to our website and via social media channels. The deadline to apply as a new speaker is Friday, March 20th. 
 
-The main topics are tilted towards community, development,
-and security, and inclusive of interests outside the Ethereum ecosystem
+</div>
+
+<div id="virtual-venues">
+
+## Virtual Venues
+
+There will be a lobby, and three rooms / tracks, each with individual livestreams, including the Parallele Polis, Cryptoeconomics Institute, and Metatrack. A calendar agenda for each of the rooms will be available here on our website before the event takes place so that you can plan which talks you want to participate in. The main topics are tilted towards community, development, and security, and inclusive of interests outside the Ethereum ecosystem
 to include all cypherpunk and privacy focused individuals and communities.
 
-Open source Blockchain projects celebrate permissionless innovation and self sovereignty.
-We subscribe to these values and support them flowing out into other social spaces.
-[Read More...](https://www.parallele.at/not-a-conference-not-a-conjob/)
+### Youtube Livestream
+
+<Img class="pageImg" src="/img/youtube-livechannel.jpg" height="400"></Img>
+
+We will stream all three rooms / tracks live on our [youtube channel](https://www.youtube.com/channel/UCsF67FGXtv4lplQyQSPizbQ).
+
+### Interspace
+
+<Img class="pageImg" src="/img/interspace-mock.jpg" height="400"></Img>
+
+The primary virtual conference location using our self-hosted open-source [jitsi implementation](https://github.com/nonconorg/interspace.noncon.org), mirrored in data centers on multiple continents, which allows us to embed the livestreams, AND provide video and text chat for particpants. [Sign up Here](https://the-commons-stack.typeform.com/to/EjlEhQ).
+
+### VR Hubs
+<Img class="pageImg" src="/img/mozilla-hubs.jpg" height="400"></Img>
+
+For virtual mingling, with or without VR glasses, the four rooms / tracks will also be available with live streams and VR mingling / text / audio chat and cute avatars in [Mozilla Hubs](https://hubs.mozilla.com/KivhW8q/intercon-outdoor-conference-room) We will be adding links to additional VR spaces carrying our livestream here. If you are a builder or a host of a VR space in other portals / formats, and you would like to host our live streams, get in touch with us via [Telegram](https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA) or [email](mailto:info@parallele.at)
+
+### Crytpvoxels
+
+<Img class="pageImg" src="/img/cryptovoxels-interspace.jpg" height="400"></Img>
+
+There will be an interspace.noncon [spawning location in Cryptovoxels](https://www.cryptovoxels.com/parcels/1322) - a user owned virtual world powered by the [Ethereum](https://www.ethereum.org/) blockchain.
+
+</div>
+
+<div id="livestream-production-venue">
+
+## Livestream Production Venue
+
+<Img class="pageImg" src="/img/paperhub-sw.jpg" height="400"></Img>
+
+There are no passes available for the public, only speakers and production personal
+will be accomodated for livestream production at Parallele Polis'
+[Paper Hub coworking space](https://www.parallele.at/#paperhub-coworking),
+a short trip via
+[public transport](https://goo.gl/maps/gsexB5PEtPrsy3ha8)
+from Vienna's city center.
 
 </div>
 
@@ -37,7 +71,7 @@ We subscribe to these values and support them flowing out into other social spac
 ## Tickets
 
 Tickets are no longer available as there will be no public event, only the invite-
-only production event at Parallele Polis. If you would like to participate online
+only production event at Parallele Polis. If you would like to participate /attend the online
 virtualNONCON, please signal your intention / preferences [here](https://the-commons-stack.typeform.com/to/EjlEhQ).
 
 </div>
@@ -80,47 +114,6 @@ Lunchbreak 14:30 - 16:00
 Closing Speeches, Bounty Winners, etc. 16 - 18:00
 
 </div>
-
-<div id="livestream-production-venue">
-
-## Livestream Production Venue
-
-<Img class="pageImg" src="/img/paperhub-sw.jpg" height="400"></Img>
-
-There are no passes available for the public, only speakers and production personal
-will be accomodated for livestream production at Parallele Polis'
-[Paper Hub coworking space](https://www.parallele.at/#paperhub-coworking),
-a short trip via
-[public transport](https://goo.gl/maps/gsexB5PEtPrsy3ha8)
-from Vienna's city center.
-
-</div>
-
-<div id="virtual-venues">
-
-## Virtual Venues
-
-<Img class="pageImg" src="/img/interspace-mock.jpg" height="400"></Img>
-
-We will stream all talks live on our [youtube channel](https://www.youtube.com/channel/UCsF67FGXtv4lplQyQSPizbQ).
-
-We will also provide a primary virtual conference location using our self-hosted open-source [jitsi implementation](https://github.com/nonconorg/interspace.noncon.org), mirrored in data centers on multiple continents, which allows us to embed the livestreams, AND provide video and text chat for particpants. [Sign up Here](https://the-commons-stack.typeform.com/to/EjlEhQ).
-
-There will be a lobby, and three rooms / tracks, each with individual livestreams, including the Parallele Polis, Cryptoeconomics Institute, and Metatrack virtual spaces. A calendar agenda for each of the rooms will be available here on our website before the event takes place so that you can plan which talks you want to participate in.
-
-
-<Img class="pageImg" src="/img/cryptovoxels-interspace.jpg" height="400"></Img>
-
-For those of you into virtual 3d spaces, there will be an interspace.noncon [spawning location in Cryptovoxels](https://www.cryptovoxels.com/parcels/1322) - a user owned virtual world powered by the [Ethereum](https://www.ethereum.org/) blockchain.
-
-<Img class="pageImg" src="/img/mozilla-hubs.jpg" height="400"></Img>
-
-The four interspace rooms will also be available with live streams and VR mingling / text / audio chat and cute avatars in [Mozilla Hubs](https://hubs.mozilla.com/KivhW8q/intercon-outdoor-conference-room)
-
-We will be adding links to additional VR spaces carrying our livestream here. If you are a builder or a host of a VR space in other portals / formats, and you would like to host our live streams, get in touch with us via [Telegram](https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA) or [email](mailto:info@parallele.at)
-
-</div>
-
 
 <div class="Speakers">
 
@@ -222,7 +215,6 @@ Blockchain and Sustainability - Overhyped or Undervalued?
 Human-Readable Smart Contracts
 
 </div>
-
 
 <div id="contacts">
 
