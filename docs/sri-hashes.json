@@ -1,10 +1,10 @@
 {
   "css": "sha384-aFkIoboVA+jLnueiR0qYBcLNAxQbFgkcPLAO+joq8Lv56z2R9XJCT96tnltJ5ZPr",
-  "js": "sha384-GNIPol0yv8wIUoIdfrh9AeRVASUIomtC4wSbsMMLyfhbT6HiauA+YiiV3TWaRqhU",
+  "js": "sha384-CoEsvLCiuagovUQ5LTc5dxgUkq+pt3r8gbB5zXzwpq+h8w+lA2n/TBTZCefF811V",
   "pages": {
-    "/": "sha384-zCaHveodda5jPuaJ7+R+KdwguTr+iz6F+lbbR6pcjXIrzC6FG1u3U3sCyxt3w3Gh",
-    "/404/": "sha384-C+xRaWqnDcuk6chujB0kGOvhnuMl58L1JKYsdmOqDF6o/KAfi2KDQnPIkmfGFez0",
-    "/privacy/": "sha384-3hHYE9CkXpg5S8IoVlmJsldhIHeYuVajsJQ1U7kvtNZN9uqgiruEBaHo58CW6eyn"
+    "/": "sha384-Sk9rX+VIFYdgsPaqu/Xq78iVY8ivr4XEsgi9net/GLRY9tG64VwTiMX24D5Xt7jq",
+    "/404/": "sha384-tnRa5AbyMZbKNb2lz2SZEW//iftSk/1KIfPxKiwd5Cnqgx1M9oewBKwG5sWuJ5Dh",
+    "/privacy/": "sha384-NIyRfd2hITjX1vLv3Oy5zqFYaNEvXRe2NB1cK8OK+fw00pWH7VxZHoGkaYhdT7as"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -66,7 +66,10 @@
     "/img/sponsors/raiden.jpg": "sha384-fN3LdkXM+RtQewNdocQePPLIm3xExasZyK6nCf4mhE8/IbqjkelGIOZ8tZafgas9",
     "/img/sponsors/shift.png": "sha384-FD2i3REIle2trOndRNKVdZNpXrsRmn7rpf+XWqyQaCGA1sESYsWkyh0x5OVBgDeg",
     "/img/sponsors/status.png": "sha384-zYDj2ywzH+5eZJpIVJDzVoK6NA+N9VWq82Bh/u/G5tFbopbeJfQQ1ZXAQwOLqYqY",
-    "/img/virtualnoncon-logo.jpg": "sha384-3zhCQysdCNo1c7E3B745HzsDSbz8PaV5cUZF71F5UwLqz6kDdC2K0o4vKI1xk7nf",
+    "/img/virtualnoncon-logo-black-trans.png": "sha384-kaGwVHOA6ODMyhVqEJKcbUnaSjhFYgjOqmtdyiqbYTADtPrNxj3Zkn88PEFoxkvx",
+    "/img/virtualnoncon-logo-dark.jpg": "sha384-LmUq2twyxspmn11vgO4Pu39NwDtnoRNbFr8zVfteYhYE2ZO+Ji/UdxFc7dLJSH40",
+    "/img/virtualnoncon-logo-light.jpg": "sha384-3zhCQysdCNo1c7E3B745HzsDSbz8PaV5cUZF71F5UwLqz6kDdC2K0o4vKI1xk7nf",
+    "/img/virtualnoncon-logo-white-trans.png": "sha384-T3pwNzrfbY5nmmQZb6TX0UUxPBjjwtTY9bxNlcQWsZoHw8MnTtPRLEhpHKEA+2Km",
     "/img/youtube-livechannel.jpg": "sha384-3lBB06R4ScH60CS27z7cvIQAx1attgquk+tnjzlr+E+8fUbhOn0X59i3Es/iCK++",
     "/logo.png": "sha384-Q3ypbBxUVOxlS92PA5BWRCO0jK6/I0dFDAUPTLnLF6ZMgJCJMEjIydBjUUYfNtGJ",
     "/noncon2020-logo-white-bg.jpg": "sha384-86NY4wSqdIjCPRyuNWQfQS8A3r1ZmL1M4A6q09dpAakjH0QNVxGvnXKGJ2IQvBX4",
