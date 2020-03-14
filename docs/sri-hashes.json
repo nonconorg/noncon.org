@@ -1,10 +1,10 @@
 {
-  "css": "sha384-y+V0otoremjv+FWtd6oJGYvxpH5FC2Dwj2hhOPC//uwIO4NXLXw578ndI8gBJ6R6",
-  "js": "sha384-vZfTfBTiUsBMWEkqnkJqYVHgQC+R29k5Wmbw4mUhJGgKDBenmlnYn6sjftXmUrk9",
+  "css": "sha384-aFkIoboVA+jLnueiR0qYBcLNAxQbFgkcPLAO+joq8Lv56z2R9XJCT96tnltJ5ZPr",
+  "js": "sha384-01dgaVkImIa4gkfpzC9PZRpQrEh6oM4pauJAd6zgjWG9DBgXGnoH0QwIZzGOFxmA",
   "pages": {
-    "/": "sha384-KgfmCfAw3BAUTyvkeYHuC2so0/UTcgkKXD9lyjwCuYz3UlnoX4elG8rYmGPOcxlR",
-    "/404/": "sha384-sy08Vph3KAdTLzcPaSfNKvV9Ky18wYRH5OVpFnp6vAXChgQLpTN9puMdmcI3sTgr",
-    "/privacy/": "sha384-+OsKcXyM123HLI3gJ1E73z2BrzvMhFroKFHK4rbrQIlIHiXmFaZ+pJyjxetZhRmf"
+    "/": "sha384-wsi+GXvU1FrLSxUe+FTWul4pzJHngqpRw6d9Ro7TOQX2wtYze76ahsKXzVeTGu6i",
+    "/404/": "sha384-JS7+0co43zoYthsL1WG/sqcMLWzN4KnQD0ii1QiYR2IBSUfBRLnqBddCREO7k5eY",
+    "/privacy/": "sha384-MUmBaEFcHPb3FE+OHuWkhDvta93cvshWu5RiTy9ck1HZ14yhxv0uW5HpjaB2gWp4"
   },
   "static": {
     "/CNAME": "sha384-y1E3/F6fmeLZb8pngQ6GnpWfliHuRRkTeI0dDslspF5aj6e2/vAmRK+0TdLbN/Pm",
@@ -15,6 +15,7 @@
     "/img/community/DoD.png": "sha384-Ufj0guwJ/CxGywS6Yi8Dwtxm211sX7PA93PaZcYbdmE0NJoFE39korkVOTDrl6Ak",
     "/img/community/artis.eco.jpg": "sha384-yAz0//jFMdbunvazvzf+wT/xiOUxLck5sk+PBUqzsLcubtva3SOn0PlQKLKAd9Gr",
     "/img/community/bitcoin-austria.png": "sha384-bYCDSKqTifMJ8qHE1BUut3KVtSR+hKtNI8Gnd6yeKFz5/ikSaaUxC0qkzCT8MCWw",
+    "/img/community/bitfly.at.jpg": "sha384-c3VpenApzBEef8RIj69h4HbuQVriUCTl+lkRcc+G2YsPGIOGEpvcB2rPKlDhg/U9",
     "/img/community/codechain.png": "sha384-Ot1ZsmiRUScuhP+KPImJXRqTmQSUC4j1F8K3533/y7D5cF/wSXFyvu+MALjFsQM0",
     "/img/community/commonsstack.png": "sha384-M7Vg8L8oXJK2fl/iorMJ8fxw4cdTNKkmyTyW7huHIc8NKR+5/vOuXaJsALtsU8/u",
     "/img/community/condensat.tech.png": "sha384-/Jwu7D13zUbbqXkQfWJeCcPLocSTmzal/7al8g8DTF35qXVRChfxz6VLfQm9u/XO",
@@ -56,6 +57,7 @@
     "/img/organizers/bwb.png": "sha384-Cuq+mv2C/45Fe5qxl6YHpMObdXVFDuYCIDS1zCeN3BSWG8LWeP7ZoN1b28FccUuB",
     "/img/organizers/institue-for-cryptoeconomics.jpg": "sha384-ezs+urCSp++VcPitfqXSrZhF1SW1nBaYq9QxTU1W8NAwzIQEMMp4O43R56VBqTuq",
     "/img/organizers/parallele.jpg": "sha384-jiR5n1dLYrgKQ8l7RQVuWUPlSZiuE5I47ngvHWyhFuqZARqBgaztpfU766ljVx2H",
+    "/img/organizers/tegg.io.png": "sha384-vJv2DY3h6okc2rNrpWcEJdoOqQ+biKwZSMqtcUBfwzibni8N0d9STTgJrvHZM9fh",
     "/img/paperhub-sw.jpg": "sha384-vZg3SvG7okvIvDgKQ0HwkP/PnkhBJy3Gg1q9MbzOBq91jZW1fjgI6rMGPfZTRZfb",
     "/img/qryptoquberaumd.jpg": "sha384-Nhw786FaCdxmd9DOkk7cQlREW2OCNMmrk4BMWdqcob2oKJVjAQ3/dM0Iz+tAng92",
     "/img/sponsors/keycard.png": "sha384-VFw435ofA8naQnxyK3J0PpZu+Zlsg9V/IqDt4TedMIM1c0ChPK/hxvyVqnDuI3yy",
@@ -64,10 +66,12 @@
     "/img/sponsors/raiden.jpg": "sha384-fN3LdkXM+RtQewNdocQePPLIm3xExasZyK6nCf4mhE8/IbqjkelGIOZ8tZafgas9",
     "/img/sponsors/shift.png": "sha384-FD2i3REIle2trOndRNKVdZNpXrsRmn7rpf+XWqyQaCGA1sESYsWkyh0x5OVBgDeg",
     "/img/sponsors/status.png": "sha384-zYDj2ywzH+5eZJpIVJDzVoK6NA+N9VWq82Bh/u/G5tFbopbeJfQQ1ZXAQwOLqYqY",
+    "/img/virtualnoncon-logo.jpg": "sha384-3zhCQysdCNo1c7E3B745HzsDSbz8PaV5cUZF71F5UwLqz6kDdC2K0o4vKI1xk7nf",
+    "/img/youtube-livechannel.jpg": "sha384-3lBB06R4ScH60CS27z7cvIQAx1attgquk+tnjzlr+E+8fUbhOn0X59i3Es/iCK++",
     "/logo.png": "sha384-Q3ypbBxUVOxlS92PA5BWRCO0jK6/I0dFDAUPTLnLF6ZMgJCJMEjIydBjUUYfNtGJ",
     "/noncon2020-logo-white-bg.jpg": "sha384-86NY4wSqdIjCPRyuNWQfQS8A3r1ZmL1M4A6q09dpAakjH0QNVxGvnXKGJ2IQvBX4",
     "/noncon2020-logo.png": "sha384-oiSaA/myQ8D1kp16bI1mQWmKs/bUWguuWN/rCggArhYY9jTio2h+HsjUvRJe62/2",
     "/robots.txt": "sha384-hWab9nDjega468pWIRjKpsihTLGkTuK2au4gH6EtmHj5zy3Kou4Sowouxr7P0ieq",
-    "/sitemap.xml": "sha384-ipWFWem90RtTCzgnhxfV72FQmvz37D++NbwFa4o0TZ2Zbow9+ibZBV+XXypvi6Gm"
+    "/sitemap.xml": "sha384-wABwHnUgy5rh9nOd2td/QIZDpllngYf9SDx4q1LPar/63jdU+0lcDT2rYABXwfaW"
   }
 }
