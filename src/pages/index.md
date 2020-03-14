@@ -15,7 +15,7 @@ As of Tuesday March 10, the austrian govt has restricted public events to a maxi
 We will host all speakers who still want to travel to vienna in our coworking space at https://parallele.at, and record / livestream their talks, but there will be no tickets for members of the public, only the group of your peers. Those who do not plan to travel to Vienna, we will either allow to submit a prerecorded talk to be broadcast via our livestream channel, or to give your talk remotely via videochat.
 
 Please respond on [this Typeform](https://the-commons-stack.typeform.com/to/EjlEhQ) what your personal preference is,
-so that we can create an agenda for the production, and publish confirmed speakers to our website and via social media channels. The deadline to apply as a new speaker is Friday, March 20th. 
+so that we can create an agenda for the production, and publish confirmed speakers to our website and via social media channels. The deadline to apply as a new speaker is Friday, March 20th.
 
 </div>
 
@@ -252,11 +252,6 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
     title: 'parallele polis',
   },
   {
-    img: '/img/organizers/institue-for-cryptoeconomics.jpg',
-    to: 'https://www.wu.ac.at/cryptoeconomics',
-    title: 'Cryptoeconomic Institute',
-  },
-  {
     img: '/img/organizers/bwb.png',
     to: 'https://bwb.is',
     title: 'bwb.is',
@@ -265,6 +260,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
     img: '/img/organizers/tegg.io.png',
     to: 'https://tegg.io',
     title: 'tegg.io',
+  },
+  {
+    img: '/img/organizers/institue-for-cryptoeconomics.jpg',
+    to: 'https://www.wu.ac.at/cryptoeconomics',
+    title: 'Cryptoeconomic Institute',
   },
 ]"></Organizers>
 
