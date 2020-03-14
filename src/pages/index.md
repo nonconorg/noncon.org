@@ -245,7 +245,7 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 
 ## Organizers
 
-<Organizers items="[
+<List items="[
   {
     img: '/img/organizers/parallele.jpg',
     to: 'https://parallele.at',
@@ -266,7 +266,7 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
     to: 'https://www.wu.ac.at/cryptoeconomics',
     title: 'Cryptoeconomic Institute',
   },
-]"></Organizers>
+]"></List>
 
 </div>
 
