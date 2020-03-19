@@ -469,6 +469,21 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   to: 'https://bitfly.at',
   title: 'Bitfly',
 },
+{
+  img: '/img/community/mattereum.com-logo.png',
+  to: 'https://mattereum.com',
+  title: 'Mattereum',
+},
+{
+  img: '/img/community/vron-logo.png',
+  to: 'https://vron.at',
+  title: 'Vron',
+},
+{
+  img: '/img/community/cryptowiener-logo.png',
+  to: 'https://vron.at/cryptowiener/',
+  title: 'Cryptowiener',
+},
 ]"></List>
 
 </div>
