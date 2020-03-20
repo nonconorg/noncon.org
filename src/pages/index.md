@@ -498,6 +498,11 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   to: 'https://bitcoinundco.com',
   title: 'Bitcoin und co',
   },
+  {
+  img: '/img/mediapartners/interspacechat-avatar-150-light.png',
+  to: 'https://interspace.chat',
+  title: 'Interspace',
+  },
 ]"></List>
 
 </div>
