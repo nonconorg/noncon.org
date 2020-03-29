@@ -80,38 +80,7 @@ virtualNONCON, please signal your intention / preferences [here](https://the-com
 
 ## Schedule (All Times are UTC+01:00)
 
-### Friday, April 3
-
-Talks and Workshops 10:00 - 14:30
-
-Lunchbreak 14:30 - 16:00
-
-Talks and Workshops 16:00 - 20:00
-
-### Saturday, April 4
-
-Talks and Workshops 10:00 - 14:30
-
-Lunchbreak 14:30 - 16:00
-
-Talks and Workshops 16:00 - 20:00
-
-### Sunday, April 5
-
-Talks and Workshops 10 - 14:30
-
-Lunchbreak 14:30 - 16:00
-
-Talks and Workshops 16:00 - 20:00
-
-
-### Monday April 6
-
-Talks and Workshops 10:00 - 14:30
-
-Lunchbreak 14:30 - 16:00
-
-Closing Speeches, Bounty Winners, etc. 16 - 18:00
+# TBA
 
 </div>
 
