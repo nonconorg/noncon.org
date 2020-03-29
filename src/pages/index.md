@@ -476,66 +476,6 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 
 </div>
 
-<div id="covid">
-
-## Looking Covid-19 in The Eye
-
-<Img src="/img/in-the-eye.jpg"></Img>
-
-It's the reason for the edcon cancellation after all.
-We believe that public communication needs to shift from
-[containment to coping](https://www.psandman.com/col/swineflu2.htm),
-based on lessons learned from past viral infections.
-Are we Crazy? Well, lets say we are willing to take a calculated risk.
-
-Digital Natives travel widely to attend numerous conferences throughout the year,
-yet we are observably not following COVID-19 preventative practices.
-
-And yet, the motives to be pro-active about COVID-19 are simple.
-
-We want to protect our teams, friends, and families.
-We want to protect the wider community.
-We want to protect the healthcare and social systems we rely on.
-
-How do we plan to proceed with our conference?
-
-### Things that we will provide:
-
-[Surgical hand sanitizer](https://en.wikipedia.org/wiki/Hand_sanitizer#Surgical_hand_disinfection)
-(EN 12054 certified)
-and Masks.
-[(It\\\'s a cypherpunk event after all)](https://twitter.com/TheRealSmuggler/status/1203361366708494342?s=20)
-
-### Sanitization Process
-
-First, every attendee will be required to sanitize their hands.
-
-Then, we will provide disinfectant for the masks.
-You will hodl your mask,
-our team will handle the disinfectant,
-to prevent the bottle(s) from being our infection vector.
-
-Those without a mask will get a bandana from us.
-
-<Img class="center" src="/img/bandana.png"></Img>
-
-We advise everyone to wear some kind of glasses or goggles. <DealWithIt state></DealWithIt>
-
-After sanitizing your hands,
-please make sure to cough into your elbow and not in your hands.
-
-Try not to touch your eyes, pick your nose, suck your thumb.
-
-Wash and/or sanitize your hands both **before and after** using the toilets
-
-Please only touch people you touch on a regular basis anyways. No group cuddles, sorry.
-
-[Read more...](https://www.parallele.at/lets-look-covid-19-dead-in-the-eye/)
-
-[Information Collection Platform for Covid-19 Epidemic Prevention](https://github.com/wuhan2020/wuhan2020/blob/master/README_EN.md)
-
-</div>
-
 <div>
 
 <Cta to="https://app.ens.domains/name/noncon.eth" text="Donate"></Cta>
