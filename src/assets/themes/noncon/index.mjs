@@ -80,6 +80,11 @@ export default (v = {}) => {
       },
     },
 
+    iframe: {
+      margin: '0 auto',
+      display: 'block',
+    },
+
     'h1, h2, h3': {
       color: vars.text.dark,
     },
