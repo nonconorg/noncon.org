@@ -31,7 +31,7 @@
 
 <div>
 
-## <p>Not a Conference.</p><p>Not a Conjob.</p>
+## <p>Not a Conference. Not a Conjob.</p>
 
 It's not what you do or where you go, it's the friends you make along the way. Open source Blockchain projects celebrate permissionless innovation and self sovereignty. We subscribe to these values and support them flowing out into other social spaces. [Read More...](https://www.parallele.at/not-a-conference-not-a-conjob/)
 
@@ -52,11 +52,9 @@ Please remember to abide by [Video Conferencing Best Practices](https://www.goog
 You don't need one. NonCon is free, and non-coercive. Opt-in. If you feel like donating, we'll accept any token at the [noncon.eth](https://etherscan.io/address/noncon.eth) address, or you can contribute to our [interspace.chat gitcoin grant](https://gitcoin.co/grants/516/interspacechat?tab=description) and get those sweet sweet multiples during the 5th Matching Round. Although we have no production costs associated with a conference produced in meatspace, the hours of organization, pre-production, public communication are just as high as with a normal event.
 When the livestreams have ended, all individual talks will be available in edited form in playlists on our Youtube channel,
 so any donation you make will also be to the benefit of our videoslaves.
-
 </div>
-
 <div>
-
+  
 ## Financial Support for NonCon has been provided by:
 
 <List items="[
@@ -98,8 +96,11 @@ This is the only privacy compromise this website (and the conference) makes.
 Otherwise, we do not gather user data. Check our [Privacy Notice.](https://noncon.org/privacy/)
 
 - Click each speaker event to expand for details.
+
 - Links to Youtube Livestreams, Interspace Video Conference for Speaker Q & A, and links to Discord Chat Channels available in the description for each speaker event.
+
 - Save the whole calender or individual events to your calender to set notifications & share with your colleagues. and to keep up to date on changes / updates.
+
 
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FVienna&amp;src=N3RtbnFxamZtdnB2dGIyNTdycDNlNDkxbmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=bDRxbGtzZDgyZDJhZzFia2ljOHB1NDRxbGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=aWo1cmVzcGM2bHFpN2Y5ZWVkYmcxZWlkbnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=NDgzY3RzbjZkZzIydWp0NW9uczlvOHBmcHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23000000&amp;color=%23F4511E&amp;color=%234285F4&amp;color=%238E24AA&amp;mode=AGENDA" width="900" height="900"></iframe>
 
@@ -144,8 +145,11 @@ There will be an interspace.noncon [spawning location in Cryptovoxels](https://w
 Text chat and comments will be disabled on our Youtube, but you can hang out in Discord while you watch the livestream, and chat with friends, colleagues, and peers, or ask our speakers a question. You will need to provide an email address to access the chat if you do not already have a Discord ID. Discord Channels are available both in the noncon.interspace.chat venue interface, via browser, or using a discord client on your desktop, laptop, or mobile device.
 
 [General Chat (tech support)](https://discord.gg/QC6CjCE)
+
 [Parallel Society Chat](https://discord.gg/NdZVXm6)
+
 [Cryptoeconomics Lab Chat](https://discord.gg/QZByNqX)
+
 [Metatrack Chat](hhttps://discord.gg/spGqfPV)
 
 Don't forget to [follow us on Twitter](https://twitter.com/ParallelePolis) to keep up to date :-)
