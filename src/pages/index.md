@@ -150,7 +150,7 @@ Text chat and comments will be disabled on our Youtube, but you can hang out in 
 
 [Cryptoeconomics Lab Chat](https://discord.gg/QZByNqX)
 
-[Metatrack Chat](hhttps://discord.gg/spGqfPV)
+[Metatrack Chat](https://discord.gg/spGqfPV)
 
 Don't forget to [follow us on Twitter](https://twitter.com/ParallelePolis) to keep up to date :-)
 
