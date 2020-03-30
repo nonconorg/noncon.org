@@ -1,215 +1,5 @@
 <Hero state></Hero>
 
-<Cta to="https://the-commons-stack.typeform.com/to/EjlEhQ" text="SIGNUP for virtualNONCON"></Cta>
-
-<div>
-
-## <p>Not a Conference.</p><p>Not a Conjob.</p>
-
-It's not what you do or where you go, it's the friends you make along the way. Open source Blockchain projects celebrate permissionless innovation and self sovereignty. We subscribe to these values and support them flowing out into other social spaces. [Read More...](https://www.parallele.at/not-a-conference-not-a-conjob/)
-
-### From meatspace to cyberspace
-
-As of Tuesday March 10, the austrian govt has restricted public events to a maximum of 100 attendees in closed spaces, and to 500 attendees in open spaces. Our contracted venue, RaumD has informed us that we can have a maximum of 10 people in the space. As a result of these limitations, we have decided to turn noncon2020 during the same dates of 3-6 april into a virtual conference under the following conditions:
-
-We will host all speakers who still want to travel to vienna in our coworking space at https://parallele.at, and record / livestream their talks, but there will be no tickets for members of the public, only the group of your peers. Those who do not plan to travel to Vienna, we will either allow to submit a prerecorded talk to be broadcast via our livestream channel, or to give your talk remotely via videochat.
-
-Please respond on [this Typeform](https://the-commons-stack.typeform.com/to/EjlEhQ) what your personal preference is,
-so that we can create an agenda for the production, and publish confirmed speakers to our website and via social media channels. The deadline to apply as a new speaker is Friday, March 20th.
-
-</div>
-
-<div id="virtual-venues">
-
-## Virtual Venues
-
-There will be a lobby, and three rooms / tracks, each with individual livestreams, including the Parallele Polis, Cryptoeconomics Institute, and Metatrack. A calendar agenda for each of the rooms will be available here on our website before the event takes place so that you can plan which talks you want to participate in. The main topics are tilted towards community, development, and security, and inclusive of interests outside the Ethereum ecosystem
-to include all cypherpunk and privacy focused individuals and communities.
-
-### Youtube Livestream
-
-<Img class="pageImg" src="/img/youtube-livechannel.jpg" height="400"></Img>
-
-We will stream all three rooms / tracks live on our [youtube channel](https://www.youtube.com/channel/UCsF67FGXtv4lplQyQSPizbQ).
-
-### Interspace
-
-<Img class="pageImg" src="/img/interspace-mock.jpg" height="400"></Img>
-
-The primary virtual conference location using our self-hosted open-source [jitsi implementation](https://github.com/nonconorg/interspace.noncon.org), mirrored in data centers on multiple continents, which allows us to embed the livestreams, AND provide video and text chat for particpants. [Sign up Here](https://the-commons-stack.typeform.com/to/EjlEhQ).
-
-### VR Hubs
-<Img class="pageImg" src="/img/mozilla-hubs.jpg" height="400"></Img>
-
-For virtual mingling, with or without VR glasses, the four rooms / tracks will also be available with live streams and VR mingling / text / audio chat and cute avatars in [Mozilla Hubs](https://hubs.mozilla.com/KivhW8q/intercon-outdoor-conference-room) We will be adding links to additional VR spaces carrying our livestream here. If you are a builder or a host of a VR space in other portals / formats, and you would like to host our live streams, get in touch with us via [Telegram](https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA) or [email](mailto:info@parallele.at)
-
-### Crytpvoxels
-
-<Img class="pageImg" src="/img/cryptovoxels-interspace.jpg" height="400"></Img>
-
-There will be an interspace.noncon [spawning location in Cryptovoxels](https://www.cryptovoxels.com/parcels/1322) - a user owned virtual world powered by the [Ethereum](https://www.ethereum.org/) blockchain.
-
-</div>
-
-<div id="livestream-production-venue">
-
-## Livestream Production Venue
-
-<Img class="pageImg" src="/img/paperhub-sw.jpg" height="400"></Img>
-
-There are no passes available for the public, only speakers and production personal
-will be accomodated for livestream production at Parallele Polis'
-[Paper Hub coworking space](https://www.parallele.at/#paperhub-coworking),
-a short trip via
-[public transport](https://goo.gl/maps/gsexB5PEtPrsy3ha8)
-from Vienna's city center.
-
-</div>
-
-<div id="tickets">
-
-## Tickets
-
-Tickets are no longer available as there will be no public event, only the invite-
-only production event at Parallele Polis. If you would like to participate /attend the online
-virtualNONCON, please signal your intention / preferences [here](https://the-commons-stack.typeform.com/to/EjlEhQ).
-
-</div>
-
-<div id="schedule">
-
-## Schedule (All Times are UTC+01:00)
-
-# TBA
-
-</div>
-
-<div class="Speakers">
-
-## Speakers
-
-Listed in the order we received their application; we'll be adding more!
-
-### [Artem Vorotnikov](https://twitter.com/vorot93)
-OpenEthereum onboarding and development
-
-### [Anja Blaj](https://twitter.com/AnjaBlaj)
-Legal challenges and dimensions for virtual conducts
-
-### [Stefan Starflinger](https://twitter.com/stefan_star)
-Deep dive into the ETH 2.0 Beacon Chain explorer
-
-### [Jacob Czepluch](https://twitter.com/_czepluch)
-Layer 2 scalability and payment channels
-
-### [Maria Magenes](https://twitter.com/mariamagenes1)
-DeFi and the role of Maker
-
-### [Maria-Paula Fernandez](https://twitter.com/MPtherealMVP) & [Stina Gustafsson](https://twitter.com/stinalinneag)
-Blockchain and art
-
-### [Alessandro Mario Laganà Toschi](https://twitter.com/alessandromlt) & [Marco Vasapollo](https://twitter.com/vasapower_)
-DFO: The Next wave of Dapps without founders
-
-### [John Adler](https://twitter.com/jadler0)
-Fuel: Scaling Ethereum with Optimistic Rollups
-
-### [Eldar Khamitov](https://www.linkedin.com/in/ekhamitov/)
-Multi-Party Computation in cryptowallets
-
-### [Thomas Zeinzinger](https://twitter.com/tze42)
-Minerva - Digital Wallet Multiverse
-
-### [Johan Barbie](https://twitter.com/johba)
-layer-2, rollups, plasma, onboarding-ux
-
-### [Afri Schoeden](https://https://twitter.com/a4fri)
-Something Something Görli
-
-### [Griff Green](https://twitter.com/thegrifft)
-Using Token Engineering to align incentives around non-profit causes
-
-### [Speaker TBA](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md)
-Aeternity's Sophia smart contract language
-
-### [Anita Posch](https://twitter.com/AnitaPosch)
-Bitcoin Should be Making a Difference in Zimbabwe and Botswana ... But Is It?
-
-### [Zak Cole](https://twitter.com/0xzak)
-P2P Networks & Peer Discovery
-
-### [Viktor Trón](https://https://twitter.com/zeligf)
-The Book of Swarm
-
-### [Matilde Park](https://twitter.com/matildepark_)
-Creating interfaces for P2P communities
-
-### [Jascha Ehrenreich](https://keybase.io/jascha)
-Solving Trust On First Use with @webboot
-
-### [Gregor Žavcer](https://twitter.com/jssr)
-Striving towards a Society of Fair Data
-
-### [Julien Guitton](https://twitter.com/weedcoder)
-Removing Friction with Crypto-native banking
-
-### [Rachel Black](https://twitter.com/rachblondon)
-Building with composable data and user identities
-
-### [Dave Appleton](https://twitter.com/appletondave)
-Gold as a store of value for international financial inclusion / social impact projects
-
-### [Igor Barinov](https://twitter.com/barinov)
-Arbitrary Message Bridge for Ethereum interoperability
-
-### [Yisi Liu](https://twitter.com/TheYisiLiu)
-Surrender No Privacy to You‑Know‑Who.
-
-### [Branimir Rakić](https://twitter.com/origin_trail)
-Optimizing cost and avoiding bottlenecks for high data throughputs with off-chain solutions
-
-### [Dr. David Forstenlechner](https://twitter.com/dforsten)
-Honey Badger BFT: Performance & Integration into OpenEthereum powered ARTIS Blockchain
-
-### [Alexei Zamyatin](https://twitter.com/alexeiZamyatin)
-Cross-chain Communication: Impossible or Incentive Compatible?
-
-### [Beth McCarthy](https://twitter.com/ontologymachine)
-Designing Ecosystems for P2P Data Exchange
-
-### [Horst Treiblmaier](https://scholar.google.at/citations?user=7K32h3QAAAAJ&hl=en)
-Blockchain and Sustainability - Overhyped or Undervalued?
-
-### [Henning Diedrich](https://twitter.com/hdiedrich)
-Human-Readable Smart Contracts
-
-</div>
-
-<div id="contacts">
-
-## Connect
-
-If you would like to attend, sponsor, or speak at NonCon 2020 in Vienna,
-sign up via [this Typeform](https://the-commons-stack.typeform.com/to/EjlEhQ)
-(thx to [Commons Stack](https://commonsstack.org))
-and we'll keep you informed.
-
-Join our
-[Keybase Team Chat](https://keybase.io/team/nonconorg)
-to collaborate with us on production.
-
-Join our
-[Telegram Channel](https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA)
-to coordinate with other attendees.
-
-Don't forget to
-[follow us on Twitter](https://twitter.com/ParallelePolis)
-to keep up to date :-)
-
-Oldskool-stylee: [email](mailto:info@parallele.at)
-
-</div>
-
 <div>
 
 ## Organizers
@@ -241,7 +31,31 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 
 <div>
 
-## Financial Support
+## <p>Not a Conference.</p><p>Not a Conjob.</p>
+
+It's not what you do or where you go, it's the friends you make along the way. Open source Blockchain projects celebrate permissionless innovation and self sovereignty. We subscribe to these values and support them flowing out into other social spaces. [Read More...](https://www.parallele.at/not-a-conference-not-a-conjob/)
+
+### From meatspace to cyberspace
+
+NonCon is an inclusive Safe Space. Please honour the [Parallele Polis Code of Conduct](https://www.google.com/url?q=https://www.parallele.at/code-of-conduct/&sa=D&usd=2&usg=AOvVaw0fLqBewS8z2AKFyutpMBPR) when participating in our virtual event venues in the same manner you would in meatspace. Moderators will kick / ban attendees who violate community standards of behaviour. 
+
+Since we are livestreaming the speakers to our [Youtube Channel](https://www.youtube.com/channel/UCsF67FGXtv4lplQyQSPizbQ) utilizing [Open Broadcast Software](https://en.wikipedia.org/wiki/Open_Broadcaster_Software), we request that those who join do so with their cameras turned on, and microphones muted, for that true meatspace conference feeling. If you want to interact with our speakers live during their Q & A, or merely want to give them an audience to look at and consent to your face / voice to be recorded and broadcast on Youtube, join the appropriate track at [noncon.interspace.chat](https://noncon.interspace.chat) at the appropriate time. 
+
+Please remember to abide by [Video Conferencing Best Practices](https://www.google.com/url?q=https://uit.stanford.edu/videoconferencing/best-practices&sa=D&usd=2&usg=AOvVaw06KBcuZ83Nn15iI2LdHZJ_) to insure the best experience for the speaker, yourself, and your peers who are participating. Signal to the speakers that you will attend by subscribing to individual speaker events in the Google Calendar embedded below.
+
+</div>
+
+<div id="tickets">
+
+## Tickets
+
+You don't need one. NonCon is free, and non-coercive. Opt-in. If you feel like donating, we'll accept any token at the [noncon.eth](https://etherscan.io/address/noncon.eth) address, or you can contribute to our [interspace.chat gitcoin grant](https://gitcoin.co/grants/516/interspacechat?tab=description) and get those sweet sweet multiples during the 5th Matching Round. Although we have no production costs associated with a conference produced in meatspace, the hours of organization, pre-production, public communication are just as high as with a normal event. When the livestreams have ended, all individual talks will be available in edited form in playlists on our Youtube channel, so any donation you make will also be to the benefit of our videoslaves. 
+
+</div>
+
+<div>
+
+## Financial Support for NonCon has been provided by:
 
 <List items="[
 {
@@ -265,16 +79,73 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
   title: 'keycard',
 },
 {
-  img: '/img/sponsors/poa-network.png',
-  to: 'https://www.poa.network/',
-  title: 'POA Network',
-},
-{
   img: '/img/sponsors/shift.png',
   to: 'https://shiftcrypto.ch/',
   title: 'shift cryptosec',
 },
 ]"></List>
+
+</div>
+
+<div id="schedule">
+
+## Schedule (All Times are GMT+01:00)
+
+- Apology: Google. Yeah, we know. It is not cypherpunk. But it's efficient, and a standard that "works" for everyone. This is the only privacy compromise this website (and the conference) makes. Otherwise, we do not gather user data. Check our [Privacy Notice.](https://noncon.org/privacy/)
+- Click each speaker event to expand for details.
+- Links to Youtube Livestreams, Interspace Video Conference for Speaker Q & A, and links to Discord Chat Channels available in the description for each speaker event. 
+- Save the whole calender or individual events to your calender to set notifications & share with your colleagues. and to keep up to date on changes / updates. 
+
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FVienna&amp;src=N3RtbnFxamZtdnB2dGIyNTdycDNlNDkxbmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=bDRxbGtzZDgyZDJhZzFia2ljOHB1NDRxbGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=aWo1cmVzcGM2bHFpN2Y5ZWVkYmcxZWlkbnNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=NDgzY3RzbjZkZzIydWp0NW9uczlvOHBmcHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23000000&amp;color=%23F4511E&amp;color=%234285F4&amp;color=%238E24AA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+</div>
+
+<div id="virtual-venues">
+
+## Virtual Venues
+
+There will be a lobby, and three rooms / tracks, each with individual livestreams, including the Parallele Polis, Cryptoeconomics Institute, and Metatrack. A calendar agenda for each of the rooms will be available here on our website before the event takes place so that you can plan which talks you want to participate in. The main topics are tilted towards community, development, and security, and inclusive of interests outside the Ethereum ecosystem
+to include all cypherpunk and privacy focused individuals and communities.
+
+### Youtube Livestream
+
+<Img class="pageImg" src="/img/youtube-livechannel.jpg" height="400"></Img>
+
+We will stream all three rooms / tracks live on our [youtube channel](https://www.youtube.com/channel/UCsF67FGXtv4lplQyQSPizbQ).
+
+### Interspace
+
+<Img class="pageImg" src="/img/interspace-mock.jpg" height="400"></Img>
+
+The primary virtual conference location using our self-hosted open-source [jitsi implementation](https://noncon.interspace.chat), mirrored in data centers on multiple continents, which allows us to embed the livestreams, AND provide video and text chat for particpants.
+
+### VR Hubs
+<Img class="pageImg" src="/img/mozilla-hubs.jpg" height="400"></Img>
+
+For virtual mingling, with or without VR glasses, the three rooms / tracks will also be available with live streams and VR mingling / text / audio chat and cute avatars in [Mozilla Hubs](https://hubs.mozilla.com/KivhW8q/intercon-outdoor-conference-room) We will be adding links to additional VR spaces carrying our livestream here. If you are a builder or a host of a VR space in other portals / formats, and you would like to host our live streams, get in touch with us via [Telegram](https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA) or [email](mailto:info@parallele.at)
+
+### Crytpvoxels
+
+<Img class="pageImg" src="/img/cryptovoxels-interspace.jpg" height="400"></Img>
+
+There will be an interspace.noncon [spawning location in Cryptovoxels](https://www.cryptovoxels.com/parcels/1322) - a user owned virtual world powered by the [Ethereum](https://www.ethereum.org/) blockchain.
+
+</div>
+
+<div id="contacts">
+
+## Connect
+
+Text chat and comments will be disabled on our Youtube, but you can hang out in Discord while you watch the livestream, and chat with friends, colleagues, and peers, or ask our speakers a question. You will need to provide an email address to access the chat if you do not already have a Discord ID. Discord Channels are available both in the noncon.interspace.chat venue interface, via browser, or using a discord client on your desktop, laptop, or mobile device. 
+
+[General Chat (tech support)](https://discord.gg/QC6CjCE)
+[Parallel Society Chat](https://discord.gg/NdZVXm6)
+[Cryptoeconomics Lab Chat](https://discord.gg/QZByNqX)
+[Metatrack Chat](hhttps://discord.gg/spGqfPV)
+
+Don't forget to [follow us on Twitter](https://twitter.com/ParallelePolis) to keep up to date :-)
+
+Oldskool-stylee: [email](mailto:info@parallele.at)
 
 </div>
 
