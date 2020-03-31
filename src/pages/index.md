@@ -49,8 +49,9 @@ Please remember to abide by [Video Conferencing Best Practices](https://www.goog
 
 ## Tickets
 
-You don't need one. NonCon is free, and non-coercive. Opt-in. If you feel like donating, we'll accept any token at the [noncon.eth](https://etherscan.io/address/noncon.eth) address, or you can contribute to our [interspace.chat gitcoin grant](https://gitcoin.co/grants/516/interspacechat?tab=description) and get those sweet sweet multiples during the 5th Matching Round. Although we have no production costs associated with a conference produced in meatspace, the hours of organization, pre-production, public communication are just as high as with a normal event.
-When the livestreams have ended, all individual talks will be available in edited form in playlists on our Youtube channel,
+You don't need one. NonCon is free, and non-coercive. Opt-in. If you feel like donating, we'll accept any token at the [noncon.eth](https://etherscan.io/address/noncon.eth) address, or you can contribute to our [interspace.chat gitcoin grant](https://gitcoin.co/grants/516/interspacechat?tab=description) and get those sweet sweet multiples during the 5th Matching Round. Those who don't have, or don't want a gitcoin account can donate diretly to the [support.interspace.eth](https://etherscan.io/address/support.interspace.eth) address 
+
+Although we have no production costs associated with a conference produced in meatspace, the hours of organization, pre-production, public communication are just as high as with a normal event. When the livestreams have ended, all individual talks will be available in edited form in playlists on our Youtube channel,
 so any donation you make will also be to the benefit of our videoslaves.
 </div>
 <div>
@@ -89,7 +90,7 @@ so any donation you make will also be to the benefit of our videoslaves.
 
 <div id="schedule">
 
-## Schedule (All Times are GMT+01:00)
+## Schedule (All Times are GMT+02:00)
 
 - Apology: Google. Yeah, we know. It is not cypherpunk. But it's efficient, and a standard that "works" for everyone.
 This is the only privacy compromise this website (and the conference) makes.
