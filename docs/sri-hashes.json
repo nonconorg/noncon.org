@@ -1,11 +1,11 @@
 {
   "css": "sha384-T8vK7Ebrb7AwNj3PLpDhFz+VKq2tnWS3c6fZaluQO/ZDgFglXgeP091xDVvRW0CO",
-  "js": "sha384-yEx7m6kR+DvvfGDWTih+gkDvhaWSPnS+spE+bHKCDZyPjF5AIk6iWN7ktemvUbR9",
+  "js": "sha384-xaTvwYaY1VJZiIr3k4tMObeWjq/ZtzMTS2go9Y6HMjnKKOYIE1k2v3oQL4OIh4Yo",
   "pages": {
-    "/": "sha384-zyI0wvmnWTtR4tGAyDudhd780hXTodNNSW06El9B0LdcSAisyftwX+8wdd16PXD3",
-    "/404/": "sha384-qMKI9XRtGrjuSwTNEmlPXGo2RKqLkFHnsdbVhbOMyN32lU0hDDx3ui+uji+02Ngv",
-    "/about/": "sha384-vchBcpahVk8rponLSgOUaoWWXN59yimYnCcTlJmDaDJJojL35OYIMkScya3CrLoY",
-    "/privacy/": "sha384-5cgOyQrouS/u64JQ7B7NX3OwP1s+MJg357jrBFWkSyZJ3Co44wJhiTWTrbs0gCvB"
+    "/": "sha384-zHTzbQhgnmrtwpudkM2OJam9yVxqr21Nc0wWva6LjLNmePHvwQdH4dY8dYvsF2Oq",
+    "/404/": "sha384-I9pbrjGNe7/uaEIexQtC+ka95B+Koh9vvvNZgH7pS1/jNrAo7n2mqQO0T7dW33P4",
+    "/about/": "sha384-BmBFn9Qx4wev3/35YVGN1qxgoYM69SUr0U//FcYk4oSKOVOzEmtTAqjhSfde6POu",
+    "/privacy/": "sha384-AsDugJ50aEdI0DRm9WtT4JjTQGQ2VvtI5SJO2AnodcfYUORTwWBpWbxjUykYS20I"
   },
   "static": {
     "/robots.txt": "sha384-hWab9nDjega468pWIRjKpsihTLGkTuK2au4gH6EtmHj5zy3Kou4Sowouxr7P0ieq",
