@@ -9,6 +9,14 @@ export const state = {
   //   { to: '/events/', text: 'Events' },
   // ],
 
+  seo: {
+    custom: [
+      {
+        'data-ad-client': "ca-pub-7938900206625974",
+      },
+    ],
+  },
+
   hero: {
     // title: 'Not a Conference. Not a Conjob.',
     // description: 'more info soon.',
