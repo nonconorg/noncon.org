@@ -1,6 +1,6 @@
 export const state = {
   title: 'NonCon 2020',
-  description: ['Not a Conference.', ' Not a Conjob.', ' 3-6. April 2020, Interspace'],
+  description: ['Not a Conference.', ' Not a Conjob.', ' 3-5. April 2020, Interspace'],
   image: '/img/noncon2020-banner.jpg',
 
   menu: [],
