@@ -47,7 +47,6 @@ Please remember to abide by [Video Conferencing Best Practices](https://www.goog
 
 <Donate></Donate>
 
-
 <div>
 
 ## Financial Support for NonCon has been provided by:
