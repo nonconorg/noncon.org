@@ -58,7 +58,6 @@ export default (v = {}) => {
       color: v.background.dark,
       textShadow: 'none',
 
-
       '.light &&': {
         color: v.text.dark,
         backgroundColor: v.background.dark,

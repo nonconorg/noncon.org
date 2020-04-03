@@ -12,7 +12,7 @@ export const state = {
   seo: {
     custom: [
       {
-        'data-ad-client': "ca-pub-7938900206625974",
+        'data-ad-client': 'ca-pub-7938900206625974',
       },
     ],
   },
