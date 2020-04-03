@@ -7,28 +7,42 @@
 
 <url>
   <loc>https://noncon.org/</loc>
-  <lastmod>2020-04-02</lastmod>
+  <lastmod>2020-04-03</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 <url>
   <loc>https://noncon.org/404/</loc>
-  <lastmod>2020-04-02</lastmod>
+  <lastmod>2020-04-03</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 <url>
   <loc>https://noncon.org/about/</loc>
-  <lastmod>2020-04-02</lastmod>
+  <lastmod>2020-04-03</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://noncon.org/donate/</loc>
+  <lastmod>2020-04-03</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
 
 <url>
   <loc>https://noncon.org/privacy/</loc>
-  <lastmod>2020-04-02</lastmod>
+  <lastmod>2020-04-03</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+
+<url>
+  <loc>https://noncon.org/raffle/</loc>
+  <lastmod>2020-04-03</lastmod>
   <changefreq>weekly</changefreq>
   <priority>0.5</priority>
 </url>
