@@ -45,19 +45,11 @@ Please remember to abide by [Video Conferencing Best Practices](https://www.goog
 
 </div>
 
-<div id="tickets">
+<Donate></Donate>
 
-## Tickets: You don't need one. But you can donate :-)
 
-NonCon is free, and non-coercive. Opt-in. 
-
-If you feel like donating, we'll accept any token at the [noncon.eth](https://etherscan.io/address/noncon.eth) address, or you can contribute to our [interspace.chat gitcoin grant](https://gitcoin.co/grants/516/interspacechat?tab=description) and get those sweet sweet multiples during the 5th Matching Round. Those who don't have, or don't want a gitcoin account can donate diretly to the [support.interspacechat.eth](https://etherscan.io/address/support.interspacechat.eth) address 
-
-Although we have no production costs associated with a conference produced in meatspace, the hours of organization, pre-production, public communication are just as high as with a normal event. When the livestreams have ended, all individual talks will be available in edited form in playlists on our Youtube channel,
-so any donation you make will also be to the benefit of our videoslaves.
-</div>
 <div>
-  
+
 ## Financial Support for NonCon has been provided by:
 
 <List items="[
@@ -138,7 +130,7 @@ The primary virtual conference location using our self-hosted open-source [jitsi
 
 For virtual mingling, with or without VR glasses, the three rooms / tracks will also be available with live streams and VR mingling / text / audio chat and cute avatars in [Mozilla Hubs](https://hubs.mozilla.com/KivhW8q/intercon-outdoor-conference-room) We will be adding links to additional VR spaces carrying our livestream here. If you are a builder or a host of a VR space in other portals / formats, and you would like to host our live streams, get in touch with us via [Telegram](https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA) or [email](mailto:info@parallele.at)
 
-### Crytpvoxels
+### Cryptovoxels
 
 <Img class="pageImg" src="/img/cryptovoxels-interspace.jpg" height="400"></Img>
 
