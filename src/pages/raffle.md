@@ -2,13 +2,17 @@
 
 # raffle
 
-the raffle will happen on sunday (or after that, as soon as i have written it).
+the raffle will happen on sunday
+(or after that, as soon as we have implemented the functionality.).
+
+it will happen on this url:
+[https://noncon.org/raffle/](https://noncon.org/raffle/)
+that you are visiting now.
 
 ### abstract
 
-* use rust [seedableRng](https://rust-num.github.io/num/rand/trait.SeedableRng.html)
-* predefine a block before it is mined.
-* use that hash as seed.
+* predefine a blocktime in the future.
+* use the hash of this block + x minutes of blocks as seed.
 * find x users, distribute devices.
 
 more info, including a link to the raffle git and docs will follow here soon.
