@@ -1,3 +1,5 @@
+<div>
+
 # raffle
 
 the raffle will happen on sunday (or after that, as soon as i have written it).
@@ -10,3 +12,5 @@ the raffle will happen on sunday (or after that, as soon as i have written it).
 * find x users, distribute devices.
 
 more info, including a link to the raffle git and docs will follow here soon.
+
+</div>
