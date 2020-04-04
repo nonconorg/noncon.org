@@ -53,6 +53,11 @@ Please remember to abide by [Video Conferencing Best Practices](https://www.goog
 
 <List items="[
 {
+  img: '/img/sponsors/ethereum-ecosystem-support.png',
+  to: 'https://ecosystem.support/',
+  title: 'ecosystem support',
+},
+{
   img: '/img/sponsors/parity.jpg',
   to: 'https://parity.io/substrate',
   title: 'parity',
