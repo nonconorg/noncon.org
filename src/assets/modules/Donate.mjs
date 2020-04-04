@@ -80,7 +80,7 @@ export const View = () =>
 
     p([
       'all proceeds go towards our non-profit dao "Parallele Polis"',
-      Link('https://noncon.org/impressum/'),
+      Link({ to: 'https://noncon.org/impressum/' }),
       ' and will be used to finance the work of our volunteers,',
       ' as well as covering for hosting and other infrastructure cost',
       ' for this conference and for the future conferences we will host for other organisations.',
