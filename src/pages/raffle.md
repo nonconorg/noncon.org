@@ -6,8 +6,7 @@ the raffle will happen on sunday
 (or after that, as soon as we have implemented the functionality.).
 
 it will happen on this url:
-[https://noncon.org/raffle/](https://noncon.org/raffle/)
-that you are visiting now.
+[https://raffle.noncon.org/](https://raffle.noncon.org/)
 
 ### abstract
 
