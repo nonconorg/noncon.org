@@ -51,11 +51,12 @@ export const state = {
       ],
     },
     three: {
-      title: 'Network',
+      title: 'Organizers',
       menu: [
         { to: 'https://parallele.at', text: 'parallele.at' },
         { to: 'https://bwb.is', text: 'bwb.is' },
-        // { to: 'https://riat.at', text: 'riat.at' },
+        { to: 'https://tegg.io', text: 'tegg.io' },
+        { to: 'https://www.wu.ac.at/cryptoeconomics', text: 'wu.ac.at/cryptoeconomics'}
       ],
     },
   },
