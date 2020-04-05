@@ -40,6 +40,8 @@ export const View = () =>
 
     h2('NFT Raffles'),
 
+    h3(Link({ to: 'https://raffle.noncon.org/terms/', text: 'Full Raffle Conditions' })),
+
     p('Choose one of the Mintbase tokens below to enter one (or both) of the raffles.'),
 
     h2(
@@ -64,32 +66,6 @@ export const View = () =>
     p(
       'This Mintbase NFT represents a raffle ticket offering the chance to win 1 of 10 Status Keycards.',
     ),
-
-    h2('Full Raffle Conditions'),
-
-    p([
-      'Neither NFT represents a purchase, but a chance to win according to the rules detailed above.',
-    ]),
-
-    p([
-      'We are very sorry for the possibly misleading wording in the mintbase nft token description,',
-      ' unfortunately, human error is an unintended sideeffect of too many things to do and not enought time.',
-      ' 3 of our team sat together, and all of us were part of the communication finalizing creation of the nfts.',
-      ' None of us thought about immutability.',
-    ]),
-
-    p([
-      'all proceeds go towards our non-profit dao "Parallele Polis"',
-      Link({ to: 'https://noncon.org/impressum/' }),
-      ' and will be used to finance the work of our volunteers,',
-      ' as well as covering for hosting and other infrastructure cost',
-      ' for this conference and for the future conferences we will host for other organisations.',
-    ]),
-
-    p([
-      'A more technical description for the raffle can be found on the ',
-      Link({ to: '/raffle/', text: 'raffle page' }),
-    ]),
 
     List({
       items: [
