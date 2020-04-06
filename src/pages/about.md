@@ -49,7 +49,7 @@ Please remember to abide by [Video Conferencing Best Practices](https://www.goog
 
 ## Tickets: You don't need one. But you can Donate :-)
 
-If you feel like donating, we'll accept any token at the [noncon.eth](https://etherscan.io/address/noncon.eth) address, or you can contribute to our [interspace.chat gitcoin grant](https://gitcoin.co/grants/516/interspacechat?tab=description) and get those sweet sweet multiples during the 5th Matching Round. Those who don't have, or don't want a gitcoin account can donate diretly to the [support.interspacechat.eth](https://etherscan.io/address/support.interspacechat.eth) address 
+If you feel like donating, we'll accept any token at the [noncon.eth](https://etherscan.io/address/noncon.eth) address, or you can contribute to our [interspace.chat gitcoin grant](https://gitcoin.co/grants/516/interspacechat?tab=description) and get those sweet sweet multiples during the 5th Matching Round. Those who don't have, or don't want a gitcoin account can donate diretly to the [support.interspacechat.eth](https://etherscan.io/address/support.interspacechat.eth) address
 
 Although we have no production costs associated with a conference produced in meatspace, the hours of organization, pre-production, public communication are just as high as with a normal event. When the livestreams have ended, all individual talks will be available in edited form in playlists on our Youtube channel,
 so any donation you make will also be to the benefit of our videoslaves.
@@ -57,10 +57,15 @@ so any donation you make will also be to the benefit of our videoslaves.
 </div>
 
 <div>
-  
+
 ## Financial Support for NonCon has been provided by:
 
 <List items="[
+{
+  img: '/img/sponsors/ethereum-ecosystem-support.png',
+  to: 'https://ecosystem.support/',
+  title: 'ecosystem support',
+},
 {
   img: '/img/sponsors/parity.jpg',
   to: 'https://parity.io/substrate',
