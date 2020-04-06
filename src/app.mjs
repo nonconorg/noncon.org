@@ -15,6 +15,12 @@ export const state = {
         'data-ad-client': 'ca-pub-7938900206625974',
       },
     ],
+    seo: {
+      name: 'NonCon 2020',
+      url: `https://noncon.org/`,
+      about: 'Not a Conference. Not a Conjob. 3-5. April 2020, Interspace',
+      image: `https://noncon.org/img/noncon2020-banner-light.jpg`,
+    },
   },
 
   hero: {
