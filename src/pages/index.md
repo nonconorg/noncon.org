@@ -7,22 +7,22 @@
 <List items="[
   {
     img: '/img/organizers/parallele.jpg',
-    to: 'https://parallele.at',
+    to: 'https://parallele.at/',
     title: 'parallele polis',
   },
   {
     img: '/img/organizers/bwb.png',
-    to: 'https://bwb.is',
+    to: 'https://bwb.is/',
     title: 'bwb.is',
   },
   {
     img: '/img/organizers/tegg.io.png',
-    to: 'https://tegg.io',
+    to: 'https://tegg.io/',
     title: 'tegg.io',
   },
   {
     img: '/img/organizers/institue-for-cryptoeconomics.jpg',
-    to: 'https://www.wu.ac.at/cryptoeconomics',
+    to: 'https://www.wu.ac.at/cryptoeconomics/',
     title: 'Cryptoeconomic Institute',
   },
 ]"></List>
@@ -54,12 +54,12 @@ Please remember to abide by [Video Conferencing Best Practices](https://www.goog
 <List items="[
 {
   img: '/img/sponsors/ethereum-ecosystem-support.png',
-  to: 'https://ecosystem.support/',
+  to: 'https://esp.ethereum.foundation',
   title: 'ecosystem support',
 },
 {
   img: '/img/sponsors/parity.jpg',
-  to: 'https://parity.io/substrate',
+  to: 'https://www.parity.io/technologies/substrate/',
   title: 'parity',
 },
 {
@@ -179,7 +179,7 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 },
 {
   img: '/img/community/metacartel.png',
-  to: 'https://metacartel.org',
+  to: 'https://www.metacartel.org',
   title: 'Metacartel',
 },
 {
@@ -189,7 +189,7 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 },
 {
   img: '/img/community/commonsstack.png',
-  to: 'https://comonsstack.org',
+  to: 'https://commonsstack.org',
   title: 'Commons Stack',
 },
 {
@@ -239,7 +239,7 @@ Oldskool-stylee: [email](mailto:info@parallele.at)
 },
 {
   img: '/img/community/swarm.png',
-  to: 'https://swarm.ethereum.org',
+  to: 'https://www.ethswarm.org/',
   title: 'Swarm',
 },
 {
