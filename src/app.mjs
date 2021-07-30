@@ -52,7 +52,7 @@ export const state = {
       menu: [
         { to: 'https://keybase.io/noncon', text: 'keybase' },
         { to: 'https://github.com/nonconorg', text: 'github' },
-        { to: 'https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA', text: 'telegram' },
+        // { to: 'https://t.me/joinchat/E9fhuBVwENCRcC3-df9wxA', text: 'telegram' },
         { to: 'https://twitter.com/ParallelePolis', text: 'twitter' },
       ],
     },
@@ -62,7 +62,7 @@ export const state = {
         { to: 'https://parallele.at', text: 'parallele.at' },
         { to: 'https://bwb.is', text: 'bwb.is' },
         { to: 'https://tegg.io', text: 'tegg.io' },
-        { to: 'https://www.wu.ac.at/cryptoeconomics', text: 'wu.ac.at/cryptoeconomics'}
+        { to: 'https://www.wu.ac.at/cryptoeconomics', text: 'wu.ac.at/cryptoeconomics' }
       ],
     },
   },
