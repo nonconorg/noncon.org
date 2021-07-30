@@ -2,6 +2,7 @@
   "name": "noncon.org",
   "version": "0.23.5",
   "private": true,
+  "type": "module",
   "scripts": {
     "start": "t -p",
     "format": "f -w --exclude docs",
